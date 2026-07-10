@@ -71,6 +71,7 @@ function startQuiz(num) {
 }
 
 function showQuestion() {
+    document.getElementById('exit-btn').classList.remove('hidden');
     if (currentPool.length === 0) return showResults();
 
     const q = currentPool[currentIndex];
