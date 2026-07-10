@@ -13,6 +13,7 @@
     </header>
 
     <main>
+        <!-- Setup Screen -->
         <div id="setup" class="setup-panel">
             <h2>Start a New Quiz</h2>
             
@@ -27,30 +28,31 @@
                 </select>
             </div>
 
-            <button id="start-btn" class="btn-primary">Load Questions & Start Quiz</button>
-            
+            <button id="start-btn" class="btn-primary">Start Quiz</button>
             <div id="file-status" class="status">Loading questions from questions.txt...</div>
         </div>
 
+        <!-- Quiz Screen -->
         <div id="quiz-container" class="quiz-panel hidden">
             <div class="progress">
-                <span id="progress-text">Question <span id="current-q">1</span> of <span id="total-q">10</span></span>
+                <span>Question <span id="current-q">1</span> of <span id="total-q">10</span></span>
                 <div class="progress-bar">
                     <div id="progress-fill" class="progress-fill"></div>
                 </div>
             </div>
 
             <div id="question-text" class="question"></div>
+            <div id="feedback" class="feedback hidden"></div>
             
             <div id="options" class="options-container"></div>
 
             <div class="navigation">
-                <button id="prev-btn" class="btn-nav">Previous</button>
-                <button id="next-btn" class="btn-nav">Next</button>
-                <button id="submit-btn" class="btn-primary hidden">Finish Quiz</button>
+                <button id="exit-btn" class="btn-nav">Exit to Menu</button>
+                <button id="next-btn" class="btn-primary hidden">Next Question</button>
             </div>
         </div>
 
+        <!-- Results Screen -->
         <div id="results" class="results-panel hidden">
             <h2>Quiz Complete!</h2>
             <div id="score" class="score"></div>
