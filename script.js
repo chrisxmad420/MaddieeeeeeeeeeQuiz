@@ -120,13 +120,14 @@ function handleAnswer(selectedIdx, q) {
         score++;
         currentPool.splice(currentIndex, 1); // Remove correct question
         if (currentPool.length > 0) currentIndex = currentIndex % currentPool.length;
-    } else {
+        totalAnswered++;
+    }/* else {
         // Move wrong question to the end for retry
         const wrongQ = currentPool.splice(currentIndex, 1)[0];
         currentPool.push(wrongQ);
-    }
+    }*/
 
-    totalAnswered++;
+    //totalAnswered++;
     document.getElementById('next-btn').classList.remove('hidden');
 }
 
