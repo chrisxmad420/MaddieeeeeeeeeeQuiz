@@ -121,11 +121,11 @@ function handleAnswer(selectedIdx, q) {
         currentPool.splice(currentIndex, 1); // Remove correct question
         if (currentPool.length > 0) currentIndex = currentIndex % currentPool.length;
         totalAnswered++;
-    }/* else {
+    } else {
         // Move wrong question to the end for retry
         const wrongQ = currentPool.splice(currentIndex, 1)[0];
         currentPool.push(wrongQ);
-    }*/
+    }
 
     //totalAnswered++;
     document.getElementById('next-btn').classList.remove('hidden');
