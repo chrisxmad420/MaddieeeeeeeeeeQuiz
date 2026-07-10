@@ -1,8 +1,8 @@
 let questions = [];
-let currentQuestions = [];
-let answers = [];
+let currentPool = [];
 let currentIndex = 0;
 let score = 0;
+let totalAnswered = 0;
 
 async function loadQuestions() {
     try {
@@ -12,7 +12,7 @@ async function loadQuestions() {
         questions = parseQuestions(text);
         document.getElementById('file-status').textContent = `Loaded ${questions.length} questions successfully!`;
     } catch (error) {
-        document.getElementById('file-status').innerHTML = `<strong style="color:red">Error loading questions.txt</strong>`;
+        document.getElementById('file-status').innerHTML = `<strong style="color:red">Error: questions.txt not found</strong>`;
     }
 }
 
@@ -36,7 +36,7 @@ function parseQuestions(text) {
         else if (line.toUpperCase().startsWith('ANS:') || line.toUpperCase().startsWith('ANSWER:')) {
             if (currentQ) currentQ.answer = line.substring(line.indexOf(':') + 1).trim().toUpperCase();
         }
-        else if (line.toUpperCase().startsWith('EXPLANATION:') || line.toUpperCase().startsWith('Answer is')) {
+        else if (line.toUpperCase().startsWith('EXPLANATION:') || line.toUpperCase().includes('Answer is')) {
             if (currentQ) {
                 currentQ.explanation = line.replace(/^(Explanation:|Answer is [A-D]:?)/i, '').trim();
             }
@@ -49,85 +49,111 @@ function parseQuestions(text) {
 
 function startQuiz(num) {
     if (questions.length === 0) return alert("No questions loaded");
-    currentQuestions = [...questions];
+    
+    currentPool = [...questions];
     if (num !== 'all') {
         const n = parseInt(num);
-        currentQuestions.sort(() => Math.random() - 0.5);
-        currentQuestions = currentQuestions.slice(0, n);
+        if (n < currentPool.length) {
+            currentPool.sort(() => Math.random() - 0.5);
+            currentPool = currentPool.slice(0, n);
+        }
     }
-    answers = new Array(currentQuestions.length).fill(null);
+
+    score = 0;
+    totalAnswered = 0;
     currentIndex = 0;
 
     document.getElementById('setup').classList.add('hidden');
     document.getElementById('quiz-container').classList.remove('hidden');
+    document.getElementById('results').classList.add('hidden');
+
     showQuestion();
 }
 
 function showQuestion() {
-    const q = currentQuestions[currentIndex];
-    document.getElementById('current-q').textContent = currentIndex + 1;
-    document.getElementById('total-q').textContent = currentQuestions.length;
-    document.getElementById('progress-fill').style.width = `${(currentIndex / currentQuestions.length) * 100}%`;
+    if (currentPool.length === 0) return showResults();
+
+    const q = currentPool[currentIndex];
+    document.getElementById('current-q').textContent = totalAnswered + 1;
+    document.getElementById('total-q').textContent = currentPool.length + totalAnswered;
+
+    document.getElementById('progress-fill').style.width = `${Math.round((totalAnswered / (totalAnswered + currentPool.length)) * 100)}%`;
     document.getElementById('question-text').textContent = q.question;
 
     const optionsDiv = document.getElementById('options');
     optionsDiv.innerHTML = '';
+    document.getElementById('feedback').classList.add('hidden');
+    document.getElementById('next-btn').classList.add('hidden');
+
     q.options.forEach((opt, idx) => {
         const letter = String.fromCharCode(65 + idx);
         const el = document.createElement('div');
         el.className = 'option';
         el.innerHTML = `<strong>${letter}.</strong> ${opt}`;
         el.dataset.index = idx;
-        el.onclick = () => selectAnswer(idx);
+        el.onclick = () => handleAnswer(idx, q);
         optionsDiv.appendChild(el);
     });
-
-    updateNavButtons();
 }
 
-function selectAnswer(idx) {
-    answers[currentIndex] = idx;
-    document.querySelectorAll('.option').forEach((el, i) => el.classList.toggle('selected', i === idx));
-}
+function handleAnswer(selectedIdx, q) {
+    const options = document.querySelectorAll('.option');
+    const correctIdx = q.options.findIndex((_, idx) => String.fromCharCode(65 + idx) === q.answer);
+    const isCorrect = selectedIdx === correctIdx;
 
-function updateNavButtons() {
-    document.getElementById('prev-btn').disabled = currentIndex === 0;
-    document.getElementById('next-btn').classList.toggle('hidden', currentIndex === currentQuestions.length - 1);
-    document.getElementById('submit-btn').classList.toggle('hidden', currentIndex !== currentQuestions.length - 1);
-}
+    options.forEach(opt => opt.style.pointerEvents = 'none');
 
-// Event Listeners
-document.getElementById('prev-btn').onclick = () => { if(currentIndex>0){currentIndex--; showQuestion();}};
-document.getElementById('next-btn').onclick = () => { if(currentIndex < currentQuestions.length-1){currentIndex++; showQuestion();}};
-document.getElementById('submit-btn').onclick = showResults;
-document.getElementById('start-btn').onclick = () => startQuiz(document.getElementById('num-questions').value);
-document.getElementById('restart-btn').onclick = () => location.reload();
-
-function showResults() {
-    score = 0;
-    let reviewHTML = '';
-
-    currentQuestions.forEach((q, i) => {
-        const userAnswer = answers[i];
-        const correctIdx = q.options.findIndex((_, idx) => String.fromCharCode(65 + idx) === q.answer);
-        const isCorrect = userAnswer === correctIdx;
-        if (isCorrect) score++;
-
-        const userLetter = userAnswer !== null ? String.fromCharCode(65 + userAnswer) : '—';
-
-        reviewHTML += `
-            <div style="padding:18px; margin:12px 0; background:#f8fafd; border-radius:10px; border-left:6px solid ${isCorrect ? '#7bc96f' : '#e74c3c'}">
-                <strong>Q${i+1}:</strong> ${q.question}<br><br>
-                <strong>Your answer:</strong> ${userLetter}<br>
-                <strong>Correct answer:</strong> ${q.answer}<br>
-                ${q.explanation ? `<strong>Explanation:</strong> ${q.explanation}` : ''}
-            </div>
-        `;
+    options.forEach((opt, i) => {
+        if (i === correctIdx) opt.style.borderColor = '#7bc96f';
+        if (i === selectedIdx && !isCorrect) opt.style.borderColor = '#e74c3c';
     });
 
-    const percentage = Math.round((score / currentQuestions.length) * 100);
-    document.getElementById('score').innerHTML = `${score} / ${currentQuestions.length} (${percentage}%)`;
-    document.getElementById('review').innerHTML = reviewHTML;
+    const feedback = document.getElementById('feedback');
+    feedback.classList.remove('hidden');
+    feedback.style.color = isCorrect ? '#7bc96f' : '#e74c3c';
+    feedback.innerHTML = isCorrect ? 
+        `<strong>✅ Correct!</strong>` : 
+        `<strong>❌ Incorrect.</strong> The correct answer is <strong>${q.answer}</strong>.`;
+
+    if (isCorrect) {
+        score++;
+        currentPool.splice(currentIndex, 1); // Remove correct question
+        if (currentPool.length > 0) currentIndex = currentIndex % currentPool.length;
+    } else {
+        // Move wrong question to the end for retry
+        const wrongQ = currentPool.splice(currentIndex, 1)[0];
+        currentPool.push(wrongQ);
+    }
+
+    totalAnswered++;
+    document.getElementById('next-btn').classList.remove('hidden');
+}
+
+document.getElementById('next-btn').addEventListener('click', showQuestion);
+
+document.getElementById('exit-btn').addEventListener('click', () => {
+    if (confirm("Exit to main menu? Progress will be lost.")) {
+        document.getElementById('quiz-container').classList.add('hidden');
+        document.getElementById('setup').classList.remove('hidden');
+    }
+});
+
+document.getElementById('start-btn').addEventListener('click', () => {
+    const num = document.getElementById('num-questions').value;
+    startQuiz(num);
+});
+
+document.getElementById('restart-btn').addEventListener('click', () => location.reload());
+
+function showResults() {
+    const percentage = totalAnswered > 0 ? Math.round((score / totalAnswered) * 100) : 0;
+    
+    document.getElementById('score').innerHTML = `
+        ${score} / ${totalAnswered} correct<br>
+        <span style="font-size:1.5rem">(${percentage}%)</span>
+    `;
+
+    document.getElementById('review').innerHTML = `<p>Well done! You have completed the adaptive quiz.</p>`;
 
     document.getElementById('quiz-container').classList.add('hidden');
     document.getElementById('results').classList.remove('hidden');
