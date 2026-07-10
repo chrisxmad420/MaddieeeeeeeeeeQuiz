@@ -1,20 +1,3089 @@
-Q: What is the capital of France?
-A) London
-B) Madrid
-C) Paris
-D) Rome
-ANS: C
+1.Which of the listed terms is described by: “All the chemical processes that take place in the organelles and cytoplasm the cells of the body”?
+A.  Metabolism
+B.  Cellular respiration
+C.  Homeostasis
+D.  Physiology
+Answer is A: The quoted statement is a definition of metabolism
 
-Q: What is 15 + 27?
-A) 32
-B) 41
-C) 42
-D) 52
-ANS: C
+2.Which major organ lies deep to the right hypochondriac region?
+A. The stomach
+B. The spleen
+C. The liver
+D. The duodenum
+Answer is C: hypochondriac = below the rib cartilage; liver is located mostly on the right side.
 
-Q: Which planet is known as the Red Planet?
-A) Venus
-B) Mars
-C) Jupiter
-D) Saturn
-ANS: B
+3.Which plane of the body divides it into dorsal and ventral regions?
+A. Transverse
+B. Axial
+C. Coronal
+D. Sagittal
+Answer is C: dorsal and ventral = front and back – a coronal section so divides the body into these sections.
+
+4.To which of the following does the “tissue level” of structural organisation refer?
+A. atoms, ions, molecules and electrolytes
+B. mitochondria, ribosomes, nucleus, endoplasmic reticulum
+C. nephron, alveolus, villus, lobule
+D. muscle, nervous, connective, epithelial
+Answer is D: the listed structures are the four major tissue types.
+
+5.The directional term “superior” in anatomy means which of the following?
+A. cephalic
+B. ventral
+C. caudal
+D. dorsal
+Answer is A: cephalic refers to the head region. While superior refers to being closer to the head than is the other anatomical structure in question.
+
+6.Which of the following is the best definition of physiology?
+A. The microscopic study of tissues and cells
+B. The study of how the body works.
+C. All the chemical processes that take place in the organelles of the body’s cells.
+D. The body’s automatic tendency to maintain a relatively constant internal environment.
+Answer is B: physiology is indeed the study of how the (healthy) body functions.
+
+7.The “anatomical position” could be described as which of the following?
+A. Lying down prone
+B. Lying down supine
+C. Standing displaying the ventral surface of the body
+D. Standing with arms and legs abducted
+Answer is C: this is the best answer. Standing is required, as is having the arms hanging parallel to the sides, with palms facing forward.
+
+8.Which choice best describes the location of the majority of the musculo-skeletal system?
+A. It is in the dorsal cavity
+B. It is in the ventral cavity
+C. It is in the abdomino-pelvic cavity
+D. It is not located in a body cavity
+Answer is D: the musculo-skeletal system is located in the arms and legs, and surrounding, but outside of the abdomino-pelvic, thoracic and the dorsal cavities.
+
+9.Which of the following is/are the contents of the ventral cavity?
+A. heart and lungs
+B. brain and spinal cord
+C. viscera
+D. gut, kidneys, liver, pancreas, spleen, bladder, internal reproductive organs.
+Answer is C: this is the best answer. It is a collective term for all organs in the thoracic and abdomino-pelvic cavities.
+
+10.Which of the stated relationships is correct?
+A. the heart is inferior to the clavicle
+B. the shoulder is distal to the carpals
+C. the phalanges are proximal to the metacarpals
+D. the eye is medial to the eyebrows
+Answer is A: The heart is indeed below (inferior) to the clavicle. All other choices are wrong.
+
+11.Which of the following is/are the contents of the dorsal body cavity?
+A. heart and lungs
+B. brain and spinal cord
+C. viscera
+D. gut, kidneys, liver, pancreas, spleen, bladder, internal reproductive organs.
+Answer is B: dorsal refers to the back, the cavity enclosed by the skull and vertebrae.
+
+12.Which of the stated relationships is correct?
+A. the heart is superior to the large intestine
+B. the shoulder is distal to the metacarpals
+C. the phalanges are proximal to the carpals
+D. the eye is medial to the nose
+Answer is A: the heart is indeed above (superior) to the intestine. All other answers are wrong.
+
+13.What is the study of how body parts function called?
+A. histology
+B. physiology
+C. homeostasis
+D. metabolism
+Answer is B: physiology refers to function
+
+14.Which of the following correctly describes the two named body parts
+A. the elbow is proximal to the shoulder
+B. the phalanges are distal to the carpals
+C. the ribs are proximal to the sternum
+D. the elbow is distal to the knee
+Answer is B: phalanges (finger bones) are indeed further from the trunk along the arm, than are the carpals (wrist bones)
+
+15.Which one of the following statements is correct
+A. the diaphragm separates the brain and spinal cord
+B. the ventral cavity contains the male and female reproductive system
+C. the abdomino-pelvic cavity contains the spinal cord.
+D. the dorsal cavity contains the brain and spinal cord
+Answer is D: dorsal means back and that is the cavity with spinal cord and brain. B is incorrect as the genitalia are outside the ventral cavity.
+
+16.Complete the sentence correctly: “Cervical vertebrae are…
+A. superior to the rib cage.
+B. inferior to the thoracic vertebrae.
+C. located between the thoracic and sacral vertebrae.
+D. fused into a single bone called the sacrum.
+Answer is A: cervix refers to “neck”. The cervical vertebrae are in the neck hence are above (superior) to the rib cage.
+
+17.The dorsal body cavity contains which of the following organs
+A. The brain.
+B. The brain and spinal cord.
+C. The brain, spinal cord and heart.
+D. The brain, spinal cord, heart and kidneys.
+Answer is B: Dorsal refers to the back and is opposite to ventral. Only the brain and spinal cord occupy the dorsal cavity. All other answers are incorrect.
+
+18.What does the process known as anabolism refer to?
+A. the use of energy for producing chemical substances.
+B. the breaking down phase of metabolism.
+C. all the chemical process that take place in the organelles of the cells.
+D. the supply of nutrients to the body’s cells.
+Answer is A: anabolism refers to the process of constructing/building mole- cules (think anabolic steroids). B refers to catabolism. C refers to metabolism.
+
+19.To what does the term “hypochondriac” refer?
+A. A condition of having too few chondria.
+B. The region of abdomen inferior to the ribs.
+C. A person who often complains of an ailment.
+D. Having insufficient cartilage in the knees.
+Answer is B: In this case “hypo-” means below, while “-chondr” refers to the cartilage joining the ribs to the sternum (the costal cartilages). The regions of the abdomen immediately inferior to these rib cartilages (on the left and right sides of the body) is what is being referred to
+
+20.If a medical image displays internal anatomy in mid-sagittal section, which of the following describes the section?
+A. A vertical section through the nose and umbilicus that divides the body into right and left halves.
+B. A cross-section through the midriff at about the level of the liver.
+C. A cross-section through the upper chest at about the level of the shoulders.
+D. A vertical section through the midpoint of the clavicle and through either
+the right or left thigh.
+Answer is A: A Sagittal section divides the body into left and right portions. A mid sagittal section means that the dividing line is in the vertical mid line of the body so that the halves are equal.
+
+21.Which of the following best describes the “anatomical position”?
+A. Standing vertically, arms held horizontally, legs apart so that the tips of the head, hands and feet lie on an imaginary circle, drawn around the body.
+B. Standing “to attention”, with hands held so that thumbs are ventral while the fifth digit is dorsal.
+C. Standing “at ease” with hands clasped behind your back while adjacent and dorsal to the sacrum.
+D. Standing vertically, arms parallel and lateral to the ribs with hands inferior to the elbows and supinated.
+Answer is D: The anatomical position is achieved when standing with feet comfortably apart while displaying the ventral surface of the head, body and forearms to the same direction (forwards).
+
+22.Which term describes the location of the adrenal glands with reference to the kidneys?
+A. proximal
+B. distal
+C. superior
+D. inferior
+Answer is C: The adrenal glands are on the cephalic side of the kidneys. Being closer to the head, they are termed “superior to the kidneys”.
+
+23.Which of the following terms is NOT used to identify a region of the abdomen?
+A. left hypochondriac
+B. hypogastric
+C. epigastric
+D. right sacral
+Answer is D: Right sacral is not a region on the anterior surface of the abdomen.
+
+24.What structure separates the thoracic cavity from the abdominal cavity?
+A. The mediastinum
+B. The diaphragm
+C. The peritoneum
+D. The pylorus
+Answer is B: The muscular diaphragm physically separates these two ventral cavities.
+
+1.Which structure within the cell produces ATP (adenosine triphosphate)?
+A. the mitochondria
+B. the nucleus
+C. peripheral proteins
+D. the endoplasmic reticulum
+Answer is A: This is a basic function of mitochondria. All other answers are wrong.
+
+2.Which of the following is NOT a component of the cell plasma membrane?
+A. cholesterol
+B. proteins
+C. microfilaments
+D. phospholipids
+Answer is C: microfilaments occur inside the cell.
+
+3.Which list below contains the four types of tissue?
+A. extracellular fluid, skeletal tissue, glandular tissue, connective tissue.
+B. extracellular fluid, muscle tissue, glandular tissue, cartilaginous tissue.
+C. neural tissue, skeletal tissue, epithelial tissue, cartilaginous tissue.
+D. Neural tissue, muscle tissue, epithelial tissue, connective tissue.
+Answer is D: These are the four types. Extracellular fluid is not a tissue. Cartilage is a type of connective tissue.
+
+4.Except for one, the following are types of cells. Which one is NOT a type of cell?
+A. platelets
+B. leucocytes
+C. macrophages
+D. osteoblasts
+Answer is A: Platelets are fragments of a cell (a megakaryocyte) bound by a membrane.
+
+5.In which part of a cell does the process of making ATP from oxygen and glu- cose take place?
+A. lysosomes
+B. ribosomes
+C. mitochondria
+D. golgi apparatus
+Answer is C: ATP production is the function of mitochondria.
+
+6.Which of the following is a function of membrane proteins?
+A. to process lipids and proteins for secretion through the plasma membrane
+B. to act as receptors for hormones
+C. to synthesise proteins from amino acids
+D. to act as a cytoskeleton to support and shape the cell
+Answer is B: One function of membrane proteins is to receive (amino acid based) hormones that cannot pass through the plasma membrane.
+
+7.What is the difference between simple squamous cells and simple columnar cells?
+A. squamous cells are flattened while columnar cells are taller than they are wide.
+B. simple squamous cells are one layer thick while simple columnar cells are several layers thick.
+C. simple squamous cells are epithelial tissue while simple columnar cells are connective tissue.
+D. squamous cells are flattened while columnar cells are cuboidal.
+Answer is A: The names of the cells contains a description of their shape: either flat, or like columns. Simple refers to a single layer of cells
+
+8.Which of the following is NOT an example of a cell?
+A. macrophages
+B. lysosomes
+C. plasmocytes
+D. chondroblasts
+Answer is B: the suffix “–some” refers to an organelle within a cell. The other suffixes all indicate a type of cell.
+
+9.Which cell organelles contain an acidic environment capable of digesting a wide variety of molecules?
+A. Lysosomes
+B. Ribosomes
+C. Centrosomes
+D. Golgi complex
+Answer is A: the prefix “lyso-” refers to the ability to dissolve or destroy mol- ecules or cells.
+
+10.Which form of transport through the plasma membrane requires the expendi- ture of energy by the cell?
+A. Facilitated diffusion
+B. Osmosis
+C. Active transport
+D. Diffusion
+Answer is C: The term “active” implies using energy (in the form of ATP) to move a molecule against its concentration gradient, while the other processes are all passive.
+
+11.Which of the tissue types below consists of a single layer of cells?
+A. stratified squamous epithelial tissue
+B. glandular epithelium
+C. areolar connective tissue
+D. simple columnar epithelial tissue
+Answer is D: the word “simple” indicates a single layer of cells. Stratified means several layers (or strata) of cells.
+
+12.One of the following is NOT a serous membrane. Which one?
+A. pleura
+B. peritoneum
+C. mucosa
+D. pericardium
+Answer is C: mucosa is a mucus membrane (& secretes mucus)
+
+13.Which of the following is NOT made predominantly from epithelial tissue?
+A. In the dermis
+B. In exocrine glands
+C. In endocrine glands
+D. In the endothelium of blood vessels
+Answer is A: The dermis contains connective tissue, nervous tissue & muscle as well as epithelial tissue.
+
+14.What are tendons and ligaments composed of?
+A. Dense connective tissue
+B. Liquid connective tissue
+C. Muscular tissue
+D. Epithelial tissue
+Answer is A: tendons & ligaments are dense CT. This is strong as there is a high proportion of fibres.
+
+15.What is the composition of the intercellular matrix in connective tissue?
+A. Cells and fibres
+B. Serous and mucus membranes and lamina propria
+C. Protein fibres and ground substance
+D. Interstitial fluid
+Answer is C: “intercellular” means between cells. So matrix is fibres & ground substance (but no cells).
+
+16.Which statement about the plasma membrane is INCORRECT?
+A. It is selectively permeable.
+B. It is composed of two layers of glycoprotein molecules.
+C. It contains receptors for specific signalling molecules.
+D. The plasma membranes of adjacent cells are held together by desmosomes.
+Answer is B: The PM is indeed made of two layers, but they are phospholipid (not glycoprotein) molecules.
+
+17.Which of the following is NOT epithelial tissue?
+A. the epidermis
+B. glandular tissue
+C. the internal lining of blood vessels
+D. the dermis
+Answer is D: The dermis contains some of all four types of tissue.
+
+18.Which of the following is NOT a cell found in connective tissue?
+A. adipocytes
+B. chondroblasts
+C. keratinocytes
+D. osteoblasts
+Answer is C: Keratinocytes are in the epidermis which is epithelial tissue. The other cell types occur in fat, cartilage and bone.
+
+19.What tissue has cells that are closely packed and that have one surface attached to a basement membrane and the other free to a space?
+A. epithelial tissue
+B. muscle tissue
+C. connective tissue
+D. nervous tissue
+Answer is A: This is a definition of epithelial tissue.
+
+20.What is the name of the mechanism that ensures that there is a higher concen- tration of sodium ions in the extracellular fluid than in the intracellular fluid?
+A. Facilitated diffusion
+B. The sodium-potassium pump
+C. Secondary active transport
+D. Osmosis
+Answer is B: The “pump” (or ATPase) transports Na+ out and K+ into the cell.
+
+21.What are lysosomes, centrosomes and ribosomes example of?
+A. stem cells
+B. organelles within a cell
+C. sensory receptors in the dermis
+D. exocrine glands
+Answer is B: the suffix “–some” refers to small body or organelle within a cell.
+
+22.What does simple columnar epithelial tissue refer to? Tissue with
+A. a single layer of cells longer than they are wide.
+B. a single layer of cells whose length, breadth and depth are about the same size.
+C. several layers of cells, all of the same type.
+D. several layers of cells but without a basement membrane.
+Answer is A: simple = one layer. Columnar means oblong or shaped like a column.
+
+23.Which of the following is NOT an example of connective tissue?
+A. blood
+B. bone
+C. tendon
+D. epidermis
+Answer is D: the epidermis (on top of the dermis) is epithelial tissue.
+
+24.What is the function of phospholipids in the plasma membrane?
+A. to maintain the intracellular fluid at a similar composition to that of the interstitial fluid.
+B. to form channels to selectively allow passage of small molecules.
+C. to act as receptors for signalling chemicals.
+D. to present a barrier to the passage of water-soluble molecules.
+Answer is D: molecules that are soluble in water cannot pass through lipid (fat). So the phospholipids are a barrier. The functions described by B. & C. are per- formed by other molecules in the plasma membrane.
+
+25.Which one of the following cell types is found in epithelial tissue?
+A. plasma cells
+B. leucocytes
+C. keratinocytes
+D. chondroblasts
+Answer is C: keratinocytes produce keratin, the protein of the epidermis, which is epithelial tissue.
+
+26.Which of the following is NOT part of the plasma membrane of a cell?
+A. integral proteins
+B. glycoproteins
+C. plasma proteins
+D. peripheral proteins
+Answer is C: as the name implies, plasma proteins are found in the blood plasma. Not to be confused with the plasma membrane.
+
+27.A major role for mitochondria is to
+A. transcribe the information in DNA (deoxyribonucleic acid)
+B. produce ATP (adenosine triphosphate)
+C. synthesise proteins from amino acids
+D. use enzymes to lyse molecules
+Answer is B: ATP is only produced within the mitochondria.
+
+28.Choose the tissue below that is one of the four primary types of body tissue.
+A. epidermal tissue
+B. epithelial tissue
+C. interstitial tissue
+D. osseous tissue
+Answer is B: epithelial is a major tissue type (as is muscle, nervous & connective)
+
+29.What are the primary types of tissue in the body?
+A. Muscle, nervous, connective and epithelial
+B. Muscle, nervous, connective, osseous and epithelial
+C. Muscle, nervous, connective, osseous, blood and epithelial
+D. Muscle, nervous, connective, glandular and epithelial
+Answer is A: There are 4 major types (not 5 or 6). Osseous & blood are also connective, while glandular tissue is also epithelial.
+
+30.What is the name of the membrane that surrounds the lungs?
+A. visceral peritoneum
+B. parietal peritoneum
+C. visceral pleura
+D. dura mater
+Answer is C: Pleura is around the lung, while visceral refers to the layer of the pleura that is attached to the lung surface.
+
+31.What is a role performed by mitochondria?
+A. contain enzymes capable of digesting molecules
+B. produce ATP
+C. synthesise proteins
+D. synthesise fatty acids, phospholipids & cholesterol
+Answer is B: mitochondria produce ATP. The other tasks are performed by lysosomes, ribosomes and endoplasmic reticulum respectively.
+
+32.Which of the following is NOT found in the plasma membrane?
+A. proteins
+B. cholesterol
+C. endoplasmic reticulum
+D. phospholipids
+Answer is C: endoplasmic reticulum is an organelle and found within the cell.
+
+33.Which one of the following cell types is found in epithelial tissue?
+A. mast cells
+B. adipocytes
+C. chondroblasts
+D. keratinocytes
+Answer is D: These cells produce keratin, the protein of the stratum corneum
+
+34.Which of the following is NOT part of the plasma membrane of a cell?
+A. phospholipid
+B. glycoprotein
+C. chromatin
+D. cholesterol
+Answer is C: chromatin makes up chromosomes.
+
+35.A major role for mitochondria is to
+A. synthesise fatty acids, phospholipids & steroids
+B. deliver lipids and proteins to plasma membrane for secretion
+C. synthesise proteins from amino acids
+D. produce ATP (adenosine triphosphate)
+Answer is D: mitochondria produce ATP from glucose
+
+36.Choose the tissue below that is NOT one of the four primary types of body tissue.
+A. connective tissue
+B. muscular tissue
+C. nervous tissue
+D. osseous tissue
+Answer is D: osseous tissue (or bone) is a connective tissue
+
+37.What is the purpose of mitochondria?
+A. to store the nucleolus and chromatin
+B. to produce adenosine triphosphate
+C. to support and shape the cell.
+D. they produce enzymes to break down molecules
+Answer is B: Mitochondria are the site of ATP production
+
+38.The plasma membrane of a cell contains molecules that have a hydrophobic end and a hydrophilic end What are they called?
+A. phospholipids
+B. cholesterol
+C. integral proteins
+D. glycoproteins
+Answer is A: the phosphate end is hydrophilic (water soluble) while the lipid end is hydrophobic (insoluble in water).
+
+39.Adipocytes are found in which type of tissue?
+A. muscle tissue
+B. epithelial tissue
+C. nervous tissue
+D. connective tissue
+Answer is D: adipocytes are found in fat (adipose tissue) which is a type of connective tissue.
+
+40.What is the role of mitochondria? To: A. function in cell division
+A. function in cell division
+B. synthesise proteins
+C. form part of the plasma membrane
+D. synthesise fatty acids, phospholipids and steroids.
+Answer is C: mitochondria produce ATP
+
+41.Which one of the following cell types is found in epithelial tissue?
+A. mast cells
+B. adipocytes
+C. chondroblasts
+D. melanocytes
+Answer is D: melanocytes produce melanin to protect the skin from ultraviolet radiation and it results in tanning of the skin.
+
+42.What is the difference between “loose” connective tissue (CT) and “dense”
+connective tissue?
+A. Fibres occupy most of the volume in dense CT
+B. Dense CT includes cartilage, loose CT does not.
+C. Loose CT has a good blood supply while dense CT does not.
+D. Loose CT has no fibres (and dense CT does).
+Answer is A: the preponderance of fibres is what makes the CT “dense”. Cartilage is classified as supportive CT.
+
+43.Facilitated diffusion refers to the process of
+A. movement along a concentration gradient assisted by protein carrier molecules.
+B. movement of ions and molecules along a concentration gradient.
+C. transport of molecules and ions against their concentration gradient.
+D. water movement through a semi-permeable membrane
+Answer is A: facilitated refers to the role of the protein carriers. The other choices refer to diffusion, active transport and osmosis respectively
+
+44.What do fibroblasts, chondroblasts, osteoblasts and haemocytoblasts have in common?
+A. they are all types of white blood cell.
+B. they are all macrophages.
+C. they are all immature cells.
+D. they are all types of epithelial cell.
+Answer is C: the suffix “-blast” implies that these cells have not yet finished their differentiation. That is are immature.
+
+45.Which is NOT true of connective tissue (CT)?
+A. the cells are closely packed
+B. the tissue contains protein fibres and ground substance.
+C. types include loose CT, dense CT and liquid CT.
+D. CT contains white blood cells.
+Answer is A: being close packed in a property of epithelial tissue. In CT the cells are widely spaced, being separated by the ground substance.
+
+46.Active transport across the plasma membrane may be described by which statement?
+A. active transport requires energy from ATP.
+B. active transport is also known as endocytosis.
+C. active transport moves molecules along their concentration gradient.
+D. active transport is the movement of lipid-soluble molecules through the plasma membrane.
+Answer is A: this is the only correct answer. The others are not true.
+
+47.Which of the following cell types denotes an immature cell?
+A. macrophages
+B. monocytes
+C. osteoblasts
+D. ribosomes
+Answer is C: The suffix “-blast” indicates that the cell is immature.
+
+48.Choose the membrane that is NOT a serous membrane.
+A. pleura
+B. peritoneum
+C. pericardium
+D. lamina propria
+Answer is D: the lamina propria is a “basement membrane” attached to epithe- lial tissue. The others are serous membranes.
+
+49.Which organelle is the site of ATP production?
+A. the nucleus
+B. endoplasmic reticulum
+C. mitochondria
+D. golgi apparatus
+Answer is C: the mitochondria is where ATP is produced.
+
+50.Which of the following is ONE major function of epithelial cells?
+A. movement
+B. secretion
+C. support of other cell types
+D. transmit electrical signals
+Answer is B: glandular tissue are one type of epithelial tissue and their function is to produce material to secrete.
+
+51.What are the major types of tissue in the body?
+A. nervous, muscle, epithelial, connective.
+B. squamous, cuboidal, columnar, transitional.
+C. osteocytes, chondrocytes, leucocytes, adipocytes.
+D. protein, adipose, cartilage, osseous.
+Answer is A: choice C refers to cell types; B is a list of epithelial tissue. Protein is applied to molecules.
+
+52.Which of the following is NOT one of the organelles within a cell?
+A. desmosome
+B. endoplasmic reticulum
+C. mitochondrion
+D. golgi apparatus
+Answer is A: desmosome (despite having the suffix “-some”) are not within the cell. They are structures that join adjacent plasma membranes to each other.
+
+53.Which list contains the main body tissue types?
+A. glandular, connective, osseous, nervous
+B. epithelial, nervous, connective, muscle.
+C. endothelial, connective, muscle, cartilaginous
+D. epithelial, cartilaginous, muscle, glandular
+Answer is B: the terms osseous, glandular and cartilaginous disqualify the other choices.
+
+54.The process of “diffusion” through a membrane may be described by which of the following?
+A. the movement of ions and molecules away from regions where they are in high concentration towards regions where they are in lower concentration.
+B. the use of energy from ATP to move ions and small molecules into regions where they are in lower concentration.
+C. the plasma membrane engulfs the substance and moves it through the membrane.
+D. the use of energy from ATP to move water molecules against their concen- tration gradient.
+Answer is A: the choices with ATP are nonsense. While choice C refers to endocytosis.
+
+55.The process of “active transport” through a membrane may be described by which of the following?
+A. the movement of ions and small molecules away from regions where they are in high concentration.
+B. the use of energy from ATP to move ions and small molecules into regions where they are in lower concentration.
+C. the plasma membrane engulfs the substance and moves it through the membrane.
+D. the use of energy from ATP to move ions and small molecules against their concentration gradient.
+Answer is D: energy (ATP) is required to force molecules against their concen- tration gradient.
+
+56.Which of the following is the smallest living structural unit of the body?
+A. atom
+B. molecule
+C. organelle D cell
+Answer is D: the cell is smallest structural unit that is deemed to be alive.
+
+57.Which of the following enables ions such as sodium to cross a plasma membrane?
+A. phospholipid bilayer
+B. peripheral proteins
+C. integral proteins
+D. desmosomes
+Answer is C: one function of integral protein in the PM is to form channels to allow for the passage of ions.
+
+58.Cell membranes can maintain a difference in electrical charge between the inte- rior of the cell and the extracellular fluid. What is this charge difference called?
+A. excitability
+B. the membrane potential
+C. the action potential
+D. the sodium-potassium pump
+Answer is B: the inside of a cell is negative while the exterior side of the mem- brane is positive. This difference in charge constitutes a difference in electrical potential (or voltage), known as the resting membrane potential. An action potential is generated when the membrane is stimulated and the potential reversed.
+
+59.The resting membrane potential of a cell is the consequence of which of the following concentrations of ions?
+A. High K+ and Cl− outside the cell and high Na+ and large anions inside the cell.
+B. High K+ and Na+ outside the cell and high Cl− and large anions inside the cell.
+C. High Cl− and Na+ outside the cell and high K+ and large cations inside the cell.
+D. High Ca2+ and Na+ outside the cell and high K+ and large cations inside the cell.
+Answer is C: These ionic species are largely responsible for the membrane potential (cations are negative ions). While there is a higher concentration of Ca outside the cell than inside, there are fewer Ca than Cl ions.
+
+60.What is one function of mitochondria? To
+A. produce enzymes to break down molecules
+B. produce molecules of ATP
+C. hold adjacent cells together
+D. allow passage of molecules through the plasma membrane
+Answer is B: Mitochondria are organelles within which ATP is made.
+
+61.Membrane proteins perform the following functions EXCEPT one. Which
+One?
+A. form the glycocalyx
+B. act as receptor proteins
+C. form pores to allow the passage of small solutes
+D. behave as enzymes.
+Answer is A: the glycocalyx refers to molecules in the plasma membrane that have a carbohydrate chain attached (prefix “glyco-”).
+
+62.Facilitated diffusion differs from active transport because facilitated diffusion: A. requires energy from ATP
+A. requires energy from ATP
+B. moves molecules from where they are in lower concentration to higher
+concentration
+C. moves molecules from where they are in higher concentration to lower concentration.
+D. involves ions & molecules that pass through membrane channels.
+Answer is C: diffusion always refers to movement from high to low concentra- tion (without energy expenditure). Facilitated refers to the assistance provided by a transport molecule that is designed for the purpose.
+
+63.Which of the following is NOT a connective tissue?
+A. blood
+B. mesothelium
+C. fat
+D. tendon
+Answer is B: mesothelium is simple squamous epithelium that is found in serous membranes.
+
+64.The cells that are found in tendons are called: A. osteocytes
+A. osteocytes
+B. adipocytes
+C. haemocytoblasts
+D. fibroblasts
+Answer is D: Simple Squamous. A single layer of flat (squashed) cells so diffu- sion through the layer takes place easily. Lines heart, lymph & blood vessels (known as endothelium). Called mesothelium when in serous membranes.
+
+65.Which one of the following terms best describes the structure of the cell membrane:
+A. fluid mosaic model
+B. static mosaic model
+C. quaternary structure
+D. multilayered structure
+Answer is A: “fluid” implies the structure can move and change (not like a brick wall); mosaic refers to the presence of proteins scattered among the glycolipids.
+
+66.Which one of the following terms best describes a phospholipid. It consists of a:
+A. polar head and polar tail
+B. non-polar head and a polar tail
+C. polar head and non-polar tail
+D. non-polar head and a non-polar tail
+Answer is C: polar = hydrophilic head of phosphate (which can dissolve in the aqueous extracellular solution because water molecules are polar); non-polar = hydrophobic tails of lipid, which being non-polar, cannot dissolve in aqueous solutions.
+
+67.One of the functions of integral proteins in cell membranes is to: A. maintain the rigid structure of the cell
+A. maintain the rigid structure of the cell
+B. support mechanically the phospholipids
+C. interact with the cytoplasm
+D. form channels for transport functions
+Answer is D: some proteins form channels which allow molecules and ions to enter the cell.
+
+68.Which one of the following best describes what a cell membrane consists of?
+A. lipids, proteins, ribosomes
+B. lipids, cholesterol, proteins
+C. cholesterol, proteins, cytoplasm
+D. lipids, proteins, cytoplasm
+Answer is B: these are the three major constituents. Ribosomes and cytoplasm are found inside the cell.
+
+69.Which one of the following organelles is considered as the “energy producing”
+centre of the cell?
+A. rough endoplasmic reticulum
+B. Golgi apparatus
+C. mitochondria
+D. ribosomes
+Answer is C: mitochondria are where ATP molecules are produced from glucose.
+
+70.What is the major function of lysosomes? They: A. package proteins
+A. package proteins
+B. detoxify toxic substances
+C. catalyse lipid metabolism
+D. digest unwanted particles within the cell
+Answer is D: the prefix “lys-” refers to the ability to alter molecules by dividing them into smaller pieces.
+
+71.What is the purpose of the “sodium/potassium pump” A. to perform endocytosis.
+A. to perform endocytosis.
+B. to move sodium and potassium by facilitated diffusion.
+C. to perform bulk transport through the plasma membrane.
+D. To produce a concentration gradient for sodium ions
+Answer is D: a concentration gradient is set up by the use of energy to move Na ions to where they are in greater concentration. This requirement for energy means choice B is wrong.
+
+72.Which of the following is NOT a type of cell?
+A. ribosome
+B. haemocytoblast
+C. neutrophil
+D. phagocyte
+Answer is A: a ribosome is a cell organelle, not a cell type
+
+73.What is the name of the mechanism that ensures that there is a higher concen- tration of sodium ions in the extracellular fluid than in the intracellular fluid?
+A. Facilitated diffusion
+B. The sodium-potassium pump
+C. Secondary active transport
+D. Osmosis
+Answer is B: the “pump” exchanges Na for K and uses energy from ATP to function.
+
+74.What is the name given to the type of transport where glucose or an amino acid binds to a receptor protein on the plasma membrane, which then moves the molecule into the cell without the expenditure of energy?
+A. facilitated diffusion
+B. bulk transport
+C. secondary active transport
+D. active transport
+Answer is A: the membrane protein facilitates the entry into the cell. No energy is expended so it is not active transport.
+
+75.What is the name given to the movement of glucose or amino acids from the gut into the cells lining the gut, when they bind to a transport protein that has also bound a sodium ion. The sodium ion is entering the cell along its concentration gradient.
+A. facilitated diffusion
+B. the sodium potassium pump
+C. active transport
+D. secondary active transport
+Answer is D: the sodium ion was transported out of the cell with the use of energy in order to set up the sodium concentration gradient. This gradient then allows other molecules to enter the cell along with sodium’s re-entry. This is active (because energy used), but secondary as it occurs as a result of the previous active transport event.
+
+76.Mitochondria produce which of the following?
+A. ATP
+B. DNA
+C. RNA
+D. proteins
+Answer is A: adenosine triphosphate (ATP)
+
+77.Why does the plasma membrane of a cell present a barrier to the movement of electrolytes through it?
+A. There are no channels in the membrane for the passage of electrolytes.
+B. Electrolytes are not soluble in the lipid of the membrane.
+C. Electrolytes are too large to pass through membrane channels.
+D. Membrane proteins electrically repel charged particles.
+Answer is B: electrolytes, being charged particles are not able to dissolve their way through the lipid plasma membrane (which is non-polar). Hence it is a bar- rier to them.
+
+78.Which of the following statements about “leak channels” in the plasma mem- brane is correct?
+A. Proteins that form these channels bind to solutes to allow them to pass into the cell.
+B. They are passageways formed by proteins to allow water and ions to move passively through the membrane.
+C. They allow small ions and molecules to move between adjacent cells.
+D. They are formed by glycoprotein and proteoglycans to allow hormones to enter cells.
+Answer is B: this is the definition of leak channels. They may be “gated” which means shut until stimulated to open. J refers to facilitated diffusion.
+
+79.What are the primary types of body tissue?
+A. connective tissue, blood, muscle tissue, nervous tissue, epithelial tissue.
+B. muscle tissue, osseous tissue, epithelial tissue, nervous tissue, blood, con- nective tissue.
+C. nervous tissue, epithelial tissue, muscle tissue, connective tissue
+D. epithelial tissue, connective tissue, adipose tissue, muscle tissue, nervous tissue.
+Answer is C: These are the four primary types. Blood is not a “type’ of tissue.
+
+80.Epithelial and connective tissue differ from each other in which of the follow- ing characteristics?
+A. epithelial tissue contains fibres but connective tissue does not.
+B. connective tissue is avascular but epithelial tissue is well-vascularised.
+C. cells in epithelial tissue are closely packed, whereas in connective tissue they are not.
+D. connective tissue includes tissue that makes up glands, but epithelial tissue does not occur in glands.
+Answer is C: The other choices are not correct.
+
+81.Which of the following is a component of the plasma membrane of a cell?
+A. plasma
+B. glycolipid
+C. plasma proteins
+D. cholesterol
+Answer is D: despite the term “plasma” A & C are wrong. And it is phospho- lipids, not glycolipids that occur in the membrane.
+
+82.What term is used to describe the movement of dissolved particles along (or down) their concentration gradient?
+A. endocytosis
+B. active transport
+C. osmosis
+D. diffusion
+Answer is D: Following the concentration gradient is a passive process. Choice
+C applies only to water molecules.
+
+83.Which of the following molecules cannot pass through the plasma membrane?
+A. water molecules
+B. non-polar molecules
+C. amino acid based hormones
+D. fat-soluble molecules
+Answer is C: These hormones are not lipid soluble and too large to pass through channels.
+
+84.Which of the following is a connective tissue?
+A. pancreas
+B. spinal cord
+C. muscle
+D. blood
+Answer is D: blood contains cells separated by a liquid matrix. Choices A & B are epithelial and nervous tissues.
+
+85.Which of the following is an epithelial tissue?
+A. adipose tissue
+B. the adrenal gland
+C. the heart
+D. blood
+Answer is B: the adrenal gland is glandular epithelial tissue.
+
+86.What is the major component of the plasma membrane of a cell?
+A. phospholipid
+B. glycolipid
+C. integral protein
+D. cholesterol
+Answer is A: cholesterol and proteins are also present in the plasma membrane but as more minor components.
+
+87.Which one of the following is NOT a function of membrane proteins?
+A. they form a structure called a glycocalyx
+B. they attach cells to each other
+C. they form passageways to allow solutes to pass through the membrane
+D. they from receptors which can bind messenger molecules
+Answer is A: the glycocalyx is thought of as membrane carbohydrates.
+
+88.Facilitated diffusion through a membrane involves which of the following scenarios?
+A. the diffusion of water through a selectively permeable membrane along its concentration gradient.
+B. the movement of a molecule against its concentration gradient with the expenditure of energy
+C. the plasma membrane surrounding (engulfing) the molecule & the molecule moving into the cell.
+D. a molecule binding to a receptor which moves the molecule through the membrane without the expenditure of energy
+Answer is D: facilitation is by binding to a membrane protein.
+
+89.The diffusion of water through a membrane is referred to as
+A. secondary active transport
+B. bulk transport
+C. osmosis
+D. endocytosis
+Answer is C: osmosis is a word that is reserved for the movement of water through a membrane.
+
+90.What is the tissue that covers the body surface and lines internal tubes called?
+A. epithelial tissue
+B. connective tissue
+C. glandular epithelium
+D. muscle tissue
+Answer is A: epithelial tissue has one surface “open” to the exterior or to the contents of the tube.
+
+91.Which of the following is true for connective tissue?
+A. it consists of cells, a basement membrane and intercellular matrix
+B. its cells are closely packed and held together by protein fibres.
+C. it has a high rate of cell division and no blood supply
+D. it is made of cells, protein fibres and ground substance
+Answer is D: Connective tissue includes fibres and cells which are not closely packed.
+
+92.The cell membrane’s resting potential (about −70 mV inside with respect to the outside) is due mainly to which of the following mechanisms?
+A. The sodium potassium pump.
+B. The diffusion of cations and anions through the membrane along their con- centration gradients.
+C. The diffusion of sodium and potassium across the cell membrane.
+D. The presence inside the cell of anions too large to passively cross the cell membrane.
+Answer is A: The ATPase pump shifts 3 Na+ out of the cell and 2 K+ into the cell. This disparity in positive charge is the major influence on the resting potential.
+
+1.The term “chromatin” would be used in reference to which of the following?
+A. genetic substance
+B. cellular energy
+C. membrane support
+D. nuclear membrane
+Answer is A: Chromatin is DNA & the associated proteins so pertains to genetic material.
+
+2.In protein synthesis, where dose translation occur? In the: A. cytoplasm between ribosomes, tRNA and mRNA
+A. cytoplasm between ribosomes, tRNA and mRNA
+B. nucleus between ribosomes, tRNA and mRNA
+C. nucleus between DNA and mRNA
+D. cytoplasm between DNA and mRNA
+Answer is A: translation occurs in the cytoplasm (transcription occurs in the nucleus). DNA does not exist in the cytoplasm.
+
+3.If the DNA strand sequence of bases is CTT AGA CTA ATA, what would the tRNA read?
+A. GAA TCT GAT TAT
+B. CUU AGA CUA AUA
+C. GAA UCU GAU UAU
+D. GUU ACA GUA AUA
+Answer is C: guanine (G) must be matched to cytosine (C) and vice versa. Adenine (A) must match with thymine (T). In RNA, uracil (U) replaces thy- mine, while both bind to adenine. Hence U must be matched to A.
+
+4.Which one of the following statements best describes DNA?
+A. single stranded, deoxyribonucleic acid
+B. single stranded, ribonucleic acid
+C. double stranded, deoxyribonucleic acid
+D. double stranded, ribonucleic acid
+Answer is C: DNA is double stranded, while the “D” refers to “deoxy-”.
+
+5.In which phase of mitosis would chromosomes line up at the centre of the spindle:
+A. anaphase
+B. interphase
+C. prophase
+D. metaphase
+Answer is D: Remember the metaphase plate occupies the middle of the cell.
+
+6.In a cell cycle which phase takes the longest time to complete:
+A. anaphase
+B. interphase
+C. prophase
+D. telophase
+Answer is B: interphase is the time when the cell is performing its normal func- tion and not dividing.
+
+7.What is the purpose of meiosis? To produce: A. DNA
+A. DNA
+B. somatic cells
+C. diploid cells
+D. haploid cells
+Answer is D: meiosis produces sperm or egg so these must have half the com- plement of chromosomes (be haploid) to allow for the full complement to be present (and not more!) when sperm combines with egg.
+
+8.What results from the events that occur during metaphase of mitosis?
+A. The nuclear membranes form around two nuclei.
+B. The chromosomes are aligned on a plane in the centre of the cell.
+C. The chromosomes become visible and attach to the spindle fibres.
+D. The chromatids from each chromosome separate and move to opposite sides of the cell.
+Answer is B: during metaphase, chromosomes are arranged on a plane (the metaphase plate) in the middle of the cell, attached to microtubules of the spindle.
+
+9.What is the name of the process of division of a somatic cell’s nucleus into two daughter nuclei?
+A. prophase
+B. cytokinesis
+C. mitosis
+D. meiosis
+Answer is C: mitosis involves somatic cells. Meiosis refers to the production of the sex cells.
+
+10.In a strand of DNA, what is the combination of deoxyribose and phosphate and base known as?
+A. A ribosome
+B. A chromatid
+C. A codon
+D. A nucleotide
+Answer is D: three nucleotides form a codon and many codons form a chromatid.
+
+11.What happens during anaphase of mitosis?
+A. spindle fibres pull each chromatid to opposite sides of the cell
+B. the sense and non-sense strands “unzip” along their hydrogen bonds
+C. RNA polymerase forms a complementary strand by reading the sense strand
+D. the cell cytoplasm divides into two cells
+Answer is A: separation of the two chromatids of a chromosome occurs at ana- phase. Choice D is cytokinesis and begins in late anaphase and continues into telophase.
+
+12.The process by which information is read from DNA, encoded and transported outside the nucleus is known as:
+A. translation
+B. transcription
+C. encoding
+D. catalysis
+Answer is B: to “transcribe” is to record the information from a source and to record it at another place (onto mRNA). Then messenger RNA moves out of the nucleus
+
+13.How many nucleotides are required to code for a single amino acid?
+A. twenty
+B. five
+C. three
+D. one
+Answer is C: A sequence of three nucleotides constitute a codon. Each codon is specific for one of the 20 amino acids.
+
+14.The combination of a sugar, a base and at least one phosphate group is given the general term of:
+A. nucleoside
+B. amino acid
+C. polypeptide
+D. nucleotide
+Answer is D: a nucleoside is a nucleotide without a phosphate group.
+
+15.The nucleus of the cell contains the master nucleic acid:
+A. DNA
+B. RNA
+C. mRNA
+D. tRNA
+Answer is A: DNA exists in the nucleus. The other three are ribonucleic acids.
+
+16.Which of the following is the correct combination of the components for the nucleic acid DNA?
+A. Phosphate, Ribose, Uracil
+B. Phosphate, Deoxyribose, Proline
+C. Phosphate, Ribose, Thymine
+D. Phosphate, Deoxyribose, Adenine
+Answer is D: DNA has the sugar deoxyribose, proline is an amino acid that does not occur in DNA.
+
+17.In the ribosome of a cell, the mRNA is read to produce the particular amino acid sequence for the formation of a protein. What is this process called?
+A. Translation
+B. Transcription
+C. Transportation
+D. Transmutation
+Answer is A: translation occurs in the cytoplasm of a cell with a ribosome. It is when the information in mRNA is read to produce the sequence of amino acids needed to form a protein.
+
+18.Which of the base pairings in DNA would be correct?
+A. A–T pair
+B. A–G pair
+C. C–T pair
+D. C–A pair
+Answer is A: A pairs with T, while C pairs with G.
+
+19.The combination of a sugar and a base is given the general term of: A. nucleoside
+A. nucleoside
+B. amino acid
+C. polypeptide
+D. nucleotide
+Answer is A: a nucleotide is formed from a nucleoside and a phosphate group.
+
+20.The nucleic acid which carries the information for protein synthesis from the cell nucleus to the ribosomes is:
+A. DNA
+B. RNA
+C. mRNA
+D. tRNA
+Answer is C: “messenger” RNA carries the data (the message) from the chro- mosomes in the nucleus to the ribosomes in the cytoplasm.
+
+21.Which of the following is the correct combination of the components for the nucleic acid RNA?
+A. Phosphate, Ribose, Uracil
+B. Phosphate, Deoxyribose, Proline
+C. Phosphate, Ribose, Thymine
+D. Phosphate, Deoxyribose, Adenine
+Answer is A: RNA must have the sugar ribose. Thymine exists in DNA but not
+RNA, where it is replaced with uracil.
+
+22.In the nucleus of the cell DNA is used as a template to form mRNA. What is the process called?
+A. What is the process called?
+A. Translation
+B. Transcription
+C. Transportation
+Answer is B: transcription refers to the conversion of information on DNA into the form of mRNA.
+
+23.Which statement is true of the 23 chromosomes within a sperm?
+A. 23 chromosomes is the diploid number
+B. 11 chromosomes came from the father, 11 chromosomes came from the mother, while one of either the Y or the X came from the father or mother respectively.
+C. Some of the 23 came from the father and the rest came from the mother.
+D. 11 chromosomes and the Y came from the father, while 11 chromosomes came from the mother.
+Answer is C: A sperm has 23 chromosomes which is the haploid number. The male that produced the sperm has 46 chromosomes (23 pairs) in their somatic
+
+1.Say that someone’s body temperature is measured by four different devices and the resulting four measurements are given below. Which reading has an abso- lute error of ± 0.05 °C?
+A. 38 °C
+B. 37.8 °C
+C. 37.85 °C
+D. 37.855 °C
+Answer is B: absolute error is plus or minus half the smallest scale interval. Two times 0.05 = 0.1, so the smallest scale interval is 0.1 of a degree which applies to the 37.8 °C value.
+
+2.What can be correctly said of data that are “normally distributed”?
+A. The upper and lower values of the distribution describe the healthy range of physiological values.
+B. The standard deviation characterises the dispersion of data and the variance characterises the central tendency of the data.
+C. The mean and range are statistics that are strictly only applicable to nor- mally distributed data.
+D. Sixty eight percent of all data values will be within one standard deviation from the mean.
+Answer is D: normally distributed data have this predicable relationship between their mean and the spread of values around the mean.
+
+3.If someone’s height is measured while the person is wearing shoes, the height will be overestimated. This type of error is known as which of the following?
+A. Absolute error
+B. Parallax error
+C. Calibration error
+D. Zeroing error
+Answer is D: zeroing error because in this example, the object being measured is not aligned with the start of the measuring scale.
+
+4.Which of the following metric prefixes is used to denote one thousandth of a gram?
+A. micro
+B. milli
+C. centi
+D. kilo
+Answer is B: “milli” refers to thousandth or 10−3 (nothing to do with million!).
+
+5.What is the standard deviation used for?
+A. as a measure of central tendency
+B. as a measure of dispersion
+C. as a measure of spread of data that are normally distributed
+D. as a measure of the error of the mean value
+Answer is C: B is also correct but is not as good an answer as choice C.
+
+6.A bathroom scales displays a mass reading of 68.4 kg. Which one of the follow- ing could NOT be the true mass of the person standing on the scales?
+A. 68.40 kg
+B. 68.44 kg
+C. 68.47 kg
+D. 68.37 kg
+Answer is C: A reading of 68.4 (that is, stated to the nearest 0.1 kg) means that the actual value is between 68.35 and 68.44, so only 68.47 (which is closer to
+
+7.Which of the following g does NOT describe a milligram?
+A. 1 × 103 gram
+B. 1 × 10−3 gram
+C. one thousandth of a gram
+D. 0.001 gram
+Answer is A: This (1 × 103 gram) is one thousand grams = 1 kilogram.
+
+8.Look at the figure of a thermometer. What is the temperature reading?
+A. 15 °C
+B. 15.4 °C
+C. 17 °C
+D. 20 °C
+Answer is C: every 5 scale intervals is labelled with a number, and each interval corresponds to 1 degree. As the reading is two intervals above 15: 15 + 2 =
+
+9.Look again at the figure of a thermometer. What is the absolute error of the tem- perature reading?
+A. ± 0.05 °C
+B. ± 0.5 °C
+C. ± 1.0 °C
+D. ± 5.0 °C
+Answer is B: absolute error is plus or minus half of the smallest scale interval
+(which is 1 degree), half of one is 0.
+
+10.What information does the “standard deviation” of a mean value tell us?
+A. It gives us the healthy range of values for the measured physiological quantity.
+B. It is the range within which 68 % of measured values are found.
+C. It tells us that the measured values are normally distributed.
+D. It tells us the number of values that were used to calculate the mean. Answer is B: C is also correct but choice B is the better answer.
+Answer is B: C is also correct but choice B is the better answer.
+
+11.On a clinical thermometer where the smallest scale interval is 0.1 °C, a person’s temperature is measured to be 37.7 °C. Which of the listed temperatures could NOT be the person’s true temperature?
+C. Which of the listed temperatures could NOT be the person’s true temperature?
+A. 37.72 °C
+B. 37.76 °C
+C. 37.67 °C
+Answer is B: an actual value of 37.76 °C would be seen on a scale that has 0.1 as its smallest interval, as 37.
+
+12.How many micrograms are there in 5 milligram?
+A. 0.005
+B. 0.5
+C. 500
+D. 5000
+Answer is D: one milligram is one thousand micrograms, so 5 mg = 5000 μg.
+
+13.What does the standard deviation of the mean represent? For values that are normally distributed, it represents:
+A. the value above and below the mean that includes 68 % of all data values
+B. the difference between the highest data value and the lowest data value
+C. the average of the difference between each data value and the mean value.
+D. the spread of the normal distribution.
+Answer is A: The term “standard” in standard deviation of a distribution of measured values, means that it may be relied upon to encompass 68 % of all measured values.
+
+14.Given that a milligram 1 × 10−3 gram, what is a microgram?
+A. 1 × 103 gram
+B. One thousand milligram
+C. 1 × 10−6 gram
+D. 0.001 gram
+Answer is C: a microgram is one millionth (0.000 001 or 10-6) of a gram. A = 1 kg; B = 1 g; D = 1 milligram.
+
+15.How many micrograms are there in one milligram?
+A. 0.001
+B. 0.1
+C. 100
+D. 1000
+Answer is D: 1 μg = 10−3 × 1 mg, so one thousand micrograms is the same as one milligram.
+
+16.How many milligrams are there in one microgram?
+A. 0.001
+B. 1000
+C. 0.1
+D. 1,000,000
+Answer is A: 1 mg = 103 × 1 μg, so one thousandth of a milligram is the same as one microgram.
+
+17.What is meant when a person’s mass is stated as 73.6 kg? That
+A. the mass is closer to 73.6 than it is to 73.7 or 73.5
+B. the mass is closer to 73.6 than to any other value
+C. the mass is between 73.5 and 73.7
+D. the mass is 73.6 ± 0.1 kg
+Answer is A: because the mass is stated to one decimal place, the absolute error is ± 0.
+
+18.Which of the following statements applies to the statistic known as the “stan- dard deviation”?
+A. It is a measure of central tendency.
+B. It is only applicable to qualitative measurements.
+C. Standard deviation is also known as the “variance”.
+D. 95 % of all data lie within two standard deviations of the mean. Answer is D: This is the only true statement for normally distrusted data.
+Answer is D: This is the only true statement for normally distrusted data.
+
+19.Which of the following units is NOT part of the Australian metric system of units?
+A. mmHg for measuring blood pressure
+B. degree Celsius for measuring temperature
+C. Pascal for measuring pressure
+D. second for measuring time
+Answer is A: Pascal (Pa) is the SI unit for pressure.
+
+20.In the Australian Metric System of units, what does the prefix micro stand for?
+A. one thousand
+B. one thousandth
+C. one million
+D. one millionth
+Answer is D: one millionth = 10−6
+
+21.Which of the following measurements is a semi-quantitative one?
+A. a blood pressure of 120/80 mmHg
+B. a blood glucose level of + + +
+C. a state of anxiety measure of “calm”
+D. the patient’s name is Tim Cruise
+Answer is B: the number of “+” signs indicates a level of magnitude that is semi-quantitative, but there is no unit of magnitude. C is “qualitative”, while D is “nominal’.
+
+22.A baby’s mass measurement is 3.8 kg ± 0.05 kg. What is the absolute error in the measurement?
+A. ± 0.05 ÷ 3.8
+B. ± (0.05 ÷ 3.8) × 100 %
+C. ± 0.05 kg
+D. 0.05 kg
+Answer is C: by definition, absolute error is half the smallest scale interval (0.1 in this case) above and below the measured value.
+
+23.1 ml of water has a mass of 1.00 g. Which of the following sets of 3 measure- ments of the mass of 1 ml of water is the most precise set?
+A. 0.98 g, 1.00 g, 1.02 g
+B. 0.99 g, 0.99 g, 0.99 g
+C. 1.00 g, 1.01 g, 1.02 g
+D. 0.99 g, 0.99 g, 1.00 g
+Answer is B: precision refers to the repeatability of the measurement. In choice B, all measurements are the same so are precise.
+
+24.Systematic errors arise from some inadequacy of equipment or technique.
+Which of the following is NOT an example of systematic error?
+A. parallax error
+B. calibration error
+C. random error
+D. zeroing error
+Answer is C: as the words suggest, random error is not systematic as it is unpredictable.
+
+25.The median is a measure of central tendency. It may be defined as:
+A. the value that has half the values greater than it and half less than it
+B. the value that occurs most often
+C. the distribution of values that has the mode, mean and average equal to each other
+D. the sum of all values divided by the number of values.
+Answer is A: median is the mid-point of the number of measured values. The value that appears most often in a set of data is called the mode.
+
+26.What is 3400 square centimetres converted to square metres?
+A. 0.0034 m2
+B. 0.34 m2
+C. 3.4 m2
+D. 34 m2
+Answer is B: A square metre has sides that are 100 cm long, so 100 × 100 = 10,000 cm2 in a square metre. So 3400÷10,000 = 0.
+
+27.What is the number 0.028 when correctly expressed in scientific notation?
+A. 28 × 102
+B. 2.8 × 102
+C. 2.8 × 10−2
+D. 28 × 10−2
+Answer is C: scientific notation requires one number to the right of the decimal point (choices B & C). The decimal point must be shifted 2 places to achieve this. As 0.028 is less than one, the power of ten is negative.
+
+28.Which of the following numbers has four significant figures?
+A. 3300.0
+B. 37.60
+C. 0.008
+D. 0.0540
+Answer is B: any zero to the left of the first non-zero digit – when approached from the left – are not significant (zeros on the right are).
+
+29.Which of the following statements involves a nominal measurement?
+A. James has a height of 170 cm.
+B. Barry’s blood pressure is elevated.
+C. Gino was born in Italy.
+D. More than 5 % of Australians receive a pension.
+Answer is C: Gino’s birthplace is “named” so the information is nominal, but no other information is available.
+
+30.In the Australian Metric System of measurement what does the prefix “milli”
+stand for?
+A. one thousandth
+B. one thousand
+C. one millionth
+D. one million
+Answer is A: milli = one thousandth = 10−3
+
+31.The millimetre of mercury is a unit commonly used for the measurement of blood pressure. Which of the following statements about this unit is true?
+A. It is part of the Australian Metric System but not part of the SI system.
+B. It is part of the SI system but not part of the Australian Metric System.
+C. It belongs to both the SI system and the Australian Metric System.
+D. It does not belong to either the SI system or the Australian Metric System.
+Answer is D: both the SI system and the Australian Metric System are “metric”, the mmHg is not (despite having millimetre in its name).
+
+1.The chemical formula C6H12O6 contains much information. However, what information is NOT provided by the formula?
+A. the number of atoms in a molecule
+B. the name of the substance
+C. the elements that make up the substance
+D. whether the substance is covalent or ionic
+Answer is B: the name may be guessed at, but it is possible for two substances to have the same formula but a different structure.
+
+2.Which of the particles listed below is the smallest?
+A. an atom
+B. a proton
+C. an ion
+D. a molecule
+Answer is B: a proton is a sub-atomic particle so is smaller than all of the others
+
+3.The chemical name for sodium is which of the following?
+A. Na
+B. So
+C. K
+D. Si
+Answer is A: Na is short for Natrium which is the Latin name for sodium.
+
+4.A molecular compound may be defined by which of the following?
+A. atoms from non-metal elements covalently bonded.
+B. atoms from metal elements covalently bonded
+C. atoms from metal elements and non-metal elements covalently bonded
+D. atoms from non-metal elements ironically bonded
+Answer is A: only non-metal elements are involved in covalent (molecular)
+bonding.
+
+5.Many drugs are neutralised to form salts and administered in this form. What is the main advantage of administering the salt form of the drug? It is usually:
+A. less toxic
+B. more soluble in water
+C. more pleasant to taste
+D. more soluble in lipid
+Answer is B: salts, having particles that are electrically charged, are more likely to be soluble in water.
+
+6.One of the following is INCORRECT. Which one?
+A. metal atoms will form compounds with non-metal atoms.
+B. metal atoms will form compounds with metal atoms.
+C. non-metal atoms will form compounds with non-metal atoms.
+D. metal atoms will not form compounds with metal atoms.
+Answer is B: metal atoms can only form (ionic non-molecular) compounds with non-metal atoms.
+
+7.Choose the correct statement about hydrogen bonds. They
+A. are stronger than covalent bonds.
+B. act between the H in one –OH or –NH group, and the O or N in another.
+C. operate within molecules.
+D. act between the H in one –OH or –NH group, and the H in another.
+Answer is B: the slightly positive H atom in one molecule is attracted to the adjacent slightly negative O (or N).
+
+8.Given that the atomic mass of nitrogen is 14 and of hydrogen is 1, what is the mass in grams of one mole of ammonia (NH3)
+A. 15
+B. 16
+C. 17
+D. 18
+Answer is C: from the formula, there is one N and three H atoms. So
+(1 × 14) + (3 × 1) =
+
+9.Choose the ending that will correctly complete the sentence: When atoms of a metal element and atoms of a non-metal element react, the result is
+A. a covalent compound consisting of molecules
+B. a covalent compound consisting of ions
+C. an ionic compound consisting of ions in a lattice
+D. an ionic compound consisting of molecules in a lattice
+Answer is C: atoms of a metal element react with atoms of a non-metal element to form an ionic compound (ions held within a lattice when in solid form).
+
+10.In a water molecule, the bond between oxygen (O) and hydrogen (H) is
+A. a covalent bond and a polar bond
+B. an ionic bond
+C. a covalent bond
+D. an ionic bond and forms an electrolyte
+Answer is A: as both atoms are non-metals, the bonding is covalent. As the atoms differ in their attraction for the bonding electrons, the bond is polar (the electrons are more closely attracted to O).
+
+11.Some atoms of potassium, K contain 19 protons and 20 neutrons in their nuclei.
+What is the correct symbol for these atoms? A. 20
+A. 20
+B. 19
+C. 39
+D. 20
+Answer is C: the number of protons (the atomic number) is written as a sub- script. The sum of the number of protons and neutrons (the mass number) is written as a superscript.
+
+12.The chemical elements can be divided into metal elements and non-metal ele- ments. Which of the statements about metals and non-metals is correct?
+A. metals lose electrons to become charged particles called cations
+B. most of the elements are non-metals.
+C. non-metals are located at the left hand side of the periodic table
+D. metals have low melting points and are good conductors of heat
+Answer is A: metal ions are positively charged (having lost an electron/s), con- sequently they are attracted to a cathode (a negatively charged electrode).
+
+13.24 of the chemical elements are essential to the human body. Four bulk ele- ments, 7 are macrominerals and 13 are trace elements. Which are the four bulk elements?
+A. calcium, carbon, hydrogen & oxygen
+B. nitrogen, carbon, hydrogen & oxygen
+C. calcium, nitrogen, carbon & oxygen
+D. carbon, oxygen, phosphorus & iron
+Answer is B: these elements make up the bulk of proteins, carbohydrates and lipids.
+
+14.Most non-molecular compounds form by the chemical combination of: A. molecules with molecules
+A. molecules with molecules
+B. non-metals with non-metals
+C. metals with metals
+D. metals with non-metals
+Answer is D: ionic compounds are formed when metal atoms react with non- metal atoms. The structures the form are not molecular.
+
+15.Molecules are relatively easy to separate from one another. This means that the bonds between them are:
+A. ionic
+B. covalent
+C. relatively weak
+D. relatively strong
+Answer is C: ease of separation implies relatively weak bonds. Both ionic and covalent bonds are strong.
+
+16.What happens when a sodium atom reacts to form a compound? The atom will
+A. gain one electron
+B. lose one electron
+C. gain two electrons
+D. lose two electrons
+Answer is B: sodium is a metal so will lose an electron. As it occurs in period
+IA of the periodic table we know it loses a single electron.
+
+17.When nitrogen combines with hydrogen to form a compound, its formula will be:
+A. NH3
+B. N3H
+C. NH4
+D. NH
+Answer is A: N requires 3 electrons to complete its outer shell (it occurs in column VA of the periodic table), while H requires one. Hence three H must attach to a single N.
+
+18.Which of the following type of bond between atoms is the weakest?
+A. ionic bond
+B. polar bond
+C. covalent bond
+D. hydrogen bond
+Answer is D: the hydrogen bond is the weakest. Almost all covalent bonds are polar bonds.
+
+19.Ionic, non-molecular compounds are likely to have which of the following sets of properties?
+A. high melting point, often soluble in organic liquids, in pure form do not conduct electricity.
+B. low melting point, no strong odour, soluble in water, electrical conductivity in solution.
+C. high melting point, electrical conductivity in solution, no strong odour, often soluble in water
+D. low melting point, strong odour, soluble in organic liquids, in pure form do not conduct electricity.
+Answer is C: high melting points and electrical conductivity are indicative of ionic compounds.
+
+20.Which of the following best describes a molecule?
+A. The simplest structure in an ionic compound.
+B. One thousandth of a mole.
+C. The particles of which covalent compounds are composed.
+D. The smallest particle of an element.
+Answer is C: molecules are the particles of covalent compounds.
+
+21.Which of the following is true of metal elements?
+A. The four most common metal elements in the body have the symbols: C, H, O and N.
+B. They form compounds with non-metals.
+C. When they form compounds, they gain electrons.
+D. In the body, ions of metal atoms have a negative charge. Answer is B: all other choices are wrong.
+Answer is B: all other choices are wrong.
+
+22.Which of the following symbols represents a chemical element?
+A. O
+B. CO
+C. CO2
+D. H3O+
+Answer is A: O symbolises oxygen, element number
+
+23.What is the name given to the particles that make up a covalent compound?
+A. ions
+B. molecules
+C. anions and cations
+D. metal atoms
+Answer is B: this is a definition of molecules.
+
+24.Compounds may be described by which of the following sentences?
+A. Pure substances that contain two or more elements.
+B. Materials that are composed of particles called molecules.
+C. Materials composed of more than one part, and the parts may be present in any proportion.
+D. Substances that appear on the right hand side of the periodic table. Answer is A: choice B refers only to covalent compounds.
+Answer is A: choice B refers only to covalent compounds.
+
+25.The symbol for potassium is which of the following?
+A. PO4
+B. Po
+C. P
+D. K
+Answer is B: K is from Kalium which is the Latin word for potassium.
+
+26.“Covalent” is the term applied to which of the following bonds?
+A. Those between an ion and all the surrounding oppositely charged ions.
+B. The bond between an electrolyte and the surrounding water molecules in a solution.
+C. Those between non-metal atoms.
+D. Those between atoms on the left hand side of the periodic table.
+Answer is C: non-metals share electrons when they react with each other (rather than losing or gaining), hence the prefix “co-”.
+
+27.Given that one mole is 6 × 1023 particles, how much is a millimole?
+A. 6 × 1020 particles
+B. 106 mole
+C. 10-6 mole
+D. 6 × 10-3 particles
+Answer is A: a millimole is one thousandth of a mole, so 1 mmol = 10−3 × 6 ×
+1023 = 6 × 1020 particles
+
+28.Which of the following is a definition of a molecule? The particle that composes:
+A. covalent compounds
+B. non-metal elements
+C. electrolytes
+D. ionic compounds
+Answer is A: This is one definition of a molecule.
+
+29.What is the smallest particle of a non-metal element known as?
+A. a molecule
+B. an atom
+C. an ion
+D. a neutron
+Answer is B: an atom is the smallest particle of any element – not just non-metals!
+
+30.What is the difference between ions and molecules?
+A. ions have an electrical charge whereas molecules do not.
+B. ions are from metal elements only whereas molecules contain only non- metal elements
+C. ions arise from compounds between non-metal elements, whereas mole- cules arise from metal and non-metal elements
+D. an ion may be formed from a single atom but molecules always involve more than one atom
+Answer is D: This is the only correct choice. However molecules may also form ions – polyatomic ions.
+
+31.Of the four different types of matter listed below which is not an example of an element?
+A. hydrogen
+B. oxygen
+C. water
+D. gold
+Answer is C: water is a compound of H and O.
+
+32.A certain pure substance, A, when heated is changed into two quite different pure substances, C and
+D. Which of the following statements must be true?
+A. A is a compound.
+B. C and D are not elements.
+C. A, C and D are all compounds.
+Answer is A: only this choice must be true. The others are just possible.
+
+33.Which of the following statements about atoms is FALSE?
+A. They are mostly empty space.
+B. Nearly all their mass is concentrated in the nucleus.
+C. In a neutral atom protons and electrons are equal in number.
+D. The nucleus contains equal numbers of protons and neutrons.
+Answer is D: for the elements with smaller atoms, usually this is true, but for heavier elements it is not.
+
+34.In which of the following sequences are particles listed in order of increasing size from left to right?
+A. electron, atom, proton, molecule
+B. molecule, atom, proton, electron
+C. atom, proton, electron, molecule
+D. electron, proton, atom, molecule
+Answer is D: an electron so far is immeasurably small, while a molecule must have at least two atoms and the proton is a sub-atomic particle.
+
+35.Which of the following is the name of a subatomic particle?
+A. anion
+B. cation
+C. molecule
+D. neutron
+Answer is D: a neutron is one of the constituents of the atomic nucleus.
+
+36.Two atoms have the same mass number but different atomic numbers. Which of the following statements concerning these atoms is TRUE?
+A. Each has the same number of neutrons in its nucleus.
+B. They are isotopes.
+C. They are atoms of different elements.
+D. Each has the same number of protons in its nucleus.
+Answer is C: different atomic numbers means different numbers of protons and hence different elements.
+
+37.What is the atomic number of the element occupying Group VA and Period 4 of the Periodic Table?
+A. 33
+B. 34
+C. 51
+D. 52
+Answer is C: This is Arsenic (As) – you may need to consult a periodic table to answer this.
+
+38.Some atoms of iodine, I, contain 53 protons and 78 neutrons in their nuclei. A
+correct symbol for these atoms would be:
+A. 53131I
+B. 5378I
+C. 78131I
+D. 7853I
+Answer is A: the convention is: the number of protons is the subscript; the sum of the number of protons and neutrons (131) is the superscript.
+
+39.Which of the following atoms normally forms ions having a single, positive charge?
+A. Mg
+B. S
+C. Cl
+D. K
+Answer is D: This is because potassium is a metal and from group IA of the periodic table.
+
+40.Which of the following statements concerning isotopes is FALSE?
+A. They contain the same number of protons in their atoms.
+B. They contain the same number of electrons in their atoms.
+C. They contain the same number of neutrons in their atoms.
+D. They have very similar chemical properties.
+Answer is C: having a different number of neutrons (while having the same number of protons) is what defines them to be isotopes
+
+2.Which of the following represen- tations of the bonding in a molecule of nitrogen is correct?
+A. N+ N-
+B. N–N
+C. N=N
+D. N≡N
+Answer is D: Nitrogen is placed in period VA of the periodic table and so needs to share three electrons. That is, needs to form three covalent bonds.
+
+42.Which of the following properties is least likely to be possessed by a covalent, molecular substance?
+A. strong odour
+B. high solubility in water
+C. melting point above 400 °C
+D. low electrical conductivity
+Answer is C: A high melting point is characteristic of ionic substances. Some covalent compounds are soluble in water.
+
+43.The diagrams below display the covalent bonds present in a series of simple molecules. In which case is the number of bonds surrounding an atom in the diagrams below INCORRECT?
+A. Carbon dioxide, O – C – O  CI CI CI CI
+B. carbon tetrachloride, CI H N H
+C. ammonia, H
+D. water, H – O – H
+Answer is A: carbon must form four bonds (not two). It is from group IV A in the periodic table
+
+1.Which item from the following list is an electrolyte?
+A. Ca++
+B. oxygen gas (O2) dissolved in water
+C. table salt (solid form of Na+Cl-)
+D. glucose (solid form of the sugar)
+Answer is C: “An electrolyte is a substance that when dissolved in water, will produce ions in solution.”
+
+2.Given that one mole of Na+Cl− has a mass of 58.5 g, how many grams of Na+Cl−
+are dissolved in a solution of 0.1 mole per litre?
+A. 0.585 g
+B. 5.85 g
+C. 58.5 g
+D. 0.1 g
+Answer is B: 0.1 mole = 1/10 of 58.5 g = 5.85 g
+
+3.How many grams of sodium chloride are there in (0.9 %) normal saline?
+A. 0.09 g per 100 ml
+B. 0.09 g per litre
+C. 9 g per 100 ml
+D. 9 g per litre
+Answer is D: 0.9 % means 0.9 g per 100 ml of solution = 9 g per 1000 ml (i.e. per litre)
+
+4.How many grams of sodium chloride are there in a one litre bag of 0.9 % saline?
+A. 0.09 g
+B. 0.9 g
+C. 9 g
+D. 90 g
+Answer is C: 0.9 % means 0.9 g per 100 ml of solution = 9 g per 1000 ml (i.e. per litre)
+
+5.What is the percentage concentration of glucose if 80 gram of glucose is dis- solved in one litre of solution?
+A. 0.8 %
+B. 5 %
+C. 8 %
+D. 80 %
+Answer is C: 80 g per 1000 ml = 8 g per 100 ml = 8 %
+
+6.Given that the concentration of hydronium ions in a solution with pH of 2 is
+0.19 %, what would be the concentration of hydronium ions in a solution with pH of 3?
+A. 0.13 %
+B. 0.29 %
+C. 0.019 %
+D. 1.9 %
+Answer is C: a pH change of one corresponds to a change in hydronium ion concentration by a factor of
+
+7.What does the term “electrolyte” refer to?
+A. an uncharged dissolved particle.
+B. the smallest particle of an element.
+C. a substance that will conduct electricity when dissolved in water.
+D. negatively charged sub-atomic particles.
+Answer is C: this is the definition of an electrolyte
+
+8.What is meant by referring to a solution concentration of 0.18 %?
+A. 0.18 g of solute in 100 ml of solution.
+B. 1.8 g of solute in 100 ml of solution.
+C. 0.18 g of solute in one litre of solution.
+D. 0.18 mole of solute in 100 ml of solution.
+Answer is A: 0.18 per cent means 0.18 g per 100 ml of solution.
+
+9.Which of the following is NOT an electrolyte (or does not contain electrolytes)?
+A. Cl−
+B. acetic acid
+C. glucose
+D. a 0.9 % solution of sodium chloride
+Answer is C: glucose will dissolve in water, but no ions are produced.
+
+10.If the concentration of a solution is 5 %, which of the following is true?
+A. There is 0.5 g of solute per 100 ml of solution
+B. There is 5 g of solute per 100 ml of solution
+C. There is 5 g of solute per 1000 ml of solution
+D. There is 50 g of solute per 100 ml of solution
+Answer is B: 5 % = 5 per cent = 5 per hundred = 5 g per 100 ml of solution.
+
+11.What does the term “electrolyte” refer to?
+A. the minor component of a solution.
+B. a substance that will conduct electricity when dissolved in water.
+4.2 Solutions 55
+C. the smallest particle of an element.
+D. negatively charged sub-atomic particles. Answer is B: this is a definition of electrolyte.
+Answer is B: this is a definition of electrolyte.
+
+12.The solution concentration 0.9 % means that there are
+A. 0.9 g of solute in 100 ml of solution.
+B. 9.0 g of solute in 100 ml of solution.
+C. 0.9 g of solute in one litre of solution.
+D. 0.9 mole of solute in 100 ml of solution.
+Answer is A: 0.9 % = 0.9 per cent = 0.9 per hundred = 0.9 g per 100 ml of solution.
+
+13.Which of the following is NOT an electrolyte (or does not contain electrolytes)?
+A. K+
+B. nitrate ions
+C. haemoglobin
+D. a 1 % solution of sodium chloride
+Answer is C: haemoglobin is an uncharged protein found within red blood cells.
+
+14.Which is the best definition of an electrolyte?
+A. an atom that dissociates into ions.
+B. a substance that will conduct electricity when it is dissolved in water.
+C. molecules of solid, liquid or gas that will conduct electricity in solution.
+D. a substance that will conduct electricity.
+Answer is B: this is a definition of electrolyte. Choice C is restricted to mole- cules; and there must be a solution involved, so D is wrong.
+
+15.What is the condition known as hyperkalemia characterised by? A A. higher than normal concentration of potassium in the blood.
+A. higher than normal concentration of potassium in the blood.
+B. lower than normal concentration of potassium in the blood.
+C. serum sodium concentration greater than 150 mmol/l.
+D. serum sodium concentration greater than 5 mmol/l.
+Answer is A: kalemia refers to potassium. “hyper-” refers to more or an excess.
+
+16.A solution of 5 % glucose is used for an infusion. Over a 2 hour period, 300 ml of the solution were used. How much glucose in grams was infused?
+A. 5 gm
+B. 12.5 gm
+C. 15.0 gm
+D. 50 gm
+Answer is C: 5 % means 5 g per 100 ml. So in 300 ml there would be 3× 5 g = 15 g infused.
+
+17.A solution of glucose is used for an infusion. Over a 3 hour period 250 ml of solution is used containing a total of 5 g of glucose. What is the concentration of the glucose solution used?
+A. 2 %
+B. 20 %
+C. 0.2 %
+D. 5 %
+Answer is A: 5 g per 250 ml = 20 g per 1000 ml (multiply by 4) = 2 g per
+100 ml = 2%.
+
+18.A sudden and severe loss of potassium due to diuretic abuse is likely to result in:
+A. hypothermia
+B. hyponatremia
+C. hypokalemia
+D. hypoventilation
+Answer is C: kalium means potassium, the prefix “hypo-” means a lack or decrease in.
+
+19.Which of the following statements relating to a patient with severe loss of potassium due to diuretic abuse is TRUE?
+A. the serum levels of potassium are > 3 mmol/L
+B. an ECG is probably not warranted
+C. the condition may be treated by administering oral glucose and potassium
+D. one course of action is to decrease the intake of potassium and to undergo ion-exchange resin treatment
+Answer is C: a loss of potassium may be treated by administering potassium. Hypokalemia refers to a blood concentration of <3 mmol/L, and such a level could affect the heart so an ECG IS warranted.
+
+20.Which strategy would be most effective in dealing with a severe case of dehydration?
+A. Oral administration of a hypertonic solution.
+B. Intravenous administration of distilled water.
+C. Intravenous administration of isotonic glucose.
+D. Intravenous administration of hypotonic sodium chloride.
+Answer is C: IV solutions should be isotonic (oral solutions should be hypo- tonic). Glucose would be absorbed by cells leaving the water behind in the blood which would reduce blood osmolarity. Hence water would redistribute itself by osmosis through the body.
+
+21.A common IV solution is the combination 0.18 % sodium chloride and 4 % glucose (also called “4 % and a fifth”). How many grams of each solute will be in a one litre bag?
+A. 0.18 g of sodium chloride and 4 g of glucose.
+B. 0.9 g of sodium chloride and 5 g of glucose
+C. 1.8 g of sodium chloride and 40 g of glucose
+D. 18 g of sodium chloride and 40 g of glucose
+Answer is C: 0.18 % sodium chloride and 4 % glucose means 0.18 g of sodium chloride per 100 ml and 4 g of glucose per 100 ml. So in one litre there would be 1.8 g and 40 g respectively.
+
+22.The “extra-cellular” fluid compartment of the body includes which of the following?
+A. interstitial, trans-cellular and connective tissue fluids
+B. vascular, connective tissue and interstitial fluids
+C. intra-cellular and transcellular fluid
+D. vascular and connective tissue fluid
+Answer is B: extracellular must include the blood (vascular) and the fluid between cells (interstitial).
+
+23.Fluid and electrolyte balance in the body is maintained by which of the following?
+A. the hormone aldosterone
+B. keeping accurate account of the patient’s fluid balance chart
+C. the nephron of the kidney
+D. the hypothalamus of the brain
+Answer is C: the nephron is the functional unit of the kidney that does this job.
+
+24.Which general description of the components of a solution is correct?
+A. solvent and solute
+B. solvent and liquid
+C. solute and solder
+D. liquid and solid
+Answer is A: the solvent dissolves (e.g. water), the solute (e.g. salt) is dissolved
+
+25.Which term below is NOT suitable to describe the concentration of a solution?
+A. 5 g/litre
+B. 5 %
+C. 2 Molar
+D. 0.5 moles
+Answer is D: This states an amount of substance only, without reference to the volume of solvent involved.
+
+26.Given that the healthy range of sodium ion concentration in the blood is 137–
+145 mmol/L, if the measured concentration of a blood sample was 130 mmol/L, what would the condition be called?
+A. hyperkalemia
+B. hypokalemia
+C. hypernatremia
+D. hyponatremia
+Answer is D: natrium is sodium. As 130 is less than 137, the prefix “hypo-” is the correct one.
+
+27.Extracellular fluid includes which of the following liquids?
+A. blood plasma
+B. blood plasma and interstitial fluid
+C. blood plasma and interstitial fluid and connective tissue fluid
+D. blood plasma and interstitial fluid and connective tissue fluid and liquid inside cells
+Answer is C: This choice includes more than choices A &
+B. D is wrong as liquid inside cells is not extracellular.
+
+28.What can be said about a solution that conducts electricity?
+A. the solute is a polar molecule
+B. the solvent is a non-polar liquid
+C. the solution contains dissolved ions
+D. the solution contains dissolved molecules
+Answer is C: dissolved ions must be present for electrical conduction to occur.
+
+29.Which of the body’s fluid compartments does the vascular compartment form part of?
+A. interstitial fluid
+B. extracellular fluid
+C. intracellular fluid
+D. transcellular fluid
+Answer is B: vascular = blood which is almost synonymous with extracellular.
+
+30.To what condition does the term “hypokalemia” refer?
+A. too little phosphorus in the blood
+B. too much sodium in the blood
+C. too little potassium in the blood
+D. too little sodium in the blood
+Answer is C: hypo- refers to too little and Kalium is the Latin word for potassium.
+
+31.Which of the following is correct for intra-cellular fluid (ICF) and extra-cellular fluid (ECF)?
+A. the ECF is part of the ICF
+B. the majority of the body’s water is in the ECF
+C. the ICF contains more sodium than the ECF
+D. the ICF contains more potassium than the ECF
+Answer is D: there is more K within cells than outside cells (the reverse is true for sodium). Most body water is inside the cells.
+
+32.A one litre IV bag contains 0.18 % sodium chloride and 4 % glucose. What mass of solutes would be dissolved in 100 ml of the solution?
+A. 0.18 g of sodium chloride and 4 g of glucose
+B. 1.8 g of sodium chloride and 4 g of glucose
+C. 1.8 g of sodium chloride and 40 g of glucose
+D. 18 g of sodium chloride and 40 g of glucose
+Answer is A: 0.18 % sodium chloride and 4 % glucose means 0.18 g of sodium chloride per 100 ml and 4 g of glucose per 100 ml.
+
+33.In the context of fluid (water) balance, the body is said to have “two compart- ments”. What are they?
+A. the vascular and the interstitial compartments
+B. the intracellular and the interstitial compartments
+C. the lymph and the vascular compartments
+D. the extracellular and the intracellular compartments
+Answer is D: outside the cells and inside the cells includes everything.
+
+34.What is an insufficient concentration of potassium in the blood known as?
+A. hypokalemia
+B. hyponatremia
+C. hypopotassemia
+D. hypocalcemia
+Answer is A: the Latin word for potassium is kalium. The prefix “-hypo” refers to too little. Arguably, choice C is not wrong, but this expression is not used.
+
+35.If a solution is shown to be able to conduct electricity, then what is true?
+A. A: the solution is free of impurities
+B. B: the solution contains a dissolved electrolyte
+C. C: the solution contains dissolved molecules
+D. D: the solution is an aqueous solution
+Answer is B: a dissolved electrolyte will ensure that ions are in solution and the solution will conduct electricity as these ions are free to move through the solution.
+
+36.How many grams of sodium chloride are there in a one litre bag of 4 % glucose and 0.18 % sodium chloride solution?
+A. 0.18
+B. 1.8
+C. 18
+D. 41.8
+Answer is B: 0.18 % = 0.18 g per 100 ml, so in 1000 ml there would be 10 × 0.18 = 1.8 g.
+
+37.In the vascular compartment of the body, what is the solvent?
+A. blood
+B. plasma
+C. serum
+D. water
+Answer is D: All these things are in the vascular compartment, but water is the solvent.
+
+38.The extracellular fluid compartment consists of which of the following?
+A. vascular and transcellular
+B. interstitial, vascular and connective tissue fluid
+C. intra-cellular and transcellular
+D. trans-cellular, intra-cellular and connective tissue fluid
+Answer is B: Vascular and interstitial liquids must be included.
+
+39.Electrolyte balance is achieved largely by: A. the kidneys and aldosterone
+A. the kidneys and aldosterone
+B. drinking sufficient water
+C. anti-diuretic hormone and isotonic fluids
+D. ensuring that daily water intake is the same as daily water output
+Answer is A: The kidneys have the ability to reabsorb and secrete ions and water as required. Aldosterone causes the kidney tubules to reabsorb sodium ions while promoting the secretion of potassium ions.
+
+40.What may hyponatremia be described as?
+A. insufficient potassium in the blood
+B. insufficient iron in the blood
+C. insufficient sodium in the blood
+D. excess sodium in the blood
+Answer is C: the prefix “hypo-” refers to too little, and natrium is a Latin word that means sodium.
+
+41.Which of the following ways of expressing a solution’s concentration is written as a number without units?
+A. % concentration
+B. Molarity
+C. Osmotic pressure
+D. Specific gravity
+Answer is D: Specific gravity of a solution is the ratio of the density of the solu- tion to the density of water (which is 1.0). Consequently the density units “can- cel out”.
+
+42.A solution of 5 % glucose is infused over a period of three hours. If 250 ml of solution was used, how many grams of glucose was infused?
+A. 5 g
+B. 12.5 g
+C. 15.0 g
+D. 50 g
+Answer is B: 5 % glucose means 5 g per 100 ml of solution. 250 ml was used, therefore 2.5 × 5 = 12.5 g
+
+43.A solution is prepared by dissolving 10 g of glucose in 250 ml of water. What will be the concentration of this solution expressed as a percentage?
+A. 4
+B. 6
+C. 25
+D. 40
+Answer is A: % concentration states how many grams of solute are in 100 ml of solution. 10 g per 250 ml is the same as 10 ÷ 2.5 per 100 ml. This is 4 %
+
+1.Consider two aqueous solutions of different concentration separated by a semi- permeable membrane. In this situation, osmosis results in:
+A. water molecules moving to the side where the solution concentration is lower.
+B. the more concentrated solution becoming even more concentrated.
+C. the more dilute solution becoming even more dilute.
+D. the more concentrated solution becoming more dilute.
+Answer is D: The result of osmosis is that the more concentrated solution becomes more dilute.
+
+2.Osmosis may be defined as which of the following?
+A. The diffusion of water molecules across a semi-permeable membrane from the solution with higher water concentration into the solution of lower water concentration.
+B. The movement of water molecules across a semi-permeable membrane from the solution of higher concentration into the solution of lower concentration.
+C. The diffusion of solute particles across a semi-permeable membrane from the solution of higher concentration into the solution of lower concentration.
+D. The movement of water molecules across a semi-permeable membrane from the solution of lower concentration into the solution of higher concentration.
+Answer is D: The definition should include: “water”; movement through an SP membrane; direction of water flow from more dilute solution into the solution of higher concentration.
+
+3.What is the movement of water molecules across a plasma membrane from the side where the solution concentration is more dilute to the side where the solu- tion is more concentrated called?
+A. osmosis
+B. reverse osmosis
+C. diffusion
+D. hydration
+Answer is A: Osmosis is the diffusion of WATER molecules through a mem- brane, from where there is a higher concentration of water molecules to where
+
+4.The movement of water molecules through a plasma membrane from the side where there is a higher concentration water molecules to the side where there are fewer, is best known as:
+A. diffusion
+B. osmosis
+C. pinocytosis
+D. hydrolysis
+Answer is B: osmosis is the diffusion of water molecules through a membrane, down their concentration gradient.
+
+5.The diffusion of water molecules across a cell membrane from the side where the solution concentration is more dilute to the side where it is greater, is known as which of the following?
+A. osmosis
+B. filtration
+C. hydrolysis
+D. buffer action
+Answer is A: This is a definition of osmosis.
+
+6.If a semi-permeable membrane separates two aqueous solutions with different osmotic pressures, what will be the direction of water flow between solutions? From:
+A. higher osmotic pressure to the solution of lower osmotic pressure.
+B. lower osmotic pressure to the solution of higher osmotic pressure.
+C. higher concentration to the solution of lower concentration.
+D. higher hydrostatic pressure to the solution of lower hydrostatic pressure.
+Answer is B: lower osmotic pressure means a lower solution concentration (and a higher concentration of water molecules). Water moves from the dilute solu- tion into the more concentrated one.
+
+7.During dialysis, what moves across a semi-permeable membrane (and how)?
+A. Water molecules by diffusion from the region of high solute concentration to the region of low solute concentration.
+B. Water molecules by filtration from the region of high hydrostatic pressure to the region of low hydrostatic pressure.
+C. Solutes by diffusion from the region of high solute concentration to the region of low solute concentration.
+D. Solutes by filtration from the region of low hydrostatic pressure to the region of high hydrostatic pressure.
+Answer is C: dialysis refers to movement of solutes (not water). Choice D is wrong as filtration refers to movement due to hydrostatic pressure difference from the solution under higher pressure to low pressure.
+
+8.A suitable definition of osmosis would be movement:
+A. of solute particles through a plasma membrane from the side where their concentration is greatest to the side where it is lower.
+B. of water molecules through a plasma membrane from the side where their concentration is greatest to the side where it is lower.
+C. of a substance from a region where it is in high concentration to where its concentration is lower
+D. caused by a hydrostatic pressure difference.
+Answer is B: osmosis refers to movement of water molecules (not other mole- cules), by diffusion.
+
+9.The difference between dialysis and diffusion is that
+A. dialysis involves the movement of water molecules.
+B. diffusion involves movement against the concentration gradient.
+C. dialysis involves passive movement through a cell membrane.
+D. diffusion is caused by a hydrostatic pressure difference.
+Answer is C: diffusion is passive and occurs in the direction of the concentra- tion gradient. Diffusion can occur within a solution or across a membrane. Dialysis on the other hand, requires a membrane and is a term applied to sol- utes, not water molecules.
+
+10.Osmosis involves the movement of:
+A. water molecules through a membrane from a region of higher concentration of water molecules to a region of lower water molecule concentration.
+B. solute particles from a region of higher solution concentration to a region of lower solution concentration.
+C. water molecules from a region of lower concentration of water to a region of higher water molecule concentration.
+D. solute particles through a membrane from a region of lower solute concen- tration to a region of higher solute concentration.
+Answer is A: osmosis involves water molecules (not solutes) moving down their concentration gradient into a solution of lower concentration of water molecules.
+
+11.What does “osmosis” refer to?
+A. the constant random motion of ions and molecules.
+B. the movement of ions and molecules from regions of high concentration to regions of low concentration.
+C. the movement of water molecules through a semi-permeable membrane.
+4.3 Diffusion and Osmosis 65
+D. the movement of water molecules through a semi-permeable membrane from the side with higher water concentration to the side with lower water concentration.
+Answer is D: the definition must include water molecules; crossing a SP mem- brane; a correct direction of movement.
+
+12.What is the difference between filtration and diffusion?
+A. Diffusion can occur through a biological membrane whereas filtration cannot.
+B. Filtration can occur through a biological membrane whereas diffusion cannot.
+C. Filtration is the movement of molecules caused by a pressure difference but
+diffusion does not involve a difference in pressure.
+D. Diffusion is the movement of molecules caused by a pressure difference but filtration does not involve a difference in pressure.
+Answer is C: filtration requires a pressure difference, diffusion does not. Both diffusion and filtration can occur through a membrane.
+
+13.What is the difference between osmosis and dialysis?
+A. Dialysis involves the movement of solute molecules whereas osmosis refers to water molecules.
+B. Osmosis involves the movement of solute molecules whereas dialysis refers to water molecules.
+C. Osmosis involves movement of molecules across a membrane but dialysis does not involve a membrane.
+D. Dialysis involves movement of molecules across a membrane but osmosis does not involve a membrane.
+Answer is A: osmosis refers to the movement of water molecules (only) through a membrane. Only choice A is consistent with this.
+
+14.Which one of the following processes that describe movement of the particles in a solution does NOT require passing through a membrane?
+A. diffusion
+B. filtration
+C. dialysis
+D. osmosis
+Answer is A: While diffusion can occur through a membrane, its presence is not required in order to define diffusion.
+
+15.Which statement about the osmotic pressure of an aqueous solution is correct?
+Osmotic pressure:
+A. is an indication of the force with which pure water moves into that solution.
+B. is a measure of the tendency of water to move into the solution.
+C. is the drawing power of water and depends on the number of molecules in the solution.
+D. of a solution is called its osmolarity in mosmol/kg.
+Answer is B: solutions with high “osmotic pressure” are concentrated solutions and so water will diffuse into such solutions from solutions of lower concentra- tion – a process known as osmosis. The other answers are nonsense.
+
+16.Diffusion is the term given to the process where:
+A. molecules move along their concentration gradient from high concentration to low concentration.
+B. water moves along its concentration gradient from low concentration to high concentration.
+C. ATP is used to move ions along their concentration gradient.
+D. a membrane protein, by changing shape after binding to a molecule, moves the molecule across the plasma membrane.
+Answer is A: This is the only correct definition of diffusion.
+
+17.By what name is the movement of solute particles through a selectively perme- able membrane, in the direction of their concentration gradient known?
+A. diffusion
+B. dialysis
+C. osmosis
+D. filtration
+Answer is B: while the solute particles are indeed diffusing through the mem- brane, the presence of a membrane makes dialysis the appropriate term to use. Diffusion is also applied to the movement of particles within a solution even when they do not cross a membrane.
+
+18.Blood has a slightly higher osmotic pressure than the interstitial fluid that sur- rounds capillaries. What is the effect of this?
+A. Water will tend to move from the interstitial fluid into the capillaries.
+B. The solution concentration of blood is less than the solution concentration of interstitial fluid.
+C. Water will tend to move from the capillaries into the interstitial fluid.
+D. Capillaries will expand in diameter.
+Answer is A: water will move through a membrane into a solution of higher osmotic pressure (the blood) from a solution of lower osmotic pressure.
+
+19.Consider a patient undergoing kidney dialysis, whose blood has bicarbonate at a concentration of 14 mmol/L and urea at 23 mmol/L. The dialysing liquid has bicarbonate at 32 mmol/L and urea at 0 mmol/L. In which direction will these substances flow?
+4.3 Diffusion and Osmosis 67
+A. bicarbonate will flow from patient’s blood to dialysing liquid, urea will flow from patient’s blood into dialysing liquid.
+B. bicarbonate will flow from dialysing liquid to patient’s blood, urea will flow from dialysing liquid into patient’s blood.
+C. bicarbonate will flow from dialysing liquid to patient’s blood, urea will flow from patient’s blood into dialysing liquid.
+D. bicarbonate will flow from patient’s blood to dialysing liquid, urea will flow from dialysing liquid to patient’s blood.
+Answer is C: molecules will flow from areas of high concentration towards areas of low concentration. Hence bicarbonate will flow from the dialysing liquid at 32 to blood at 14 mmol/L, while urea will flow from blood at 23 mmol/L to the dialysing liquid at 0 mmol/L.
+
+20.Which is the best description for the osmotic pressure of a solution?
+A. A: the pressure that needs to be applied to the solution while it is separated from pure water by a membrane, to prevent a net flow of water through the membrane into the solution.
+B. B: the force with which pure water moves through a membrane into that solution as a result of its solute concentration.
+C. C: the movement of particles through a membrane, where the movement is caused by a hydrostatic pressure.
+D. D: it is the force of attraction for water by undissolved particles in the solution.
+Answer is A: the application of a hydrostatic pressure to a solution in order to oppose and prevent the osmotic flow of water into that liquid is the basis for assigning a value to that solution for its “osmotic pressure”. Osmotic pressure is the value of this externally applied hydrostatic pressure. Choice C describes filtration. Choices B & D are nonsense.
+
+21.In which of the following situations would the osmotic pressure of blood be the greatest?
+A. in a patient whose blood osmolarity is 290 mosmol/L
+B. in a patient whose blood osmolarity is 280 mosmol/L and whose urine spe- cific gravity is 1.002
+C. in a patient with hyperthermia
+D. in a patient who is dehydrated
+Answer is D: the healthy range for blood osmolarity is 280–300 mosmol/L. a dehydrated person would have a blood osmolarity approaching or exceeding
+300 mosmol/L.
+
+22.Osmosis involves movement of water from where the: A. water concentration is lower to where it is higher
+A. water concentration is lower to where it is higher
+B. solute concentration is higher to where it is lower
+C. solution is more concentrated to where it is less concentrated
+D. water concentration is higher to where it is lower
+Answer is D: in osmosis water molecules flow down their concentration gradi- ent (and from weaker solutions to more concentrated ones).
+
+23.What is “osmotic pressure”?
+A. the pressure exerted by a solution due to its concentration
+B. a measure of solution concentration expressed in the units of pressure
+C. the pressure exerted by the blood colloidal plasma proteins
+D. the pressure that drives water movement out of the arterial end of capillaries
+Answer is B: Osmotic pressure is a way of expressing solution concentration. The word pressure in the term “osmotic pressure” makes it tempting to errone- ously think of the solution exerting some type of pressure due to its solutes.
+
+24.If a red blood cell (rbc) is placed in a solution that has a greater concentration than that inside the rbc, what will happen?
+A. the rbc will crenate
+B. the rbc will haemolyse
+C. there will be a net movement of water out of the rbc into the solution
+D. there will be no net movement of water out of the rbc
+Answer is C: water will flow by osmosis from the rbc into the surrounding solu- tion. If the difference in concentration is large enough, the outflow of water will be large, and the rbc will also shrivel (crenate) as a result of this outflow.
+
+25.One of the following is an example of osmosis. Which one?
+A. water moving from the glomerulus of a nephron into the Bowman’s capsule
+B. water leaving a blood capillary from close to its arteriole end, to enter the interstitial fluid
+C. water entering a red blood cell that is in a 0.8% sodium chloride solution, by passing through its plasma membrane
+D. water evaporating from perspiration on the skin
+Answer is C: Osmosis refers to the movement of water through a membrane in the direction of its concentration gradient. A 0.8 % solution is hypotonic to the contents of the rbc, so water would enter the cell. In both choice A & C, the water is moving due to a hydrostatic pressure difference.
+
+26.The Na+/K+ ATPase pump in the plasma membrane moves Na out of the cell and K into the cell against their concentration gradient. Then Na reenters the cell and K leaks out of the cell, along their concentration gradients through their membrane channels. What is the movement of Na and K along their concentra- tion gradients called?
+4.4 Tonicity, Moles and Osmoles 69
+A. Active transport
+B. Diffusion
+C. Facilitated diffusion
+D. Osmosis
+Answer is B: The movement of these ions down their concentration gradient is diffusion. The concentration gradient is produced by the active transport of the Na+/K+ ATPase pump.
+
+27.Which of the following statements is FALSE?
+A. Filtration is movement of water caused by a difference in hydrostatic pres- sure, while diffusion results from a difference in concentration.
+B. Both diffusion and filtration will tend to continue till there is an equal amount on both sides of the membrane.
+C. Any hypertonic solution has a concentration lower than that of blood while a hypotonic solution has a concentration greater than the blood.
+D. Water moves into a red blood cell resulting in haemolysis, and out of a cell by a process called plasmolysis.
+Answer is C: Hypertonic solutions have a concentration greater than blood. Plasmolysis is the process in which cells lose water in a hypertonic solution.
+
+1.What information does the molarity of a solution provide?
+A. the density of a solution
+B. the number of dissolved particles per litre of solution
+C. the mass of a mole of the substance
+D. the tonicity of the solution
+Answer is B: if molarity is 1.2 mmol/L = 1.2 × 10−3 × (6.02 × 1023) particles per litre
+
+2.What term is applied to an intravenous solution that would cause a net move- ment of water out of red blood cells?
+A. hypertonic
+B. supertonic
+C. epitonic
+D. hypotonic
+Answer is A: “hyper-” refers to greater (tonicity) than inside an rbc. Hence water would move from the less concentrated solution (within the rbc) to the exterior.
+
+3.What is a definition of an osmole? The amount of substance that: A. must be dissolved to produce 6 × 1023 solute particles.
+A. must be dissolved to produce 6 × 1023 solute particles.
+B. must be dissolved to produce an osmotic pressure of 1.0 mmHg.
+C. must be dissolved to produce an isotonic solution.
+D. contains 6 × 1023 particles.
+Answer is A: Ionic substances (e.g. Na+Cl−) separate into ions when dissolved. Hence a mole of NaCl would produce two osmoles of ions (one mole of Na ions and one mole of Cl ions). Hence half of a mole of NaCl, when dissolved, would result in one osmole of dissolved particles (ions).
+
+4.Choose the solution below that has the lowest concentration of dissolved particles.
+A. 0.9 % NaCl
+B. isotonic powerade
+C. 5 % glucose
+D. hypotonic saline
+Answer is D: choices A, B & C are all isotonic solutions. “hypo” refers to a solution concentration that is less than that of human blood.
+
+5.What can be correctly said of an isotonic intravenous solution? An isotonic solution:
+A. causes water to move out of red blood cells.
+B. causes no net movement of water into or out of red blood cells.
+C. has the same solutes in the same solution concentration as blood plasma
+4.4 Tonicity, Moles and Osmoles 71
+D. causes water to move into red blood cells.
+Answer is B: isotonic means that the IV solution has the same concentration of particles (albeit the particles themselves may be different) as in rbc, hence there is no net osmotic flow.
+
+6.What would be the concentration of a solution that causes red blood cells placed in it to swell?
+A. hypotonic
+B. isotonic
+C. hypertonic
+D. iso-osmotic
+Answer is A: If the rbc swell, that means water is entering the cells, hence the surrounding liquid is at a lower concentration (i.e. hypotonic) to the liquid inside rbc.
+
+7.The unit milliosmoles per litre (mosmol/L) refers to which of the following?
+A. the number of particles in solution, in multiples of 6 × 1020 per litre.
+B. 103 times the number of moles of particles in a litre of solution.
+C. the number of molecules per litre of solution.
+D. the number of moles per millilitre of solution.
+Answer is A: A milliosmole (mosmol) is 10−3 × (6 × 1023) particles which is
+6 ×
+
+8.A hypertonic solution is one which
+A. has an osmotic pressure that is different to that inside red blood cells
+B. has an osmolarity less than that of red blood cells
+C. causes no net movement of water through the membrane of red blood cells
+D. has an osmolarity greater than that of red blood cells
+Answer is D: “Hyper” means greater than the tonicity (or osmolarity) inside an rbc.
+
+9.Given that one mole of Na+Cl− has a mass of 58.5 g, what would be the concen- tration of particles when 0.9 g of Na+Cl− is dissolved in 100 ml of water?
+A. 117 mmol/L
+B. 150 mmol/L
+C. 150 mosmol/L
+D. 300 mosmol/L
+
+Ans:=D: the number of moles in 0.9 g = 0.9 g/58.5 g/mol = 0.0154 mole of
+Na+Cl−. However NaCl separates into ions when dissolved, so that there will be
+0.0154 mol of Na and 0.0154 mol of Cl, hence 0.0308 osmol of parti- cles = 30.8 mosmol per 100 ml. In one litre, the number of moles would be ten times greater, so 300 mosmol/L (is closest).
+Answer is [not found in block]
+
+10.The unit millimoles per litre (mmol/L) refers to which of the following?
+A. the number of particles in solution, in multiples of 6 × 1020 per litre.
+B. 103 times the number of moles of particles in a litre of solution.
+C. the number of molecules per litre of solution.
+D. the number of moles per millilitre of solution.
+Answer is A: A mole = 6 × 1023 particles, a millimole (mmol) = 6 × 1020 particles. When dissolved, whether the particles are ions or molecules makes no difference.
+
+11.An isotonic solution is one which
+A. has an osmotic pressure that is different to red blood cells
+B. has an osmolarity less than that of red blood cells
+C. causes no net movement of water between the solution and red blood cells
+D. has an osmolarity greater than that of red blood cells
+Answer is C: “iso” means “the same”. When the concentration of the surround- ing liquid is the same as that inside a rbc, then no net water movement occurs.
+
+12.A hypotonic solution may be characterised by which of the following?
+A. a solution whose osmolarity is greater than that of blood.
+B. one that causes red blood cells to crenate.
+C. a solution within the range 280–300 mosmol/L
+D. one that causes a net water movement into red blood cells.
+Answer is D: “hypo” means less concentrated than the solution inside a rbc. This in turn means that the concentration of water molecules is greater outside the cell than inside. So there will be a net water flow by osmosis into the rbc.
+
+13.Which of the following statements could be applied to a hypertonic solution?
+A. it causes red blood cells to shrink and crenate.
+B. it causes red blood cells to swell and perhaps lyse.
+C. it is a solution with an osmolarity less than that of blood.
+D. it causes movement of water into red blood cells.
+Answer is A: rbc placed in a hypertonic solution would lose water to the solu- tion, so their volume would decrease (they would shrink). This would cause their membrane to become wrinkled (to crenate).
+
+14.To what does the term “mole” refer?
+A. the smallest particle of a molecular compound.
+B. the amount of solute that must be dissolved in water to make an isotonic solution.
+C. an amount of substance that contains 6.02 × 1023 particles.
+D. a group of 2 or more atoms bonded together.
+Answer is C: mole is the SI unit for “amount of substance”. Choice C is the correct number.
+
+15.What do solutions of 5 % glucose, 9.5 % sucrose and 0.9 % sodium chloride have in common? They:
+A. all have the same concentration
+B. are all hypotonic to plasma
+C. all contain the same number of dissolved particles per unit volume.
+D. are all hypertonic to plasma
+Answer is C: the three solutions are isotonic to blood. Choice A is incorrect they have different (weight/volume) concentrations.
+
+16.An intravenous fluid that is hypertonic to blood would have what effect on the red blood cells?
+A. it would have no effect.
+B. the number of red blood cells would increase
+C. red blood cells would lyse.
+D. it would cause red blood cells to crenate.
+Answer is D: rbc in contact with a hypertonic solution would lose water to the solution and shrink. This would cause their plasma membrane to crenate (wrinkle).
+
+17.An intravenous fluid that is isotonic to blood would have what effect on the red blood cells?
+A. it would have no effect.
+B. it would cause red blood cells to crenate.
+C. red blood cells would lyse.
+D. the blood volume would increase.
+Answer is A: rbc would be unaffected by an isotonic solution as there will be no net flow of water into or out of the cells.
+
+18.What may be said of isotonic solutions? They have:
+A. had added the same number of moles of solid substance per volume of solution.
+B. the same number of grams of solute per volume of solution.
+C. the same percent concentration.
+D. the same number of dissolved particles per volume of solution.
+Answer is D: Choice A is incorrect as a mole of an ionic substance will result in 2 or 3 osmoles of dissolved particles. (Choices B & C are incorrect).
+
+6.Given that the atomic weights are: C = 12, H = 1 and O = 16, how many moles of fructose are there in
+36 grams?
+A. 0.01 moles
+B. 0.10 moles
+C. 0.20 moles
+D. 0.50 moles
+Answer is C: Mass of one mole of fructose = (6 × 12) + (12 × 1) + (6 × 16) = 72 +
+12 + 96 = 180 g. 36 g is less than one mole. Number of moles = 36 g/180 g per mol = 0.2 moles
+
+5.Given that the atomic weights are: C = 12, H = 1 and O = 16, how many moles of ribose are there in
+3 grams?
+A. 0.01 moles
+B. 0.02 moles
+C. 0.05 moles
+D. 0.10 moles
+Answer is B: Mass of one mole of ribose = (5 × 12) + (10 × 1) + (5 × 16) = 60 + 1
+0 + 80 = 150 g. 3 g is less than one mole. Number of moles = 3 g/150 g per mol = 0.02 moles
+
+21.A solution is prepared containing 2 % sodium chloride (Na+Cl−). Which of the following best describes the osmolarity of this solution? (Note : Na = 23, Cl = 35.5)
+A. 340 mosmol/L
+B. 680 mosmol/L
+C. 340 osmol/L
+D. 680 osmol/L
+
+AnswerisB:2 % = 2g/100ml = 20g/l.Massof1molofNa+Cl− = 23 + 35.5 = 58.5g. number of moles of Na+Cl− required for one litre of 2 % solution = 20 g/58.5 g per mol = 0.34 mol. Sodium chloride is an ionic substance so dissociates into ions when dissolved. This would produce 0.34 mol of Na and 0.34 mol of Cl = 0.68 osmoles of dissolved particles in the one litre.
+0.68 osmol/L = 680 mosmol/L
+Answer is [not found in block]
+
+22.The isotonic concentration for sodium chloride is 0.9 %, and for glucose is 5 %.
+Which of the following solutions is isotonic with the above solutions? A solu- tion containing:
+A. 5 % glucose and 0.25 % sodium chloride
+B. 0.9 % sodium chloride and 0.5 % glucose
+C. 2.5 % sodium chloride and 2.5 % glucose
+D. 4 % glucose and 0.18 % sodium chloride
+Answer is D: Choices A & B are both hypertonic. 4 % glucose contains 4/5 of the concentration of dissolved particles that are in (isotonic) 5 % glucose.
+
+23.Given that one mole of glucose has a mass of 180 g, how many millimole of glucose does 40 g of glucose contain?
+A. 0.222
+B. 180
+C. 222
+D. 278
+Answer is C: Number of mole of glucose = 40/180 = 0.222 mole. Number of millimole = 222
+
+24.Which of the following statements about an “osmole” is correct? An osmole is the:
+A. same as a mole for ionic substances.
+B. formula weight of a substance expressed in grams.
+C. number of moles multiplied by the number of molecules in the chemical formula.
+D. amount of substance that must be dissolved in order to produce 1.6 × 1023
+dissolved particles.
+Answer is D: an osmole refers to the number of solute particles (ions or mole- cules) that exist in solution, after a substance has dissolved.
+
+6.Given that the atomic weights are: C = 12, H = 1 and O = 16, what is the mass of 1 mole of glucose?
+A. 1.8 g
+B. 18 g
+C. 180 g
+D. 1800 g
+Answer is C: Mass of one mole of glucose = (6 × 12) + (12 × 1) + (6 × 16) = 72 +
+12 + 96 = 180 g.
+
+11.Given that the atomic weights are: C = 12, H = 1 and O = 16, what is the weight of 1 mole of lactose?
+A. 3.42 g
+B. 34.2 g
+C. 342 g
+D. 3420 g
+Answer is C: Mass of one mole of lactose = (12 × 12) + (22 ×1) + (11 ×16) = 144
++ 22 + 176 = 342 g.
+
+27.Red blood cells are added to a hypotonic solution of glucose. Which of the fol- lowing best describes what you would observe?
+A. The cells would most likely sink to the bottom unaffected
+B. The cells would shrink due to water loss.
+C. The cells would coagulate.
+D. The cells would swell and burst due to intake of water
+Answer is D: A hypotonic solution would result in an inflow of water to rbc. This would stretch their plasma membrane and eventually it would break (burst).
+
+28.A solution that is said to be isotonic to blood has the same: A. percent concentration as blood.
+A. percent concentration as blood.
+B. number of moles of dissolved particles as blood.
+C. number of osmoles per litre of dissolved particles as blood.
+D. number of dissolved particles as blood.
+Answer is C: Isotonic means the same number of solute particles per litre. Choice B would also be correct if “moles” was replaced with “moles per litre”.
+
+29.If the following amounts of the given substances were dissolved in water, which would result in four osmoles of dissolved particles?
+A. 2 moles of C6H12O6
+B. 2 moles of Na+Cl−
+C. 2 moles of C12H22O11
+D. 2 moles of (Na+)2SO42−
+Answer is B: Osmole is a term used when the solute particles came from an ionic substance. Osmoles = moles × number of ions in formula. There are two ions in the formula for sodium chloride, hence 4 osmoles. There are three ions in the formula for sodium sulphate, hence 6 osmoles.
+
+30.What is the difference between “molarity” and “osmolarity”?
+A. molarity applies only to covalent compounds while osmolarity applies only to ionic compounds.
+B. osmolarity is molarity multiplied by two.
+C. the molarity and osmolarity of a solution is the same for dissolved ionic compounds, but are different for dissolved covalent compounds.
+D. osmolarity refers to the concentration of dissolved particles in a solution which may not be the same as the number of moles of substance that was dissolved per litre of solution.
+Answer is D: Choice D is better than choice A as molarity can also be applied to ionic compounds.
+
+31.Human blood has an osmolarity that lies within the range 280–
+300 mosmol/L. Which of the following statements is correct?
+A. an isotonic solution has osmolarity that is either less than 280 or greater than 300 mosmol/L
+B. a hypotonic solution has osmolarity between 280 and 300 mosmol/L
+4.4 Tonicity, Moles and Osmoles 77
+C. a hypertonic solution has osmolarity between 280 and 300 mosmol/L
+D. an isotonic solution has osmolarity between 280 and 300 mosmol/L
+Answer is D: An isotonic solution has the same osmolarity as blood.
+
+32.What distinguishes an osmole from a mole?
+A. In a sample of substance, the number of osmoles is twice the number of moles
+B. Both mole and osmole may be used in reference to ionic compounds, while covalent compounds are described by mole alone.
+C. the mass of a mole is the sum of the relative atomic masses (RAM) of the atoms in the formula stated as grams. An osmole is half of this mass.
+D. an osmole applies only to covalent molecular substances, whereas a mole is validly applied to both covalent and ionic substances.
+Answer is B: Both mole and osmole may be used in reference to ionic com- pounds (because the atoms of ionic compounds separate into their constituent ions when dissolved), while the atoms within covalent compounds remain as molecules even when dissolved.
+
+33.Which of the four IV solutions below is hypotonic?
+A. 0.18 % sodium chloride and 4 % glucose
+B. 0.3 % sodium chloride and 3.3 % glucose
+C. 0.45 % sodium chloride
+D. 0.9 % sodium chloride
+Answer is C: As 0.9 % NaCl is isotonic, and 0.45 % is less than 0.9 %, it must be hypotonic (and there is only one best correct answer!). A is “4 % and a fifth” while B is “3.3 % and a third”.
+
+34.Which of the following solutions is the most hypertonic?
+A. 0.3 % sodium chloride and 3.3 % glucose
+B. 0.45 % sodium chloride and 2.5 % glucose
+C. 0.45 % sodium chloride
+D. 10 % glucose
+Answer is D: 5 % glucose is isotonic, so 10 % must be hypertonic. Choices A & B are isotonic, while choice C is hypotonic.
+
+35.Given that a mole is 6 × 1023 particles, what is a millimole?
+A. 6 × 1020 particles
+B. one thousand moles
+C. 6 × 1026 particles
+D. 0.0001 moles
+Answer is A: a millimole is one thousandth (or 0.001) of a mole.1 milli- mole = 10−3 × (6 × 1023) = 6 × 1020 particles.
+
+36.A solution that is isotonic to blood plasma is one which
+A. contains 0.5 % glucose
+B. must contain the same solutes as blood and in the same concentration as in blood
+C. has an osmolarity between 280 and 300 mosmol/L
+D. causes no net movement of water into or out of cells
+Answer is D: The concept of tonicity involves reference to a membrane (in this case the plasma membrane of a rbc). Osmolarity is a property of the solution (and of how much solute is dissolved in it) and exists whether a semi-perme- able membrane is present or not.
+
+37.Which of the following quantities of substance would, when dissolved in one litre of water, produce a solution with the highest osmolarity?
+A. 1 mole of glucose molecules (C6H12O6)
+B. 1 mole of Na+Cl− (sodium chloride)
+C. 1 mole of haemoglobin molecules
+D. 1 osmole of K+ (potassium ions)
+Answer is B: Sodium chloride is an ionic substance, so when it dissolves,1 mole of it would separate into 1 mole of individual Na+ ions and 1 mole of Cl− ions giving a total of 2 osmoles of separate particles (ions) per litre.
+
+38.Given the concentration of Na+ inside the cell is about 10 mmol/L while it is
+140 mmol/L in the extracellular fluid. The values for K+ are 140 mmol/L inside the cell and 4 mmol/L extracellularly. In what directions would these ions diffuse?
+A. Na+ would diffuse into the cell while K+ would diffuse out.
+B. K+ would diffuse into the cell while Na + would diffuse out.
+C. Both Na+ and K+ would diffuse out of the cell.
+D. Both Na+ and K+ would diffuse into of the cell.
+Answer is A: Na would diffuse form 140 mmol/L to 10 – the direction of its concentration gradient which is from outside to inside. K would diffuse from
+140 mmol/L to 4, that is from inside to outside.
+
+39.Which of the following statements best describes what all isotonic solutions have in common? They:
+A. contain the same concentration of glucose molecules
+B. contain the same total concentration of particles
+C. contain the same concentration of sodium chloride
+D. have the same specific gravity
+Answer is B: While “iso-” refers to the same, it is the concentration of all the dissolved particles be they ions or molecules of any substance that determines tonicity.
+
+1.Which of the following statements is CORRECT?
+A. An acid is an electron donor and a base is an electron acceptor.
+B. An acidic solution has a pH less than 7 and a basic solution has a pH greater than
+Answer is [not found in block]
+
+7.C. Neutralization of a strong acid by a strong base gives only water.
+C. Neutralization of a strong acid by a strong base gives only water.
+D. The pH of saliva is normally in the range of 8.5–9.5
+Answer is B: All students should know that pH <7 indicates acidity. Salivary pH is about 6.0–7.
+
+2.Which statement about buffers below is most correct?
+A. A buffer is any acid and base which together control the concentration of pH in the blood.
+B. A buffer is the solution which allows CO2 to be lost from the lungs in order to control the pH of the lungs.
+C. A buffer is a weak base and its acid salt or a weak acid and its basic salt. The ratio of the two components helps maintain blood pH levels.
+D. A buffer is a mixture of two acids which together help to maintain blood pH
+Answer is C: A buffer has two conjugate components, one dealing with acid while the other destroys base. Their ratio determines the pH of the solution they are in.
+
+3.Which of the following statements is FALSE?
+A. An acid is a proton donor and a base is a proton acceptor.
+B. An acidic solution has a pH greater than 7 and a basic solution has a pH less than
+Answer is [not found in block]
+
+7.C. Neutralization of an acid by a base gives a solution of salt in water.
+C. Neutralization of an acid by a base gives a solution of salt in water.
+D. The pH of the stomach is normally in the range of 1.6–1.8
+Answer is B: The opposite of this statement is the truth.
+
+4.Neutralization of an acid by a base can be represented by the following equation:
+
+H O+ + OH−
+
+→ 2H2O 
+This means that the pH of the solution after the neutralization is approximately: A. 6
+A. 6
+B. 7
+C. 8
+D. 9
+Answer is B: The solution resulting from a neutralisation reactions should have pH = 7 (should be neutral) – provided that it is properly titrated.
+
+4.What would be the ratio of the two components if the pH were to become 6.4
+A. 6:1
+B. 10:1
+C. 50:1
+D. 1:10
+Answer is C: As the ratio of the two components changes, so does the pH of the solution. As pH is a logarithmic scale, a pH value change by 1.0 requires a change of one of the components by a factor of
+
+6.Which of the following statements is closest to a correct definition of an acid?
+A. a substance that ionises in a solution to produce hydronium and hydroxide ions.
+B. a substance that reacts with water to produce hydroxide ions.
+C. a substance that dissociates in water to produce a solution with pH greater than 7.
+Answer is [not found in block]
+
+0.D. a substance that reacts partly with water to produce a low concentration of hydronium ions.
+D. a substance that reacts partly with water to produce a low concentration of hydronium ions.
+Answer is D: An acid produces hydronium ions (H3O+) when added to water. If the concentration of hydronium ions produced is low, then the acid is a weak acid.
+
+7.The pH of a buffered solution depends on:
+A. the ratio of the components of the buffer solution.
+B. the amount of acid added to the buffer solution.
+C. the amount of base added to the buffer solution.
+D. the amount of acid and of base added to the solution.
+Answer is A: The pH of the buffered solution will change very little when either acid or base is added.
+
+8.The long term acid-base balance in the body is controlled by
+A. the phosphate and carbonic acid/bicarbonate buffers in the blood
+B. the kidneys and the lungs
+C. the phosphate, carbonic acid/bicarbonate, and protein buffers in the blood and cells.
+D. the kidneys
+Answer is B: Buffers temporarily manage the pH in the body’s liquids. It is from both the lungs and kidneys that acid is excreted (or not) from the body.
+
+9.You have a bottle of a strong acid and you add 100 ml of this to one litre of water. What would the pH of this final solution most likely be?
+A. pH = 1
+B. pH = 5
+C. pH = 7
+D. pH = 11
+Answer is A: Strong acid produces a high concentration of hydronium ions in aqueous solution, so the pH would be low.
+
+10.What is the approximate range of pH of gastric juice in the stomach?
+A. 1.6–1.8
+B. 6.2–7.4
+C. 7.3–7.5
+D. 7.8–8.6
+Answer is A: The stomach has the lowest pH in the body due to the secretion of hydrochloric acid (a strong acid) into it.
+
+4.What is the ratio of the two com- ponents if the pH were to become 8.4 after addition of more of the basic component.
+A. 1:200
+B. 1:21
+C. 1:30
+D. 1:40
+Answer is A: As pH is a logarithmic scale, a rise in pH value by 1.0 (from 7.4 to 8.4) requires a change in the concentration of the basic component by a fac- tor of
+
+12.Acidity is stated as a pH value. If the pH of urine sample “A” is 6 and the pH
+of urine sample “B” is 7, then which of the following is true?
+A. the most acidic sample is sample B.
+B. sample A has 10 times the hydroxide ion concentration of sample B.
+C. the B sample has 10 times the hydrogen ion concentration of sample A.
+D. sample A has 10 times the hydrogen ion concentration of sample B.
+Answer is D: The solution with higher hydrogen ion (=hydronium ion) concen- tration has the lower pH.
+
+13.One form of acid base imbalance in the body is called acidosis. In this situation, which of the following is true?
+A. the blood is less alkaline than it should be.
+B. the blood’s pH is less than 7.0
+C. the blood is less acidic than it should be.
+D. the concentration of hydrogen ions in the blood is less than it should be.
+Answer is A: Acidosis = blood pH <7.
+
+14.One of the buffer systems in the blood is the carbonic acid/bicarbonate buffer.
+It helps to maintain the body’s acid-base balance by destroying any excess:
+A. hydrogen ions in the blood.
+B. acid or base in the blood.
+C. hydroxide ions formed in the blood.
+D. bicarbonate ions formed in the blood.
+Answer is B: A buffer has the ability to destroy either acid or base.
+
+15.The major buffer system in the extracellular compartment is the:
+A. the protein buffer
+B. carbonic acid/bicarbonate buffer
+C. ammonia buffer
+D. phosphate buffer
+Answer is B: “Extracellular compartment” is almost synonymous with blood. The protein buffer is important within cells. The ammonia buffer is important in the kidney’s filtrate.
+
+16.If a patient was suffering from “acidosis”, what would this mean?
+A. blood pH is not sufficiently alkaline.
+B. blood pH is acidic.
+C. there is too little hydronium ion in the plasma.
+D. blood pH is too acidic.
+Answer is A: Healthy blood is slightly alkaline. Acidosis is applied to blood with pH below the normal range of 7.35–7.
+
+17.What happens when an acid is added to a buffered solution?
+A. the solution becomes acidic
+B. the pH of the solution decreases significantly
+C. the pH of the solution decreases very slightly
+D. the pH of the solution increases slightly
+Answer is C: A buffer will resist change to its pH. But pH does alter very slightly as the basic component destroys the added acid, and in the process becomes its cognate partner. This changes the ratio of the two components of the buffer slightly, and hence the pH.
+
+18.Which of the statements below is correct?
+A. The dihydrogen phosphate component of the phosphate buffer releases hydrogen ions into the lungs for excretion, and in the process, reverts to monohydrogen phosphate.
+B. Haemoglobin as it passes through the lungs, releases hydronium ions, which are breathed out.
+C. Carbon dioxide that is dissolved in blood diffuses into the alveoli and is breathed out.
+D. Hydronium ions react with bicarbonate ions to form carbonic acid which moves into the lungs for exhalation.
+Answer is C: Carbon dioxide that we breathe out enters the alveoli after diffus- ing there from the blood plasma. No other gas is excreted.
+
+19.When aspirin (an acid) is in the stomach (an acidic environment), what may be said of the aspirin molecules?
+A. Most molecules will be un-ionised and therefore able to be pass through the stomach mucosa.
+B. Most molecules will be ionised and therefore able to be pass through the stomach mucosa.
+C. Most molecules will be un-ionised and therefore NOT able to be pass through the stomach mucosa.
+D. Aspirin will be in the form of its salt and therefore able to be pass through the stomach mucosa.
+Answer is A: Aspirin in an acidic environment will be in its molecular form (and un-ionised). This makes it soluble in non-polar media like the plasma membrane (which is lipid). Being soluble in lipid, molecular aspirin is able to be absorbed from the stomach.
+
+20.Which statement below best describes an acid solution? The pH is less than: A. 5
+A. 5
+B. 6
+C. 7
+D. 8
+Answer is C: An acidic solution has a pH of less than 7.0
+
+21.If a patient has blood pH that is 7.3 (which is below the healthy range of blood pH values), which of the following is a correct statement?
+A. the patient has alkalosis
+B. the patient has excessive alkali
+C. the patient has acidosis
+D. the patient has insufficient acid
+Answer is C: A pH lower than the healthy blood pH range is called acidosis.
+
+22.Which of the following mechanisms results in acid being excreted from the body?
+A. breathing out H2PO4- (dihydrogen-phosphate) from the lungs
+B. excreting HCO3- in the urine
+C. excreting NH3 (ammonia) in the urine
+D. breathing out CO2 from the lungs
+Answer is D: As CO2 exhaled from the lungs, carbonic acid in the blood con- verts into carbon dioxide and water. So as carbon dioxide is exhaled, the amount of carbonic acid within the body decreases.
+
+23.If the pH of a patient’s blood is 7.4, then it can be said that the patient has: A. acidic blood
+A. acidic blood
+B. alkaline blood
+4.5 Acids, Bases and Buffers 85
+C. neutral blood
+D. alkalosis
+Answer is B: pH above 7.0 indicates an alkaline solution. However 7.4 is within the healthy range, so there is no alkalosis.
+
+24.Which of the following would happen when hydrochloric acid is added to water?
+A. the acid would react with water to from a low concentration of hydronium ions.
+B. the acid would react with water to from a high concentration of hydroxide ions.
+C. the acid would react with water to from a high concentration of hydronium ions.
+D. the acid would react with water to from a high concentration of bicarbonate ions.
+Answer is C: HCl is a strong acid. Hence a high concentration of hydronium ions would be produced.
+
+25.If the pH of the stomach contents changed from 3 to 2, which of the following is true?
+A. at pH 2, the concentration of hydronium ions is two thirds of the concentra- tion at pH
+Answer is [not found in block]
+
+3.B. at pH 3, the concentration of hydronium ions is 50 % more than the concen- tration at pH
+B. at pH 3, the concentration of hydronium ions is 50 % more than the concen- tration at pH
+Answer is [not found in block]
+
+2.C. at pH 2, the concentration of hydronium ions is ten times the concentration at pH
+C. at pH 2, the concentration of hydronium ions is ten times the concentration at pH
+Answer is [not found in block]
+
+3.D. at pH 3, the concentration of hydronium ions is ten times the concentration at pH
+D. at pH 3, the concentration of hydronium ions is ten times the concentration at pH
+Answer is [not found in block]
+
+26.The carbonic acid and bicarbonate buffer system is one if the buffers that help to maintain the blood’s pH within the healthy range by doing which of the following?
+A. carbonic acid destroys excess base in the blood while bicarbonate destroys excess acid.
+B. carbonic acid destroys excess acid in the blood while bicarbonate destroys excess base.
+C. carbonic acid and bicarbonate destroy excess acid.
+D. carbonic acid and bicarbonate destroy excess base.
+Answer is A: A buffer has two components. One is capable of destroying acid while the other is capable of destroying base.
+
+27.In a solution like blood that is buffered to minimise changes in pH, what deter- mines the pH of the solution?
+A. the concentration of the hydronium ions
+B. the logarithm of the concentration of the hydronium ions
+C. the ratio of the concentration of hydronium ions to hydroxide ions.
+D. the ratio of the concentrations of the two components of the buffer.
+Answer is D: Any hydronium and hydroxide ions present will react with one of the two components of the buffer. So the amount of buffer component (viz their ratio) governs the concentration of these ions and hence the pH of the solution.
+
+28.When in solution, an acidic drug also exists as its salt. What feature does the salt of a drug have that may not be shared by the acid form of the drug?
+A. The salt of the drug does not carry an electrical charge but the acid form does.
+B. The salt of the drug may be more soluble in lipid than the acid form of the drug.
+C. The acid form of the drug is ionised whereas the salt is not.
+D. The salt of the drug may be more soluble in water than the acid form of the drug.
+Answer is D: The salt of the drug, being ionised, is more soluble in water (a polar liquid) than is the drug molecule.
+
+29.Which one of the following best defines an acid?
+A. an aqueous solution with a pH of less than 7.0
+B. a substance that reacts with water to produce hydrogen ions
+C. a substance that reacts with water to produce hydroxide ions
+D. a substance that reacts with water to produce hydronium ions
+Answer is D: A “hydrogen ion” H+ is a bare proton which, if it freely exists, would attach to a water molecule to form the hydronium ion (H3O+). So choice D is a better answer than Choice B.
+
+30.Which one of the following acids is not normally found in the body?
+A. hydrochloric acid
+B. carbonic acid
+C. nucleic acid
+D. acetylsalicylic acid
+Answer is D: Acetylsalicylic acid is the medicine known as aspirin.
+
+31.If a sample of blood has a pH of 7.25, which of the following is true?
+A. it is in the healthy range
+B. it is neutral
+4.5 Acids, Bases and Buffers 87
+C. it is acidic
+D. it is basic
+Answer is D: pH above 7.0 indicates basic. 7.25 is below the healthy range.
+
+32.If a blood sample has a pH of 7.25, which of the following is NOT true?
+A. the blood is acidic
+B. the person may be suffering from metabolic acidosis
+C. the person may be suffering from respiratory acidosis
+D. the blood is alkaline
+Answer is A: pH must be less than 7.0 for acidic to be true. The condition cer- tainly is an acidosis.
+
+33.Why does drinking acidic solutions such as orange juice NOT make the blood acidic?
+A. Blood is alkaline and alkaline solutions react with ingested acids to neutral- ise them.
+B. The volume of water in the body is great enough that the effect of ingested acidic food and drink on pH is negligible.
+C. The blood has buffers whose components are able to resist changes to blood pH.
+D. The kidney is able to rapidly filter acidic components from blood to avoid pH changes.
+Answer is C: The blood has the ability to buffer normal intakes of acidic or basic substances. So excursions of blood pH outside the healthy range are prevented.
+
+34.Which statement about the phosphate buffer is correct?
+A. H2PO42− destroys acid and HPO4− destroys base
+B. H2PO42− destroys base and HPO4− destroys acid
+C. H2PO42− is basic and HPO4− is acidic
+D. the ratio of H2PO42− : HPO4− decreases following the addition of acid.
+Answer is B: Di-hydrogen phosphate is able to destroy base by donating one of its hydrogen atoms (and in the process it becomes mono-hydrogen phosphate). Choice D is wrong as addition of acid would decrease the proportion of mono- hydrogen phosphate while increasing di-hydrogen phosphate. This would make the ratio increase, that is the “fraction” would be larger.
+
+35.If the pH of a sample of blood was 7.4, which term below would be applied to it?
+A. acidotic
+B. acidic
+C. alkalotic
+D. alkaline
+Answer is D: 7.4 is in the healthy range for blood. Being greater than 7.0, indi- cates alkaline.
+
+36.Three of the solutions below have the SAME level of acidity (or alkalinity), the other is different. Which is the different one?
+A. blood
+B. a neutral solution
+C. a solution with pH = 7
+D. a solution with a hydrogen ion concentration of 10-7 mol/L
+Answer is A: Blood has pH in the range 7.35–7.
+
+37.Which of the following statements is a definition of a buffer solution?
+A. one where the number of osmoles of solute equals the number of moles.
+B. one where the concentration of hydronium ions equals the concentration of hydroxide ions.
+C. a solution that resists change to its pH.
+D. a solution that reacts partly with water to produce a relatively low concen- tration of hydronium ions.
+Answer is C: This is a definition of a buffer solution. Choice B indicates a neu- tral solution, while choice D alludes to a weak acid.
+
+38.Which of the following solutions is the most acidic?
+A. blood plasma
+B. gastric juice
+C. a solution with pH = 7
+D. a solution with hydronium ions at a concentration of 10-5 moles/L
+Answer is B: gastric juice has a pH of about 1.
+
+39.Pure water contains small but equal amounts of hydronium (H3O+) ions and hydroxide (OH−) ions. This means that water is:
+A. acidic
+B. basic
+C. acidic and basic
+D. neither acidic nor basic
+Answer is D: When the concentrations of hydronium and hydroxide ions is the same, their effects are cancelled and the solution is neutral.
+
+40.What do we call a substance that when added to water, reacts with water to produce hydronium ions?
+A. an ionic compound
+B. a base
+C. an electrolyte
+D. an acid
+Answer is D: This is a definition of an acid.
+
+41.How does the blood’s phosphate buffer behave when an hydronium ion is encountered?
+A. HPO42− destroys the hydronium ion and becomes H2PO4- – and blood pH
+decreases very slightly
+B. H2PO4- destroys the hydronium ion and becomes HPO42− and blood pH
+decreases very slightly
+C. HPO42− destroys the hydronium ion and becomes H2PO4- and blood pH
+increases very slightly
+D. H2PO4- destroys the hydronium ion and becomes HPO42− and blood pH
+increases very slightly
+Answer is A: Mono-hydrogen phosphate is the species that destroys acid (by accepting a hydrogen ion from the acid). Blood pH would decrease very slightly as the concentration of mono-hydrogen phosphate decreases slightly and the concentration of di-hydrogen phosphate increases slightly.
+
+42.One of the statements below about buffers is correct. Which one?
+A. a buffer consists of an acid and a base.
+B. a buffer will react with water to produce hydronium ions.
+C. a solution that is neither acidic nor basic is called a buffer.
+D. the components of a buffer are conjugate pairs.
+Answer is D: A buffer has two components. Each component converts to the other as it destroys acid (or base). Choice A is incorrect as a buffer is a weak acid and its slightly basic salt (or vice versa).
+
+43.An acid may be defined as a substance that:
+A. reacts completely with water producing a high concentration of hydronium ions
+B. reacts with water to produce hydroxide ions
+C. produces a pH of more than 7 when in solution
+D. reacts with water to produce hydronium ions
+Answer is D: An acid produces hydronium ions. Choice A defines a strong acid
+(but not a weak one).
+
+44.One of the statements below about buffers is WRONG. Which one?
+A. a buffer consists of a weak acid and its slightly basic salt.
+B. a buffer will react with water to produce hydronium ions.
+C. a solution that resists change to its pH is called a buffer.
+D. the components of a buffer are conjugate pairs.
+Answer is B: The ability to produce hydronium ions with water defines an acid, not a buffer.
+
+45.An acid may be defined by which one of the following statements?
+A. a substance with equal concentrations of hydronium and hydroxide ions.
+B. a substance that reacts partly with water to produce hydronium ions
+C. a substance that maintains the pH of the solution it is in.
+D. a substance that reacts with water producing hydroxide ions. Answer is B: This is a definition of an acid.
+Answer is B: This is a definition of an acid.
+
+46.Which of the following defines an acid?
+A. when in solution, resists change to pH
+B. reacts with water to produce hydronium ions
+C. reacts with a buffer to produce water
+D. has a pH of more than
+Answer is [not found in block]
+
+47.Which of the following is NOT an acid?
+A. a solution having a pH of
+Answer is [not found in block]
+
+3.B. a substance which reacts with water to produce hydronium ions.
+B. a substance which reacts with water to produce hydronium ions.
+C. carbonic acid.
+D. a solution that resists change to its pH Answer is D: Such a solution is a buffer.
+Answer is D: Such a solution is a buffer.
+
+48.What effect would a base have when added to the following solutions?
+A. Tap water: – it would react to produce hydronium ions.
+B. Tap water: – it would react to produce hydroxide ions.
+C. Buffered water: – it would raise the pH of the solution.
+D. Un-buffered water: – it would lower the pH of the solution.
+Answer is B: A base has the ability to produce hydroxide ions when added to water.
+
+49.What effect would an acid have when added to the following solutions?
+A. Tap water: – it would react to produce hydronium ions.
+B. Tap water: – it would react to produce hydroxide ions.
+C. Buffered water: – it would lower the pH of the solution.
+4.5 Acids, Bases and Buffers 91
+D. Un-buffered water: it would raise the pH of the solution.
+Answer is A: An acid has the ability to produce hydronium ions when added to water.
+
+4.A small quantity of strong acid (as an isotonic solution) is added to it. Which of the following values is most likely to be the pH of the resulting blood solution?
+A. 3.0
+B. 7.3
+C. 7.4
+D. 7.5
+Answer is C: Blood is buffered so very little pH change will result from the addition of acid. Certainly not enough to change the pH by 0.
+
+51.Blood in the body is different to a buffered solution held in a beaker. This is because hydronium (hydrogen) ions can be removed from solution in blood almost immediately by:
+A. filtration in the kidney from where it is eliminated from the body in urine.
+B. combining with hydroxide ions to form water which is eliminated as urine.
+C. combining with bicarbonate to form carbonic acid which disassociates to
+water and carbon dioxide which is breathed out.
+D. reacting with mono-hydrogen phosphate to form di-hydrogen phosphate.
+Answer is C: This is the best answer as it describes the buffer action and the continuous nature of exhalation means that there is no delay in excreting carbon dioxide. Choice A is also correct, but the elimination of acid via kidneys is not immediate.
+
+52.The definition of an acid is a substance that reacts:
+A. completely with water to produce a large concentration of hydronium ions.
+B. with water to produce hydroxide ions.
+C. with a base to produce a neutral salt.
+D. with water to produce hydronium ions.
+Answer is D: This is the best answer. Choice A is true of a strong acid only. Choice C is incorrect as the salt produced may also be basic or acidic.
+
+53.Choose the INCORRECT statement about buffer solutions.
+A. the pH of a buffer does not change on addition of acid or base.
+B. a buffer has two components which may be a weak acid and its salt.
+C. a buffer has two components which may be a weak base and its salt.
+D. pH of a buffer depends only on the ratio of its components.
+Answer is A: The pH of a buffer does change, albeit very slightly, on addition of acid or base.
+
+54.In the condition known as acidosis, the blood pH would be
+A. greater than 7.
+Answer is [not found in block]
+
+45.B. less than 7.
+B. less than 7.
+Answer is [not found in block]
+
+45.C. less than 7.
+C. less than 7.
+Answer is [not found in block]
+
+35.D. less than 7.
+D. less than 7.
+Answer is [not found in block]
+
+55.As the blood becomes more acidic, hydrogen (hydronium) ions combine with bicarbonate ions to form carbonic acid which in turn dissociates into carbon dioxide (to be breathed out by the lungs) and water. Which is the equation describing this reaction
+A. CO2 + H2O ←H2CO3 ←H
+B. CO2 + H2O →H2CO3 →H
++ −
+
++ + HCO −
++ + HCO −
+C. CO2 + H2O ←H
++ HCO3
+←H2CO3
+D. H+ + HCO − ← CO
++ H O ←H CO
+3 2 2 2 3
+Answer is A: Choice B is going in the wrong direction, while choices C & D are scrambled.
+
+4.What is the ratio of these two components if the
+pH were to become 8.4 after the addition of more of the basic component of the buffer?
+A. 1:5
+B. 2:4
+C. 1:8
+D. 1:40
+Answer is D: The pH of a buffer is determined by the ratio of its two compo- nents. pH is a logarithmic scale of the hydronium ion concentration of a solu- tion. Hence the ratio must change by a factor of 10 in order for the pH to change by one (i.e. change from 7.4 to 8.4).
+
+57.Which of the following pH values would you expect to a dilute solution of a weak base to have?
+A. 2.4
+B. 6.2
+C. 8.2
+D. 12.4
+Answer is C: A base has a pH greater than 7.
+
+58.A buffer solution having a pH of 8.5 has a small amount of strong acid added to it. What is its pH value likely to be closest to?
+4.6 Organic Chemistry and Macromolecules 93
+A. 5.0
+B. 8.4
+C. 8.6
+D. 12.4
+Answer is B: A buffer solution resists change to its pH. This means that its pH will change very little, but it will change slightly. As acid has been added, its pH will drop by a small amount.
+
+59.Which of the following statements about the role of the kidneys or lungs in the maintenance of acid-base balance within the body is FALSE?
+A. The kidneys are able to affect several buffer systems but the lungs affect only one.
+B. The lungs exert their influence on the carbonic acid/bicarbonate buffer system.
+C. Neither the lungs nor the kidneys have much influence over the protein buffer.
+D. The kidneys are able to respond more rapidly than the lungs to changes in acid-base balance.
+Answer is D: The lungs with each breath are able to excrete acid, by exhaling
+CO
+
+1.Denaturation of proteins involves disruption of the
+A. primary structure
+B. secondary structure
+C. tertiary structure
+D. covalent bonding
+Answer is C: Protein “tertiary structure” is held together by the relatively weak attraction between different parts of the protein molecule known as “hydrogen bonding”. This structure is the most easily disrupted.
+
+2.One of the following is NOT a function of lipids in the body. Which one?
+A. function as co-enzymes.
+B. used in phospholipids.
+C. used to make prostaglandins.
+D. steroids are produced from them.
+Answer is A: co-enzymes are proteins (not lipids)
+
+3.Amino acids are the building blocks of all proteins. As more amino acids are added the protein chain tends to fold upon itself in a characteristic way. This characteristic of a protein is called the:
+A. primary structure
+B. secondary structure
+C. tertiary structure
+D. quaternary structure
+Answer is C: The shape produced by folding is the tertiary structure. Primary structure is the sequence in which the amino acids are joined. Secondary struc- ture is any repetition of the primary structure. Quaternary structure does not exist.
+
+4.Which of the following is the correct combination for the nucleic acid DNA?
+A. Phosphate, Ribose, Uracil
+B. Phosphate, Deoxyribose, Uracil
+C. Phosphate, Ribose, Adenine
+D. Phosphate, Deoxyribose, Adenine
+Answer is D: “Deoxyribose” supplies the “D” in DNA. The base uracil occurs in RNA (not DNA) where it substitutes for the thymine that occurs in DNA.
+
+5.To which of the following class of biological compounds do all enzymes belong?
+A. Hormones
+B. Proteins
+C. Carbohydrates
+D. Lipids
+Answer is B: All enzymes are proteins
+
+6.The twisting of a polypeptide chain into a characteristic shape such as a helix is an example of which of the following?
+A. Primary structure
+B. Secondary structure
+C. Tertiary structure
+D. Quaternary structure
+Answer is C: Shape of the protein molecule is the tertiary structure of the protein.
+
+7.Which one of the following is NOT a steroid compound?
+A. stearic acid
+B. oestrogen
+C. cholesterol
+D. testosterone
+Answer is A: Stearic acid is a fatty acid. The sex hormones oestrogen and tes- tosterone are derived from cholesterol.
+
+8.Which of the following carbohydrates are able to pass through the plasma membrane?
+A. disaccharides
+B. sucrose
+C. glycogen
+D. monosaccharides
+Answer is D: For example glucose maybe absorbed from the gut by passing thought the plasma membrane of the cells lining the gut. Glucose is also absorbed by cells for respiration inside mitochondria.
+
+9.Which of the following foods when catabolised in the body produces the high- est yield of energy?
+A. 100 gram of fat
+B. 100 gram of chocolate
+C. 100 gram of carbohydrate
+D. 100 gram of protein
+Answer is A: Fat is higher in energy (kilojoules) than either protein or carbohy- drate. Chocolate has sugar (carbohydrate) as well as fat as an ingredient.
+
+10.Fructose is a simple sugar or carbohydrate. What is it an example of? A: A. monosaccharide
+A. monosaccharide
+B. disaccharide
+C. polysaccharide
+D. oligosaccharide
+Answer is A: Fructose is a simple sugar or monosaccharide – it cannot be con- verted to a simpler sugar by hydrolysis.
+
+11.Cells use glucose as an energy source, but store it as glycogen. When needed the glycogen is broken down by a process called:
+A. glycolysis
+B. glycogenesis
+C. gluconeogenesis
+D. glycogenolysis
+Answer is D: Glycogen – o – lysis refers to the lysis (splitting) of glycogen into smaller glucose units.
+
+12.A lipid such as oleic acid contains a number of double bonds in the carbon chain. Because of this, what term is applied to it?
+A. monounsaturated
+B. diunsaturated
+C. polyunsaturated
+D. saturated
+Answer is C: “Unsaturated” because addition hydrogen atoms may be attached to the carbon bonds if the double bond was replaced by a single bond. “Poly-” because there is more than one instance of a double bond between adjacent carbon atoms.
+
+13.What are the structural components of proteins?
+A. Amino acids
+B. Fatty acids
+C. Peptides
+D. Monosaccharides
+Answer is A: Peptides is used for several amino acids joined together.
+
+14.Which of the following chemical formulae represents a typical carbohydrate?
+A. Ca10(PO4)6(OH)2
+B. N2C5H12O4
+C. C120H240O120
+4.6 Organic Chemistry and Macromolecules 97
+D. C57H110O6
+Answer is C: A carbohydrate is composed of carbon, hydrogen and oxygen atoms. Usually there are twice as many H atoms as C atoms. Choice D, having relatively few O atoms, is typical of a lipid.
+
+15.Proteins perform a wide range of functions in the body including which one of the following?
+A. They are our major source of energy
+B. They act as enzymes
+C. They are used to make sex hormones
+D. They are necessary for the absorption of vitamins A, D, E and K
+Answer is B: All enzymes are proteins. Carbohydrates should be the major energy source. Choice D lists the fat soluble vitamins.
+
+16.Which of the following refers to a carbohydrate?
+A. diglycerol
+B. adenosine diphosphate
+C. disaccharide
+D. dipeptide
+Answer is C: A disaccharide is a sugar (hence a carbohydrate) that can be sim- plified into simpler sugars.
+
+17.What are the bonds that maintain the secondary and tertiary structure of proteins?
+A. hydrogen bonds
+B. covalent bonds
+C. ionic bonds
+D. peptide bonds
+Answer is A: Hydrogen bonds acting between N and H. Covalent bonds act between the atoms of an amino acid, while peptide bonds (=covalent bond) is the term used for the bond between one amino acid to the adjacent one.
+
+18.Which of the following formulae would be most likely to represent a lipid?
+A. C2936H4624N786O889S41
+B. C57H110O6
+C. C6H12O6
+D. Ca10(PO4)6(OH)2
+Answer is B: Lipids consist of carbon, hydrogen and oxygen, with relatively few O compared to
+C. Choice C is a monosaccharide, Choice A is a protein (note the nitrogen). No-one should have chosen D (=calcium hydroxyapatite).
+
+19.What are the four most common elements found in proteins?
+A. C, H, N, Ca
+B. C, O, N, Fe
+C. C, H, N, O
+D. N, C, H, Na
+Answer is C: Nitrogen must be present. Choice B is wrong as H is absent.
+
+20.To what type of fatty acids is the term “saturated” applied?
+A. Those with four single bonds around each carbon atom.
+B. Those with at least one double bond between carbon atoms.
+C. Those that are not implicated in coronary heart disease.
+D. Those which are essential in our diet.
+Answer is A: Saturated refers to the number of single bonds around carbon atoms. The maximum is four if there are no double bonds.
+
+21.Which of the following is a polysaccharide?
+A. glucuronidase
+B. glucagon
+C. glucose
+D. glycogen
+Answer is D: Choice A is an enzyme (“-ase”), B is a hormone, C is a monosaccharide.
+
+22.What holds the primary structure of a protein together?
+A. hydrogen bonds
+B. covalent bonds
+C. peptide bonds
+D. ionic bonds
+Answer is C: Protein primary structure refers to the sequence of the linked amino acids. The link between adjacent amino acids is called a “peptide bond” – a special term reserved for the covalent bond between the C of one amino acid and the N of the adjacent amino acid.
+
+23.Which of the following are NOT proteins?
+A. glycolipids
+B. enzymes
+C. haemoglobin
+D. albumin
+Answer is A: Glycolipids are lipids not proteins.
+
+24.What is a “saturated fat”?
+A. one that contains cholesterol
+B. a triglyceride that has three fatty acids
+C. one where the carbon atoms that are connected by single bonds
+4.6 Organic Chemistry and Macromolecules 99
+D. one that must be included in our diet
+Answer is C: Saturated means each carbon atom is directly bonded to four other atoms.
+
+25.What is a function of carbohydrates in the body?
+A. to act as enzymes
+B. to provide energy
+C. function as local hormones
+D. to provide the building blocks for proteins
+Answer is B: Dietary carbohydrates are converted to simple sugars which are disassembled in mitochondria to produce ATP.
+
+26.Which of the following is a typical formula for a polypeptide?
+A. C57H110O6
+B. C18H29O2
+C. C21H41O5N8
+D. C6H12O6
+Answer is C: A polypeptide is several amino acids joined together. Hence the element nitrogen must be present.
+
+27.In what form is most of the lipid component of our food in?
+A. triglycerols
+B. polysaccharides
+C. complex carbohydrates
+D. polypeptides
+Answer is A: Our dietary lipids are in the form of triglycerols (a glycerol mol- ecule and three fatty acids).
+
+28.In organic compounds, How many bonds do carbon atoms always form?
+A. four single bonds
+B. four covalent bonds
+C. two double bonds
+D. four ionic bonds
+Answer is B: Carbon has four valence electrons and “would like” a share of four more to fill its outer shell. This is achieved by four covalent bonds, where a double bond counts as two covalent bonds.
+
+29.A molecule of an organic compound can be thought of as having two portions: a radical with an attached functional group. What is the correct definition of a functional group?
+A. it consists of carbon atoms and hydrogen atoms
+B. it is responsible for most of the properties of the molecule.
+100
+C. it has a modest influence on the properties of the molecule.
+D. it consists of a ring of carbon atoms.
+Answer is B: As organic molecules all contain C, H and O atoms in similar bonding situations, the differences in their chemical behaviour (function) is largely governed by the differences in structure of small groups of atoms that are bonded differently or contain atoms other than C, H & O. These groups of atoms are known as the functional group.
+
+30.The one medicine may have many names. What is the “generic name” of a medicine?
+A. the name that describes the effect of the drug on the body.
+B. the systematic name of the chemical involved.
+C. the name given to the product by a manufacturer of the drug.
+D. the name proposed by the inventor and approved by a government agency.
+Answer is D: A medicine has only one “generic” name but each manufacturer will give it their own “trade” name. Choice A refers to the naming of a class of drugs each of which may be a different molecule.
+
+31.When a protein is denatured, which aspect of its structure is affected the
+LEAST?
+A. primary structure
+B. secondary structure
+C. tertiary structure
+D. quaternary structure
+Answer is A: Denaturation does not affect primary structure. That is, the sequence of amino acids within the polypeptide chain.
+
+32.What chemical symbol for the element/atom occurs in an amino acid but not in fats and carbohydrates?
+A. N
+B. H
+C. O
+D. C
+Answer is A: Amino acids contain an “amine” group – a nitrogen atom bonded to a hydrogen atom. Nitrogen atoms do not occur in fats or carbohydrates.
+
+33.The element carbon is said to be tetravalent. This means it always has the fol- lowing number of covalent bonds in neutral compounds.
+A. one
+B. two
+C. three
+D. four
+Answer is D: carbon forms four covalent bonds. “Tetra” refers to four.
+
+34.Which of the following structures represents a molecule belonging to the alco- hol family?
+A. CH3 – COOH
+B. CH3 – OH
+C. CH3 – O – CH3
+D. CH3 – CO – CH3
+Answer is B: An “alcohol” has an oxygen bonded to a hydrogen (-OH) atom as a functional group. Choice A has a carboxylic acid (-COOH) functional group.
+
+35.Which statement describing the chemical reactivity of organic molecules is
+FALSE?
+A. Reactivity depends on the nature of the functional group.
+B. Reactivity is independent of the number and nature of the carbon rings
+C. Reactivity is dependent on the nature and size of the radical group.
+D. Reactivity in the body may depend on the internal body factors such as temperature and pH.
+Answer is B: Reactivity IS in fact influenced by the number and nature of the carbon rings. So the statement B is false.
+
+36.Which of the following structures represents molecules belonging to the amide
+family?
+A. CH3 – SH
+B. CH3 – NH2
+C. CH3 – CO – NH2
+D. CH3 – OH
+Answer is C: the “amide” functional group consists of a carbon, oxygen and a nitrogen atom. The carbon atom is double bonded to an oxygen atom while also being single bonded to a nitrogen atom.
+
+37.A hydrocarbon is a type of compound that contains: A. Only carbon atoms
+A. Only carbon atoms
+B. Carbon and Hydrogen atoms
+C. Carbon, Hydrogen and Oxygen atoms
+D. Water and carbon atoms
+Answer is B: Hydrocarbon means hydrogen combine with carbon.
+
+38.A hydrocarbon molecule which contains at least one double bond could be an example of which type of compound:
+A. Alkane
+B. Alkene
+C. Alkyne
+D. Alcapone
+Answer is B: Alkenes contain at least one double bond between carbon atoms. Alkanes have only single bonds, while alkynes have at least one triple bond between carbon atoms.
+
+39.Which of the following structures represents a molecule belonging to the
+ketone family?
+A. CH3–CO–NH2
+B. CH3–NH2
+C. CH3 – O – CH3
+D. CH3 – CO – CH3
+Answer is D: A ketone has a “carbonyl” functional group (C double bonded to O) while the carbon atom of the carbonyl group is also bonded to two other carbon atoms (that is, is attached to two radicals). Choice C is incorrect as the O is single bonded to the carbon(s). Choice A is incorrect as the NH group is not a radical.
+
+40.Only one of the following patterns of bond is ever displayed by carbon atoms in organic compounds. (each line represents a bond) Which is it?
+|A. ─ C ≡
+ǁ
+─ C ─
+A. ─ C ≡
+ǁ
+─ C ─
+B. |
+|
+C. ─ C ═
+─ C ≡
+D. |
+Answer is C: Carbon always forms four bonds, never more or less.
+
+41.Certain components of food are often referred to as being saturated. This term refers to the bonding of carbon atoms present in molecules of the food. Which of the following bonding arrangements is a saturated environment?
+A. ─ C ≡ C ─ |
+B. ═ C ═ C ─ | | ─ C ─ C ─
+C. | | ─ C ═ C ─
+D. | |
+Answer is C: In this case each carbon atom has four single bonds. A double bond would indicate an unsaturated compound.
+
+42.What is the sequence of amino acids in a protein known as?
+A. primary structure
+B. secondary structure
+C. tertiary structure
+D. quaternary structure
+Answer is A: Primary structure refers to the order in which amino acids are attached to each other.
+
+43.Which one of the following structure represents a saturated organic compound?
+O
+ǁA. CH3CH2 C─OH
+A. CH3CH2 C─OH
+B. CH3CH2OH
+C. CH3CHCHCH3
+D. CH … CH
+Answer is B: A saturated compound must have each carbon atom directly bonded to four other atoms. Only the arrangement in choice B can satisfy this requirement. In choices C & D, the arrangement CH means that there must be a double bond between two C atoms.
