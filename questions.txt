@@ -1,0 +1,20 @@
+Q: What is the capital of France?
+A) London
+B) Madrid
+C) Paris
+D) Rome
+ANS: C
+
+Q: What is 15 + 27?
+A) 32
+B) 41
+C) 42
+D) 52
+ANS: C
+
+Q: Which planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+ANS: B

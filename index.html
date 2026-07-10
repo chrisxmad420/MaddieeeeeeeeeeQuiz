@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LightQuiz - Multiple Choice</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🌟 LightQuiz</h1>
+        <p>Learn with multiple choice questions</p>
+    </header>
+
+    <main>
+        <div id="setup" class="setup-panel">
+            <h2>Start a New Quiz</h2>
+            
+            <div class="form-group">
+                <label for="num-questions">Number of Questions:</label>
+                <select id="num-questions">
+                    <option value="5">5</option>
+                    <option value="10" selected>10</option>
+                    <option value="15">15</option>
+                    <option value="20">20</option>
+                    <option value="all">All Questions</option>
+                </select>
+            </div>
+
+            <button id="start-btn" class="btn-primary">Load Questions & Start Quiz</button>
+            
+            <div id="file-status" class="status">Loading questions from questions.txt...</div>
+        </div>
+
+        <div id="quiz-container" class="quiz-panel hidden">
+            <div class="progress">
+                <span id="progress-text">Question <span id="current-q">1</span> of <span id="total-q">10</span></span>
+                <div class="progress-bar">
+                    <div id="progress-fill" class="progress-fill"></div>
+                </div>
+            </div>
+
+            <div id="question-text" class="question"></div>
+            
+            <div id="options" class="options-container"></div>
+
+            <div class="navigation">
+                <button id="prev-btn" class="btn-nav">Previous</button>
+                <button id="next-btn" class="btn-nav">Next</button>
+                <button id="submit-btn" class="btn-primary hidden">Finish Quiz</button>
+            </div>
+        </div>
+
+        <div id="results" class="results-panel hidden">
+            <h2>Quiz Complete!</h2>
+            <div id="score" class="score"></div>
+            <div id="review" class="review"></div>
+            <button id="restart-btn" class="btn-primary">Restart Quiz</button>
+        </div>
+    </main>
+
+    <footer>
+        <p>Questions loaded from <code>questions.txt</code></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
