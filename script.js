@@ -186,4 +186,18 @@ document.getElementById('limit-questions').onchange = function() {
     document.getElementById('limit-options').style.display = this.checked ? 'block' : 'none';
 };
 
+function showResults() {
+    const percentage = totalAnswered > 0 ? Math.round((score / totalAnswered) * 100) : 0;
+    
+    document.getElementById('score').innerHTML = `
+        ${score} / ${totalAnswered} correct<br>
+        <span style="font-size:1.5rem">(${percentage}%)</span>
+    `;
+
+    document.getElementById('review').innerHTML = `<p>Well done! You have completed the adaptive quiz.</p>`;
+
+    document.getElementById('quiz-container').classList.add('hidden');
+    document.getElementById('results').classList.remove('hidden');
+}
+
 window.onload = loadChapters;
