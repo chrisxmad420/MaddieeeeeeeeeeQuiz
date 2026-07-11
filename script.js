@@ -160,14 +160,13 @@ function handleAnswer(selectedIdx, q) {
     if (isCorrect) {
         score++;
         currentPool.splice(currentIndex, 1);
-        if (currentPool.length > 0) currentIndex = currentIndex % currentPool.length;
         totalAnswered++;
     } else {
         const wrong = currentPool.splice(currentIndex, 1)[0];
         currentPool.push(wrong);
     }
 
-    
+    //totalAnswered++;
     document.getElementById('next-btn').classList.remove('hidden');
 }
 
