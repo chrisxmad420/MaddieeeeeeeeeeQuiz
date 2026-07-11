@@ -9,36 +9,43 @@
 <body>
     <header>
         <h1>🌟 LightQuiz</h1>
-        <p>Learn with multiple choice questions</p>
+        <p>Learn by Chapters</p>
     </header>
 
     <main>
         <!-- Setup Screen -->
         <div id="setup" class="setup-panel">
-            <h2>Start a New Quiz</h2>
-            
+            <h2>Select Chapters</h2>
+            <div id="chapter-list" class="chapter-list"></div>
+
             <div class="form-group">
+                <label>
+                    <input type="checkbox" id="limit-questions" checked>
+                    Limit number of questions
+                </label>
+            </div>
+
+            <div id="limit-options" class="form-group">
                 <label for="num-questions">Number of Questions:</label>
                 <select id="num-questions">
-                    <option value="10">10</option>
-                    <option value="20" selected>20</option>
-                    <option value="50">50</option>
-                    <option value="100">100</option>
-                    <option value="200">200</option>
-                    <option value="all">All Questions</option>
+                    <option value="5">5</option>
+                    <option value="10" selected>10</option>
+                    <option value="15">15</option>
+                    <option value="20">20</option>
+                    <option value="30">30</option>
                 </select>
             </div>
 
             <button id="start-btn" class="btn-primary">Start Quiz</button>
-            <div id="file-status" class="status">Loading questions from questions.txt...</div>
+            <div id="status" class="status">Loading chapters...</div>
         </div>
 
         <!-- Quiz Screen -->
         <div id="quiz-container" class="quiz-panel hidden">
-            <button id="exit-btn" class="exit-btn hidden">← Exit to Menu</button>
+            <button id="exit-btn" class="exit-btn">← Exit to Menu</button>
             
             <div class="progress">
-                <span>Question <span id="current-q">1</span> of <span id="total-q">10</span></span>
+                <span>Question <span id="current-q">1</span></span>
                 <div class="progress-bar">
                     <div id="progress-fill" class="progress-fill"></div>
                 </div>
@@ -64,7 +71,7 @@
     </main>
 
     <footer>
-        <p>Questions loaded from <code>questions.txt</code></p>
+        <p>Multi-Chapter Quiz System</p>
     </footer>
 
     <script src="script.js"></script>
