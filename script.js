@@ -93,6 +93,8 @@ function startQuiz() {
         }
     });
 
+    const repeatEnabled = document.getElementById('repeat-questions').checked;
+
     const limitEnabled = document.getElementById('limit-questions').checked;
     if (limitEnabled) {
         const num = parseInt(document.getElementById('num-questions').value) || 10;
@@ -160,13 +162,17 @@ function handleAnswer(selectedIdx, q) {
     if (isCorrect) {
         score++;
         currentPool.splice(currentIndex, 1);
-        totalAnswered++;
+       if(repeatEnabled){
+            totalAnswered++;
+       }
     } else {
         const wrong = currentPool.splice(currentIndex, 1)[0];
         currentPool.push(wrong);
     }
 
-    //totalAnswered++;
+    if(!repeatEnabled){
+        totalAnswered++;
+    }
     document.getElementById('next-btn').classList.remove('hidden');
 }
 
