@@ -13,6 +13,7 @@ async function loadChapters() {
         if (!jsonRes.ok) throw new Error("chapters.json not found");
         
         const data = await jsonRes.json();
+        console.log("Chapters: ", data)
         const chapters = data.chapters || [];
 
         const chapterList = document.getElementById('chapter-list');
@@ -28,6 +29,7 @@ async function loadChapters() {
                 const res = await fetch(`questions/${filename}`);
                 if (res.ok) {
                     const text = await res.text();
+                    console.log("Text: ", text)
                     allQuestions[displayName] = parseQuestions(text);
 
                     const div = document.createElement('div');
