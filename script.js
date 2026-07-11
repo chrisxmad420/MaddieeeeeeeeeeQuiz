@@ -170,6 +170,8 @@ function handleAnswer(selectedIdx, q) {
         if(repeatEnabled){
             const wrong = currentPool.splice(currentIndex, 1)[0];
             currentPool.push(wrong);
+        }else{
+            currentPool.splice(currentIndex, 1);
         }
     }
 
