@@ -19,33 +19,45 @@ async function loadChapters() {
         chapterList.innerHTML = '';
 
         for (let displayName of chapters) {
-            // Convert to filename - adjust this if needed
-            let filename = displayName.toLowerCase()
+            // Try multiple filename formats to match your files
+            let base = displayName.toLowerCase()
                 .replace(/\s+/g, '-')
-                .replace(/-+/g, '-')
-                .replace(/[^a-z0-9-]/g, '') + '.txt';
+                .replace(/[^a-z0-9-]/g, '');
 
-            try {
-                const res = await fetch(`questions/${filename}`);
-                if (res.ok) {
-                    const text = await res.text();
-                    allQuestions[displayName] = parseQuestions(text);
+            const possibleFilenames = [
+                `${base}.txt`,
+                `${base.replace(/-/g, '---')}.txt`,
+                `chapter-${base}.txt`,
+                displayName.toLowerCase().replace(/\s+/g, '---') + '.txt'
+            ];
 
-                    const div = document.createElement('div');
-                    div.className = 'chapter-item';
-                    div.innerHTML = `
-                        <label>
-                            <input type="checkbox" value="${displayName}" class="chapter-check" checked>
-                            ${displayName} 
-                            <small>(${allQuestions[displayName].length} questions)</small>
-                        </label>
-                    `;
-                    chapterList.appendChild(div);
-                    console.log(`Loaded: ${filename}`);
-                } else {
-                    console.log(`Not found: ${filename}`);
-                }
-            } catch(e) {}
+            let loaded = false;
+            for (let filename of possibleFilenames) {
+                try {
+                    const res = await fetch(`questions/${filename}`);
+                    if (res.ok) {
+                        const text = await res.text();
+                        allQuestions[displayName] = parseQuestions(text);
+
+                        const div = document.createElement('div');
+                        div.className = 'chapter-item';
+                        div.innerHTML = `
+                            <label>
+                                <input type="checkbox" value="${displayName}" class="chapter-check" checked>
+                                ${displayName} 
+                                <small>(${allQuestions[displayName].length} questions)</small>
+                            </label>
+                        `;
+                        chapterList.appendChild(div);
+                        console.log(`✅ Successfully loaded: ${filename}`);
+                        loaded = true;
+                        break;
+                    }
+                } catch(e) {}
+            }
+            if (!loaded) {
+                console.log(`❌ Failed to load: ${displayName}`);
+            }
         }
 
         status.textContent = `${Object.keys(allQuestions).length} chapters loaded`;
