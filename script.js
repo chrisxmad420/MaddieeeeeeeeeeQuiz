@@ -33,7 +33,7 @@ async function loadChapters() {
                     div.className = 'chapter-item';
                     div.innerHTML = `
                         <label>
-                            <input type="checkbox" value="${displayName}" class="chapter-check" checked>
+                            <input type="checkbox" value="${displayName}" class="chapter-check">
                             ${displayName} 
                             <small>(${allQuestions[displayName].length} questions)</small>
                         </label>
