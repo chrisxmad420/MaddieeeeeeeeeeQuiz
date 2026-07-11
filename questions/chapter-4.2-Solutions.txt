@@ -1,0 +1,349 @@
+1.Which item from the following list is an electrolyte?
+A) Ca++
+B) oxygen gas (O2) dissolved in water
+C) table salt (solid form of Na+Cl-)
+D) glucose (solid form of the sugar)
+ANS: C
+Explanation: “An electrolyte is a substance that when dissolved in water, will produce ions in solution.”
+
+2.Given that one mole of Na+Cl− has a mass of 58.5 g, how many grams of Na+Cl−
+are dissolved in a solution of 0.1 mole per litre?
+A) 0.585 g
+B) 5.85 g
+C) 58.5 g
+D) 0.1 g
+ANS: B
+Explanation: 0.1 mole = 1/10 of 58.5 g = 5.85 g
+
+3.How many grams of sodium chloride are there in (0.9 %) normal saline?
+A) 0.09 g per 100 ml
+B) 0.09 g per litre
+C) 9 g per 100 ml
+D) 9 g per litre
+ANS: D
+Explanation: 0.9 % means 0.9 g per 100 ml of solution = 9 g per 1000 ml (i.e. per litre)
+
+4.How many grams of sodium chloride are there in a one litre bag of 0.9 % saline?
+A) 0.09 g
+B) 0.9 g
+C) 9 g
+D) 90 g
+ANS: C
+Explanation: 0.9 % means 0.9 g per 100 ml of solution = 9 g per 1000 ml (i.e. per litre)
+
+5.What is the percentage concentration of glucose if 80 gram of glucose is dis- solved in one litre of solution?
+A) 0.8 %
+B) 5 %
+C) 8 %
+D) 80 %
+ANS: C
+Explanation: 80 g per 1000 ml = 8 g per 100 ml = 8 %
+
+6.Given that the concentration of hydronium ions in a solution with pH of 2 is
+0.19 %, what would be the concentration of hydronium ions in a solution with pH of 3?
+A) 0.13 %
+B) 0.29 %
+C) 0.019 %
+D) 1.9 %
+ANS: C
+Explanation: a pH change of one corresponds to a change in hydronium ion concentration by a factor of
+
+7.What does the term “electrolyte” refer to?
+A) an uncharged dissolved particle.
+B) the smallest particle of an element.
+C) a substance that will conduct electricity when dissolved in water.
+D) negatively charged sub-atomic particles.
+ANS: C
+Explanation: this is the definition of an electrolyte
+
+8.What is meant by referring to a solution concentration of 0.18 %?
+A) 0.18 g of solute in 100 ml of solution.
+B) 1.8 g of solute in 100 ml of solution.
+C) 0.18 g of solute in one litre of solution.
+D) 0.18 mole of solute in 100 ml of solution.
+ANS: A
+Explanation: 0.18 per cent means 0.18 g per 100 ml of solution.
+
+9.Which of the following is NOT an electrolyte (or does not contain electrolytes)?
+A) Cl−
+B) acetic acid
+C) glucose
+D) a 0.9 % solution of sodium chloride
+ANS: C
+Explanation: glucose will dissolve in water, but no ions are produced.
+
+10.If the concentration of a solution is 5 %, which of the following is true?
+A) There is 0.5 g of solute per 100 ml of solution
+B) There is 5 g of solute per 100 ml of solution
+C) There is 5 g of solute per 1000 ml of solution
+D) There is 50 g of solute per 100 ml of solution
+ANS: B
+Explanation: 5 % = 5 per cent = 5 per hundred = 5 g per 100 ml of solution.
+
+11.What does the term “electrolyte” refer to?
+A) the minor component of a solution.
+B) a substance that will conduct electricity when dissolved in water.
+4.2 Solutions 55
+C) the smallest particle of an element.
+D) negatively charged sub-atomic particles. Answer is B: this is a definition of electrolyte.
+ANS: B
+Explanation: this is a definition of electrolyte.
+
+12.The solution concentration 0.9 % means that there are
+A) 0.9 g of solute in 100 ml of solution.
+B) 9.0 g of solute in 100 ml of solution.
+C) 0.9 g of solute in one litre of solution.
+D) 0.9 mole of solute in 100 ml of solution.
+ANS: A
+Explanation: 0.9 % = 0.9 per cent = 0.9 per hundred = 0.9 g per 100 ml of solution.
+
+13.Which of the following is NOT an electrolyte (or does not contain electrolytes)?
+A) K+
+B) nitrate ions
+C) haemoglobin
+D) a 1 % solution of sodium chloride
+ANS: C
+Explanation: haemoglobin is an uncharged protein found within red blood cells.
+
+14.Which is the best definition of an electrolyte?
+A) an atom that dissociates into ions.
+B) a substance that will conduct electricity when it is dissolved in water.
+C) molecules of solid, liquid or gas that will conduct electricity in solution.
+D) a substance that will conduct electricity.
+ANS: B
+Explanation: this is a definition of electrolyte. Choice C is restricted to mole- cules; and there must be a solution involved, so D is wrong.
+
+15.What is the condition known as hyperkalemia characterised by? A A. higher than normal concentration of potassium in the blood.
+A) higher than normal concentration of potassium in the blood.
+B) lower than normal concentration of potassium in the blood.
+C) serum sodium concentration greater than 150 mmol/l.
+D) serum sodium concentration greater than 5 mmol/l.
+ANS: A
+Explanation: kalemia refers to potassium. “hyper-” refers to more or an excess.
+
+16.A solution of 5 % glucose is used for an infusion. Over a 2 hour period, 300 ml of the solution were used. How much glucose in grams was infused?
+A) 5 gm
+B) 12.5 gm
+C) 15.0 gm
+D) 50 gm
+ANS: C
+Explanation: 5 % means 5 g per 100 ml. So in 300 ml there would be 3× 5 g = 15 g infused.
+
+17.A solution of glucose is used for an infusion. Over a 3 hour period 250 ml of solution is used containing a total of 5 g of glucose. What is the concentration of the glucose solution used?
+A) 2 %
+B) 20 %
+C) 0.2 %
+D) 5 %
+ANS: A
+Explanation: 5 g per 250 ml = 20 g per 1000 ml (multiply by 4) = 2 g per
+100 ml = 2%.
+
+18.A sudden and severe loss of potassium due to diuretic abuse is likely to result in:
+A) hypothermia
+B) hyponatremia
+C) hypokalemia
+D) hypoventilation
+ANS: C
+Explanation: kalium means potassium, the prefix “hypo-” means a lack or decrease in.
+
+19.Which of the following statements relating to a patient with severe loss of potassium due to diuretic abuse is TRUE?
+A) the serum levels of potassium are > 3 mmol/L
+B) an ECG is probably not warranted
+C) the condition may be treated by administering oral glucose and potassium
+D) one course of action is to decrease the intake of potassium and to undergo ion-exchange resin treatment
+ANS: C
+Explanation: a loss of potassium may be treated by administering potassium. Hypokalemia refers to a blood concentration of <3 mmol/L, and such a level could affect the heart so an ECG IS warranted.
+
+20.Which strategy would be most effective in dealing with a severe case of dehydration?
+A) Oral administration of a hypertonic solution.
+B) Intravenous administration of distilled water.
+C) Intravenous administration of isotonic glucose.
+D) Intravenous administration of hypotonic sodium chloride.
+ANS: C
+Explanation: IV solutions should be isotonic (oral solutions should be hypo- tonic). Glucose would be absorbed by cells leaving the water behind in the blood which would reduce blood osmolarity. Hence water would redistribute itself by osmosis through the body.
+
+21.A common IV solution is the combination 0.18 % sodium chloride and 4 % glucose (also called “4 % and a fifth”). How many grams of each solute will be in a one litre bag?
+A) 0.18 g of sodium chloride and 4 g of glucose.
+B) 0.9 g of sodium chloride and 5 g of glucose
+C) 1.8 g of sodium chloride and 40 g of glucose
+D) 18 g of sodium chloride and 40 g of glucose
+ANS: C
+Explanation: 0.18 % sodium chloride and 4 % glucose means 0.18 g of sodium chloride per 100 ml and 4 g of glucose per 100 ml. So in one litre there would be 1.8 g and 40 g respectively.
+
+22.The “extra-cellular” fluid compartment of the body includes which of the following?
+A) interstitial, trans-cellular and connective tissue fluids
+B) vascular, connective tissue and interstitial fluids
+C) intra-cellular and transcellular fluid
+D) vascular and connective tissue fluid
+ANS: B
+Explanation: extracellular must include the blood (vascular) and the fluid between cells (interstitial).
+
+23.Fluid and electrolyte balance in the body is maintained by which of the following?
+A) the hormone aldosterone
+B) keeping accurate account of the patient’s fluid balance chart
+C) the nephron of the kidney
+D) the hypothalamus of the brain
+ANS: C
+Explanation: the nephron is the functional unit of the kidney that does this job.
+
+24.Which general description of the components of a solution is correct?
+A) solvent and solute
+B) solvent and liquid
+C) solute and solder
+D) liquid and solid
+ANS: A
+Explanation: the solvent dissolves (e.g. water), the solute (e.g. salt) is dissolved
+
+25.Which term below is NOT suitable to describe the concentration of a solution?
+A) 5 g/litre
+B) 5 %
+C) 2 Molar
+D) 0.5 moles
+ANS: D
+Explanation: This states an amount of substance only, without reference to the volume of solvent involved.
+
+26.Given that the healthy range of sodium ion concentration in the blood is 137–
+145 mmol/L, if the measured concentration of a blood sample was 130 mmol/L, what would the condition be called?
+A) hyperkalemia
+B) hypokalemia
+C) hypernatremia
+D) hyponatremia
+ANS: D
+Explanation: natrium is sodium. As 130 is less than 137, the prefix “hypo-” is the correct one.
+
+27.Extracellular fluid includes which of the following liquids?
+A) blood plasma
+B) blood plasma and interstitial fluid
+C) blood plasma and interstitial fluid and connective tissue fluid
+D) blood plasma and interstitial fluid and connective tissue fluid and liquid inside cells
+ANS: C
+Explanation: This choice includes more than choices A &
+B) D is wrong as liquid inside cells is not extracellular.
+
+28.What can be said about a solution that conducts electricity?
+A) the solute is a polar molecule
+B) the solvent is a non-polar liquid
+C) the solution contains dissolved ions
+D) the solution contains dissolved molecules
+ANS: C
+Explanation: dissolved ions must be present for electrical conduction to occur.
+
+29.Which of the body’s fluid compartments does the vascular compartment form part of?
+A) interstitial fluid
+B) extracellular fluid
+C) intracellular fluid
+D) transcellular fluid
+ANS: B
+Explanation: vascular = blood which is almost synonymous with extracellular.
+
+30.To what condition does the term “hypokalemia” refer?
+A) too little phosphorus in the blood
+B) too much sodium in the blood
+C) too little potassium in the blood
+D) too little sodium in the blood
+ANS: C
+Explanation: hypo- refers to too little and Kalium is the Latin word for potassium.
+
+31.Which of the following is correct for intra-cellular fluid (ICF) and extra-cellular fluid (ECF)?
+A) the ECF is part of the ICF
+B) the majority of the body’s water is in the ECF
+C) the ICF contains more sodium than the ECF
+D) the ICF contains more potassium than the ECF
+ANS: D
+Explanation: there is more K within cells than outside cells (the reverse is true for sodium). Most body water is inside the cells.
+
+32.A one litre IV bag contains 0.18 % sodium chloride and 4 % glucose. What mass of solutes would be dissolved in 100 ml of the solution?
+A) 0.18 g of sodium chloride and 4 g of glucose
+B) 1.8 g of sodium chloride and 4 g of glucose
+C) 1.8 g of sodium chloride and 40 g of glucose
+D) 18 g of sodium chloride and 40 g of glucose
+ANS: A
+Explanation: 0.18 % sodium chloride and 4 % glucose means 0.18 g of sodium chloride per 100 ml and 4 g of glucose per 100 ml.
+
+33.In the context of fluid (water) balance, the body is said to have “two compart- ments”. What are they?
+A) the vascular and the interstitial compartments
+B) the intracellular and the interstitial compartments
+C) the lymph and the vascular compartments
+D) the extracellular and the intracellular compartments
+ANS: D
+Explanation: outside the cells and inside the cells includes everything.
+
+34.What is an insufficient concentration of potassium in the blood known as?
+A) hypokalemia
+B) hyponatremia
+C) hypopotassemia
+D) hypocalcemia
+ANS: A
+Explanation: the Latin word for potassium is kalium. The prefix “-hypo” refers to too little. Arguably, choice C is not wrong, but this expression is not used.
+
+35.If a solution is shown to be able to conduct electricity, then what is true?
+A) A: the solution is free of impurities
+B) B: the solution contains a dissolved electrolyte
+C) C: the solution contains dissolved molecules
+D) D: the solution is an aqueous solution
+ANS: B
+Explanation: a dissolved electrolyte will ensure that ions are in solution and the solution will conduct electricity as these ions are free to move through the solution.
+
+36.How many grams of sodium chloride are there in a one litre bag of 4 % glucose and 0.18 % sodium chloride solution?
+A) 0.18
+B) 1.8
+C) 18
+D) 41.8
+ANS: B
+Explanation: 0.18 % = 0.18 g per 100 ml, so in 1000 ml there would be 10 × 0.18 = 1.8 g.
+
+37.In the vascular compartment of the body, what is the solvent?
+A) blood
+B) plasma
+C) serum
+D) water
+ANS: D
+Explanation: All these things are in the vascular compartment, but water is the solvent.
+
+38.The extracellular fluid compartment consists of which of the following?
+A) vascular and transcellular
+B) interstitial, vascular and connective tissue fluid
+C) intra-cellular and transcellular
+D) trans-cellular, intra-cellular and connective tissue fluid
+ANS: B
+Explanation: Vascular and interstitial liquids must be included.
+
+39.Electrolyte balance is achieved largely by: A. the kidneys and aldosterone
+A) the kidneys and aldosterone
+B) drinking sufficient water
+C) anti-diuretic hormone and isotonic fluids
+D) ensuring that daily water intake is the same as daily water output
+ANS: A
+Explanation: The kidneys have the ability to reabsorb and secrete ions and water as required. Aldosterone causes the kidney tubules to reabsorb sodium ions while promoting the secretion of potassium ions.
+
+40.What may hyponatremia be described as?
+A) insufficient potassium in the blood
+B) insufficient iron in the blood
+C) insufficient sodium in the blood
+D) excess sodium in the blood
+ANS: C
+Explanation: the prefix “hypo-” refers to too little, and natrium is a Latin word that means sodium.
+
+41.Which of the following ways of expressing a solution’s concentration is written as a number without units?
+A) % concentration
+B) Molarity
+C) Osmotic pressure
+D) Specific gravity
+ANS: D
+Explanation: Specific gravity of a solution is the ratio of the density of the solu- tion to the density of water (which is 1.0). Consequently the density units “can- cel out”.
+
+42.A solution of 5 % glucose is infused over a period of three hours. If 250 ml of solution was used, how many grams of glucose was infused?
+A) 5 g
+B) 12.5 g
+C) 15.0 g
+D) 50 g
+ANS: B
+Explanation: 5 % glucose means 5 g per 100 ml of solution. 250 ml was used, therefore 2.5 × 5 = 12.5 g
+
+43.A solution is prepared by dissolving 10 g of glucose in 250 ml of water. What will be the concentration of this solution expressed as a percentage?
+A) 4
+B) 6
+C) 25
+D) 40
+ANS: A
+Explanation: % concentration states how many grams of solute are in 100 ml of solution. 10 g per 250 ml is the same as 10 ÷ 2.5 per 100 ml. This is 4 %
