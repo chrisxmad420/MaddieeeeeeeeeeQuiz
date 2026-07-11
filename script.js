@@ -166,8 +166,10 @@ function handleAnswer(selectedIdx, q) {
             totalAnswered++;
        }
     } else {
-        const wrong = currentPool.splice(currentIndex, 1)[0];
-        currentPool.push(wrong);
+        if(repeatEnabled){
+            const wrong = currentPool.splice(currentIndex, 1)[0];
+            currentPool.push(wrong);
+        }
     }
 
     if(!repeatEnabled){
