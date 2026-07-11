@@ -10,7 +10,7 @@ async function loadChapters() {
 
     try {
         const jsonRes = await fetch('chapters.json');
-        if (!jsonRes.ok) throw new Error();
+        if (!jsonRes.ok) throw new Error("chapters.json not found");
         
         const data = await jsonRes.json();
         const chapters = data.chapters || [];
@@ -18,45 +18,33 @@ async function loadChapters() {
         const chapterList = document.getElementById('chapter-list');
         chapterList.innerHTML = '';
 
-        for (let displayName of chapters) {
-            // Try multiple filename formats to match your files
-            let base = displayName.toLowerCase()
-                .replace(/\s+/g, '-')
-                .replace(/[^a-z0-9-]/g, '');
+        for (let entry of chapters) {
+            // entry is now the exact filename
+            const displayName = entry.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+            const filename = entry + '.txt';
 
-            const possibleFilenames = [
-                `${base}.txt`,
-                `${base.replace(/-/g, '---')}.txt`,
-                `chapter-${base}.txt`,
-                displayName.toLowerCase().replace(/\s+/g, '---') + '.txt'
-            ];
+            try {
+                const res = await fetch(`questions/${filename}`);
+                if (res.ok) {
+                    const text = await res.text();
+                    allQuestions[displayName] = parseQuestions(text);
 
-            let loaded = false;
-            for (let filename of possibleFilenames) {
-                try {
-                    const res = await fetch(`questions/${filename}`);
-                    if (res.ok) {
-                        const text = await res.text();
-                        allQuestions[displayName] = parseQuestions(text);
-
-                        const div = document.createElement('div');
-                        div.className = 'chapter-item';
-                        div.innerHTML = `
-                            <label>
-                                <input type="checkbox" value="${displayName}" class="chapter-check" checked>
-                                ${displayName} 
-                                <small>(${allQuestions[displayName].length} questions)</small>
-                            </label>
-                        `;
-                        chapterList.appendChild(div);
-                        console.log(`✅ Successfully loaded: ${filename}`);
-                        loaded = true;
-                        break;
-                    }
-                } catch(e) {}
-            }
-            if (!loaded) {
-                console.log(`❌ Failed to load: ${displayName}`);
+                    const div = document.createElement('div');
+                    div.className = 'chapter-item';
+                    div.innerHTML = `
+                        <label>
+                            <input type="checkbox" value="${displayName}" class="chapter-check" checked>
+                            ${displayName} 
+                            <small>(${allQuestions[displayName].length} questions)</small>
+                        </label>
+                    `;
+                    chapterList.appendChild(div);
+                    console.log(`✅ Loaded: ${filename}`);
+                } else {
+                    console.log(`❌ Not found: ${filename}`);
+                }
+            } catch(e) {
+                console.log(`Error loading ${filename}`);
             }
         }
 
