@@ -93,7 +93,7 @@ function startQuiz() {
         }
     });
 
-    const repeatEnabled = document.getElementById('repeat-questions').checked;
+    
 
     const limitEnabled = document.getElementById('limit-questions').checked;
     if (limitEnabled) {
@@ -145,6 +145,7 @@ function handleAnswer(selectedIdx, q) {
     const options = document.querySelectorAll('.option');
     const correctIdx = q.options.findIndex((_, i) => String.fromCharCode(65 + i) === q.answer);
     const isCorrect = selectedIdx === correctIdx;
+    const repeatEnabled = document.getElementById('repeat-questions').checked;
 
     options.forEach(opt => opt.style.pointerEvents = 'none');
 
