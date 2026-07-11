@@ -10,26 +10,25 @@ async function loadChapters() {
 
     try {
         const jsonRes = await fetch('chapters.json');
-        if (!jsonRes.ok) throw new Error("chapters.json not found");
+        if (!jsonRes.ok) throw new Error();
         
         const data = await jsonRes.json();
-        console.log("Chapters: ", data)
         const chapters = data.chapters || [];
 
         const chapterList = document.getElementById('chapter-list');
         chapterList.innerHTML = '';
 
         for (let displayName of chapters) {
-            // Convert display name to filename
-            const filename = displayName.toLowerCase()
+            // Convert to filename - adjust this if needed
+            let filename = displayName.toLowerCase()
                 .replace(/\s+/g, '-')
+                .replace(/-+/g, '-')
                 .replace(/[^a-z0-9-]/g, '') + '.txt';
 
             try {
                 const res = await fetch(`questions/${filename}`);
                 if (res.ok) {
                     const text = await res.text();
-                    console.log("Text: ", text)
                     allQuestions[displayName] = parseQuestions(text);
 
                     const div = document.createElement('div');
@@ -42,15 +41,16 @@ async function loadChapters() {
                         </label>
                     `;
                     chapterList.appendChild(div);
+                    console.log(`Loaded: ${filename}`);
+                } else {
+                    console.log(`Not found: ${filename}`);
                 }
-            } catch(e) {
-                console.log(`Could not load ${filename}`);
-            }
+            } catch(e) {}
         }
 
-        status.textContent = `${Object.keys(allQuestions).length} chapters loaded successfully`;
+        status.textContent = `${Object.keys(allQuestions).length} chapters loaded`;
     } catch (e) {
-        status.innerHTML = `<strong style="color:red">Error: Make sure chapters.json exists</strong>`;
+        status.innerHTML = `<strong style="color:red">Error loading chapters.json</strong>`;
     }
 }
 
