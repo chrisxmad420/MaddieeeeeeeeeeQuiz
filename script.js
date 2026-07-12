@@ -50,6 +50,7 @@ async function loadChapters() {
 
         status.textContent = `${Object.keys(allQuestions).length} chapters loaded`;
     } catch (e) {
+        console.log(e)
         status.innerHTML = `<strong style="color:red">Error loading chapters.json</strong>`;
     }
 }
