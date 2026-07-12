@@ -1,0 +1,479 @@
+1.Which statement below is correct?
+A) dendrites are produced by dendrocytes
+B) glycolipids are produced by lipocytes
+C) keratin is produced by keratinocytes
+D) melanin is produced by merkel cells
+ANS: C
+Explaination:  Keratin is the horny protein that gives the epidermis its protective qualities and is produced by keratinocytes.
+
+2.Where are sebaceous glands found?
+A) In the digestive system
+B) In the hypodermis
+C) In the dermis
+D) In the stratum corneum
+ANS: C
+Explaination:  Sebaceous glands produce sebum (oil) and are located in the dermis.
+
+3.When a medicine is delivered via a patch attached to the skin, it is said to be delivered:
+A) transdermally
+B) subcutaneously
+C) topically
+D) intramuscularly
+ANS: A
+Explaination:  Some medicines can be absorbed through the skin to enter the bloodstream. Choice C applies to ointments that act on the skin hey are applied to. Choices B & D are delivered by a penetrating injection to locations deep to the skin.
+
+4.Full thickness burns to more than 20 % of the skin surface is a life-threatening situation. Why is this?
+A) The synthesis of vitamin D (calcitriol) is severely compromised.
+B) The loss of skin sensation prevents access to environmental information.
+C) The body is not able to prevent water loss from the burnt area.
+D) Soft internal tissues are abraded by the external environment.
+ANS: C
+Explaination:  The body is not able to prevent water loss from the exposed tissues. (Also, but not part of the provided choices, the loss of skin means that the body is unprotected from infectious agents)
+
+5.Which is a notable feature of the stratum corneum layer of the integument? It: A. is where melanocytes and keratinocytes are rapidly dividing.
+A) is where melanocytes and keratinocytes are rapidly dividing.
+B) is richly supplied with blood capillaries.
+C) consists of keratin filled cells with glycolipid in between cells.
+D) has protruding epidermal ridges that push the overlying epidermis into “fingerprints”.
+ANS: C
+Explaination:  This property makes the skin a barrier between the internal body and the environment.
+
+6.When a pharmaceutical is administered hypodermically, it is
+A) wiped onto the skin.
+B) applied via a patch that adheres to the skin.
+C) injected into the dermis.
+D) injected into subcutaneous fat.
+ANS: D
+Explaination:  “Hypo” means below, in this case, the dermis. Subcutaneous fat (superficial fascia) lies beneath the dermis.
+
+7.Which of the following is NOT a sensory receptor of the skin?
+A) a Meissner corpuscle
+B) an apocrine gland
+C) a root hair plexus
+D) a nociceptor
+ANS: B
+Explaination:  This is a type of sudiferous (sweat) gland.
+
+8.What is the protein that fills the outermost dead cells of the epidermis?
+A) granstein
+B) dermin
+C) melanin
+D) keratin
+ANS: D
+Explaination:  Choice C is also a protein, but is deep to the outermost layer, lying just superficial to the stratum germinativum.
+
+9.What is the name given to the most superficial layer of the integument?
+A) stratum corneum
+B) papillary dermal layer
+C) stratum lucidum
+D) superficial fascia
+ANS: A
+Explaination:  The stratum is the horny (i.e. keratinised), dead covering to the epidermis. Choice D is another name for the subcutaneous fat.
+
+10.Which of the following statements is INCORRECT?
+A) sudiferous glands secrete sebum
+B) sebaceous glands secrete oil
+C) apocrine glands secrete sweat
+D) ceruminous glands secrete cerumen
+ANS: A
+Explaination:  Sudiferous glands secrete sweat. Sebum (or oil) is produced by sebaceous glands.
+
+11.To what in the skin does the term “nociceptors” refer?
+A) sensors that detect movement of hair follicles
+B) any lamellated sensory corpuscle
+C) the sensory receptor that is associated with the Merkel cells of the epidermis
+D) free nerve endings with large receptive fields that detect pain
+ANS: D
+Explaination:  The prefix “noci” is derived from the Latin for hurt.
+
+12.Choose the incorrect statement below.
+A) Keratinocytes produce keratin
+B) Merkel cells are associated with a sensory nerve ending.
+C) Melanocytes produce melanin
+D) Dendrocytes produce dendrocidin.
+ANS: D
+Explaination:  Dendrocytes are macrophages, “dendrocidin” is not produced.
+
+13.Which layer of the integument contains rapidly dividing keratinocytes?
+A) stratum lucidum
+B) papillary dermal layer
+C) stratum germinativum
+D) reticular dermal layer
+ANS: C
+Explaination:  Stratum germinativum (= stratum basale) implies that germination is happening. In fact new cells are formed here by mitosis to replace those lost from the stratum corneum.
+
+14.Which of the following situations could produce life threatening fluid loss and infection?
+A) Stomach ulcers
+B) Full thickness skin burn
+C) Severe muscle tear
+D) Displaced bone fracture
+ANS: B
+Explaination:  The water-proof outer layer of the epidermis is lost if skin is burnt off, so evaporation from the wet tissues beneath proceeds rapidly.
+
+15.What do sudiferous glands do?
+A) Secrete sebum into a hair follicle
+B) Secrete sweat through a duct to the skin
+C) Secrete sweat through a duct to the skin or into a hair follicle
+D) Secrete cerumen through a duct to the skin or into a hair follicle
+ANS: C
+Explaination:  Eccrine sweat gland secrete through a duct, apocrine sweat glands secrete into a hair follicle.
+
+16.Which cell type produces a pigment that affords the skin some protection against ultraviolet radiation?
+A) keratinocytes
+B) melanocytes
+C) dendrocytes
+D) merkel cells
+ANS: B
+Explaination:  Melanin causes kin to darken (tan) which absorbs some of the incoming UV radiation.
+
+17.Which layer of the integument is the most superficial layer?
+A) the hypodermis
+B) stratum granulosum
+C) stratum corneum
+D) reticular dermal layer
+ANS: C
+Explaination:  Stratum corneum is the outermost dead layer of the epidermis.
+
+18.A drug that is applied to the skin and exerts its therapeutic effect systemically is said to be administered:
+A) transdermally
+B) topically
+C) intradermally
+D) subcutaneously
+ANS: A
+Explaination:  The prefix “trans” implies crossing the skin to be absorbed into the bloodstream, rather than affecting the skin onto which it is applied. “Topically” is reserved for the latter type of administration.
+
+19.Which is the most superficial layer of the integument that also has capillaries, lymphatics and sensory neurons?
+A) reticular dermal layer
+B) papillary dermal layer
+C) stratum granulosum
+D) stratum lucidum
+ANS: B
+Explaination:  The papillary layer is superficial to the reticular layer. Both are part of the dermis which is where the most superficial capillaries are.
+
+20.Which skin layer is the most superficial?
+A) stratum lucidum
+B) stratum corneum
+C) papillary dermal layer
+D) reticular dermal layer
+ANS: B
+Explaination:  Stratum corneum is the outermost corny or horny layer made largely of keratin.
+
+21.Which glands secrete “oil” into a hair follicle?
+A) apocrine
+B) eccrine
+C) ceruminous
+D) sebaceous
+ANS: D
+Explaination:  Apocrine secrete sweat into hair follicles. Eccrine sudiferous glands secrete to skin surface via a duct.
+
+22.What must be the case for a drug to be administered transdermally?
+A) It must be water soluble
+B) It must be lipid soluble
+C) It must be injected subcutaneously
+D) It must not irritate the skin’s chemo-receptors.
+ANS: B
+Explaination:  Integument is virtually waterproof. Lipid soluble drugs may penetrate between the keratinised cells.
+
+23.The skin participates in the production of vitamin D when which of the following occurs? When
+A) calcium is present
+B) signalled to by the hormone PTH
+C) exposed to ultraviolet radiation
+D) the precursor molecule is produced by the liver
+ANS: C
+Explaination: UV light converts cholecalciferol (= provitamin D3) into vitamin D pre-cursor. The liver then adds a hydroxyl group.
+
+24.The integument consists of which of the following layers?
+A) epidermis and dermis
+B) epidermis, dermis and hypodermis
+C) stratum germinativum, stratum spinosum, stratum granulosum, stratum lucidum and stratum corneum
+D) stratum corneum, dermis and reticular dermal layer
+ANS: A
+Explaination:  Hypodermis is not part of the integument. Choice C excludes the dermis.
+
+25.One of the following is NOT a type of sweat gland. Which one?
+A) eccrine gland
+B) merocrine gland
+C) endocrine gland
+D) apocrine gland
+ANS: C
+Explaination:  Endocrine is a general term for glands that produce hormones. Merocrine is another name for eccrine.
+
+26.Three functions of the skin are to:
+A) store fat, produce sweat, receive stimuli.
+B) synthesise vitamin D, excrete bile, and provide a barrier to the entry of bacteria.
+C) produce keratin, assist in the immune response, and produce lymphocytes.
+D) produce melanin, secrete sebum, minimise water loss.
+ANS: D
+Explaination:  Choice A is incorrect as fat is not stored. Choice B is incorrect as bile is not excreted. Choice C is incorrect as lymphocytes are not produced.
+
+27.Which of the following is NOT a cell?
+A) macrophage
+B) chondroblast
+C) lysosome
+D) melanocyte
+ANS: C
+Explaination: A lysosome is an organelle within a cell. –phage, -blast, -cyte are all suffixes indicating a type of cell.
+
+28.What purpose is vitamin D (calcitriol) used for?
+A) required for several stages of haemostasis
+B) required for uptake of calcium from the gut
+C) required for erythropoiesis
+D) required for uptake of intrinsic factor
+ANS: B
+Explaination:  Dietary calcium requires vitamin D for absorption
+
+29.Which layer of the skin is the most superficial?
+A) epidermis
+B) dermis
+C) papillary dermal layer
+D) stratum germinativum
+ANS: A
+Explaination:  Epidermis refers to the outermost layer of the skin. While stratum germinativum is part of the epidermis, it is the deepest part.
+
+30.The skin begins the production of vitamin D in which of the following situations? When
+A) exposed to ultraviolet radiation.
+B) signalled to by the hormone PTH
+C) calcium is present
+D) it adds an hydroxyl group to a cholesterol molecule.
+ANS: A
+Explaination:  Choice D happens in the liver and in the kidney. PTH signals the kidney to act on the modified pre-cursor, whereupon an hydroxyl group is added.
+
+31.What do the apocrine glands of the skin secrete?
+A) apocrin
+B) cerumin
+C) milk
+D) sweat
+ANS: D
+Explaination:  Apocrine glands are a type of sweat gland.
+
+32.Another name for oil glands in the skin is:
+A) sebaceous glands
+B) eccrine glands
+C) merocrine glands
+D) apocrine glands
+ANS: A
+Explaination:  The other three choices are all sweat glands.
+
+33.What are three functions of the skin? To:
+A) store fat, produce sebum, trap a layer of air beneath hair to insulate against heat loss.
+B) synthesise vitamin D, excrete bile, protect against abrasion.
+C) produce melanin, regulate body temperature, minimise water loss.
+D) produce keratin, assist in the immune response, produce dendrocytes.
+ANS: C
+Explaination:  Fat is not stored in the skin. Bile is not excreted. Dendrocytes are not produced.
+
+34.Which of the following lists layers of the integument in the order from most superficial first, to deep?
+A) epidermis, hypodermis, dermis
+B) epidermis, papillary dermal layer, reticular dermal layer.
+C) dermis, stratum germinativum, stratum corneum
+D) stratum corneum, stratum germinativum, epidermis.
+ANS: B
+Explaination:  The integument consists of the epidermis and dermis. The dermis consists of the papillary dermal layer and the reticular dermal layer, which is deeper.
+
+35.What is another name for sweat glands?
+A) ceruminous glands
+B) sebaceous glands
+C) sudiferous glands
+D) apocrine glands
+ANS: C
+Explaination:  Choice D does list a sweat gland, but not all of them.
+
+36.Which statement about vitamin D is INCORRECT?
+A) It is required for uptake of calcium from the gut
+B) It is made in the skin, liver and kidneys.
+C) It is an essential part of our diet.
+D) It is a hormone
+ANS: C
+Explaination:  As our body can make “vitamin D” it is not an essential part of our diet. As it circulates in the bloodstream, it is regarded as a type of steroid hormone.
+
+37.If a drug is administered “transdermally”, which of the following applies?
+A) it is absorbed through the skin and acts locally.
+B) it is injected into the dermis
+C) it is absorbed through the skin and acts systemically.
+D) it is injected into the subcutaneous fat layer
+ANS: C
+Explaination:  Transdermally refers to the drug having to pass through the skin, rather than bypass the skin as in hypodermic administration (choice D), or intradermal injection (choice B).
+
+38.The “stratum corneum” is part of the skin that: A. contains the youngest, rapidly-dividing cells.
+A) contains the youngest, rapidly-dividing cells.
+B) anchors the skin to muscle while allowing it to slide over muscle.
+C) contains collagen, elastin and reticular fibres.
+D) protects the body against heat, chemicals and bacteria.
+ANS: D
+Explaination:  The stratum corneum is “not alive” so forms the protective barrier between the human internal environment and our surroundings.
+
+39.A drug that is administered “transdermally” is one that:
+A) acts at (or close to) the skin area to which it is administered.
+B) is injected into the muscle
+C) is applied to the epidermis
+D) is inserted into the anus
+ANS: C
+Explaination:  Transdermal administration is applied to those drugs that can be absorbed from an adhesive “patch” (say), through the skin and enter the blood stream.
+
+40.The hypodermis is which of the following?
+A) the outer layer of the skin.
+B) the inner layer of the skin.
+C) the superficial fascia and not regarded as part of the skin.
+D) not vascularised, getting its nutrients by diffusion.
+ANS: C
+Explaination:  Hypodermis is “below” the dermis. Although it has “dermis” in its name, it is not part of the integument.
+
+41.Sudiferous glands are also known as: A. eccrine or apocrine glands.
+A) eccrine or apocrine glands.
+B) sebaceous or oil glands.
+C) ceruminous or apocrine glands.
+D) mammary or eccrine glands.
+ANS: A
+Explaination:  Sudiferous gland are sweat glands, of which there are two types.
+
+42.Which is the outermost layer of the skin?
+A) dermis
+B) epidermis
+C) stratum lucidum
+D) reticular dermal layer
+ANS: B
+Explaination:  The epidermis is “on top of” (superficial to) the dermis.
+
+43.One of the following is NOT part of the integumentary system. Which one?
+A) the hypodermis
+B) sebaceous glands
+C) finger nails.
+D) the stratum corneum.
+ANS: A
+Explaination:  The hypodermis is the superficial fascia, also known as the subcutaneous fat layer.
+
+44.People with full thickness burns to more than 20 % of their body are in a lifethreatening situation. This is due to which of the following?
+A) The body’s inability to thermoregulate.
+B) The loss of the ability to produce vitamin D.
+C) The buildup of urea and uric acid which would otherwise have been excreted by the skin.
+D) The body’s inability to prevent water loss
+ANS: D
+Explaination:  Without a waterproof outer layer, the body would lose water faster than it could be replaced.
+
+45.Which one of the following cell types is responsible for forming the skin’s ability to tan on exposure to sunlight?
+A) melanocytes.
+B) keratinocytes.
+C) dendrocytes.
+D) lymphocytes.
+ANS: A
+Explaination:  Melanocytes produce melanin, the pigment responsible for tanning and for protecting the cell nucleus from UV radiation.
+
+46.Which list below contains functions that are NOT performed by the integumentary system?
+A) protection, secretion of sebum, role in immunity.
+B) body temperature regulation, excretion, synthesis of vitamin D.
+C) perception of stimuli, production of sweat, protection
+D) body temperature regulation, synthesis of vitamin E, social function. 
+ANS: D
+Explaination:  The skin does not produce vitamin E.
+
+47.Full thickness burns to more than 20 % of the body surface is life-threatening because of the:
+A) fluid loss and inability to produce vitamin D.
+B) loss of ability to thermoregulate and infection.
+C) inability to excrete lactic acid, urea and uric acid, loss of thermoregulation.
+D) fluid loss and loss of the barrier against infection
+ANS: D
+Explaination:  Removing the skin barrier means that bacteria can enter the body and water can leave the body. This can be fatal.
+
+48.Which one of the following cell types is responsible for forming the skin’s stratum corneum?
+A) melanocytes.
+B) keratinocytes.
+C) dendrocytes.
+D) lymphocytes.
+ANS: B
+Explaination:  Keratinocytes secrete keratin which fills the dead cells of the stratum corneum of the epidermis.
+
+49.Which list of structures is NOT all part of the integumentary system?
+A) sebaceous glands, hair, nails, mammary glands.
+B) meissner’s corpuscles, hypodermis, eccrine sweat glands, oil glands.
+C) apocrine sweat glands, sebaceous glands, merkel disc, hair follicles
+D) melanocytes, keratinocytes, merkel cells, dendrocytes.
+ANS: B
+Explaination:  The hypodermis is not part of the integumentary system.
+
+50.Which of the following is NOT a function of the skin?
+A) fat storage
+B) waterproofing the body
+C) production of vitamin D
+D) immunity
+ANS: A
+Explaination:  Fat is stored in the hypodermis, which is also known as the subcutaneous layer and the superficial fascia.
+
+51.What is one difference between the dermis and the epidermis? The
+A) epidermis is composed of fibrous connective tissue while the dermis is composed of epithelial cells.
+B) dermis is the most exterior layer.
+C) dermis is not part of the skin while the epidermis is.
+D) dermis is vascularised while the epidermis is not.
+ANS: D
+Explaination:  The stratum germinativum of the epidermis and the more superficial layers, being without blood capillaries receives their nutrition via diffusion from capillaries in the dermis.
+
+52.What is the most common protein in the epidermis?
+A) elastin
+B) keratin
+C) melanin
+D) cholesterol
+ANS: B
+Explaination:  Most epidermal cells are keratinocytes that produce the fibrous protein keratin.
+
+53.What is the fibrous protein in our skin that protects it from abrasion?
+A) melanin
+B) keratin
+C) sebum
+D) elastin
+ANS: B
+Explaination: the outermost layer of the epidermis (stratum corneum) is com- posed of dead cells filled with keratin. This layer is harmlessly rubbed off (abrades) as the body comes into contact with objects outside the body.
+
+54.Which stratum of the epidermis protects the body against water loss and abrasion?
+A) stratum germinativum
+B) stratum basale
+C) stratum lucidum
+D) stratum corneum
+ANS: D
+Explaination:  The stratum corneum is the outermost layer of the epidermis and is composed of dead cells filled with keratin. This layer is harmlessly rubbed off (abrades) as the body comes into contact with objects outside the body.
+
+55.On which part of the integument is most of the body’s normal flora located?
+A) dermis
+B) epidermis
+C) microdermis
+D) hypodermis
+ANS: B
+Explaination:  The normal flora (bacteria) is outside the body, residing on the surface of the epidermis.
+
+56.Which is the deepest layer of the integument?
+A) the epidermis
+B) the dermis
+C) the stratum corneum
+D) the papillary dermal layer
+ANS: B
+Explaination:  The dermis includes the papillary layer and the deeper reticular layer
+
+57.One of the following is NOT a gland found in the integument. Which one?
+A) sudiferous gland
+B) mammary gland
+C) pineal gland
+D) sebaceous gland
+ANS: C
+Explaination:  The pineal gland is in the brain.
+
+58.All but one of the following are sensory receptors in the skin. Which one is NOT?
+A) Reticular dermal layer
+B) Merkel discs
+C) Nociceptors
+D) Pacinian corpuscles
+ANS: A
+Explaination:  The reticular dermal layer is not a receptor, it is the deepest layer of the dermis.
+
+59.What is the secretion produced by sudiferous glands?
+A) sweat
+B) sebum
+C) cerumin
+D) merocrin
+ANS: A
+Explaination:  Sudiferous glands are sweat glands.
+
+60.One of the following statements about the stratum corneum is correct. Which one?
+A) cells in this layer undergo cell division to replace the skin.
+B) it consists of dead cells.
+C) it contains collagen, elastin and reticular fibres.
+D) the layer has sensory receptors known as Merkel discs, Meissner’s and Pacinian corpuscles.
+ANS: B
+Explaination:  Stratum corneum is the outermost layer of the epidermis and is subject physical abrasion. The now flattened, keratinised cells are not living.
