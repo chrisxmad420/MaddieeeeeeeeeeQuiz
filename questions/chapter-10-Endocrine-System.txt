@@ -1,0 +1,727 @@
+1.Which statement below about hormones is true?
+A) Hormones are enzymes that catalyse reactions
+B) Hormones are released into the blood circulation
+C) Hormones affect all cells of the body
+D) Hormones are released by neurones at synapses
+ANS: B
+Explaination: Hormones are circulating messengers that are transported in blood. A particular hormone does not necessarily affect every cell in the body. Some (but not all) hormones are released by neurones, for example in the hypothalamus.
+
+2.Which hormones are soluble in blood?
+A) Steroid hormones
+B) Hormones produced by the adrenal cortex
+C) The sex hormones
+D) Those released by the pituitary gland
+ANS: D
+Explaination: The pituitary gland releases peptide hormones which are soluble in blood. The other choices refer to steroid hormones which are insoluble in blood. They require transport via plasma proteins.
+
+3.Which statement about the hypothalamus is correct?
+A) The hypothalamus is connected to the brain by the infundibulum
+B) The hypothalamus is composed of glandular epithelial tissue
+C) The hypothalamus secretes “releasing hormones”
+D) The hypothalamus secretes epinephrine and norepinephrine
+ANS: C
+Explaination: The hypothalamus is part of the brain so is composed of neural tissue. Epinephrine and norepinephrine are released from the adrenal medulla.
+
+4.What hormone does the thyroid produce?
+A) thyroid stimulating hormone
+B) calcitriol
+C) thyroxine
+D) parathyroid hormone
+ANS: C
+Explaination: Thyroxine (or tetra-iodothyronine) is converted to tri-iodothyronine in target tissues.
+
+5.What hormone(s) does the adrenal medulla produce?
+A) aldosterone
+B) epinephrine and norepinephrine
+C) corticosteroids
+D) glucocorticoids
+ANS: B
+Explaination: Epinephrine and norepinephrine are produced in the adrenal medulla (the deep or inside part). Aldosterone is a mineralocorticoid, which like corticosteroids & glucocorticoids, as the “cortico” in the name suggests, are all produced in the adrenal cortex.
+
+6.What is produced by the beta cells of the pancreas?
+A) angiotensin converting enzyme
+B) glucocorticoids
+C) glucagon
+D) insulin
+ANS: D
+Explaination: Beta cells of the pancreatic islets produce insulin. The alpha cells produce glucagon.
+
+7.Which gland or organ releases erythropoietin?
+A) The kidneys
+B) The adrenal glands
+C) The anterior pituitary
+D) The pancreas
+ANS: A
+Explaination: Kidneys produce erythropoietin (EPO) – which signals red bone marrow to increase production of rbc.
+
+8.What effect does parathyroid hormone have?
+A) It increases plasma Ca2+ concentration
+B) It decreases plasma Ca2+ concentration
+C) It increases the rate of ATP formation
+D) It stimulates the thyroid gland to produce thyroxine
+ANS: A
+Explaination: PTH increases plasma Ca2+. (calcitonin aids in lowering blood calcium).
+
+9.Which one of the following is NOT part of the endocrine system?
+A) the islets of Langerhans (pancreatic islets)
+B) the thyroid gland
+C) the acini cells of the pancreas
+D) the parathyroid glands
+ANS: C
+Explaination: The acini cells produce digestive enzymes.
+
+10.What is the difference between an exocrine gland and an endocrine gland?
+A) An endocrine gland secretes neurotransmitters (an exocrine gland does not).
+B) An endocrine gland secretes via a tube to the destination (an exocrine gland does not).
+C) An exocrine gland secretes into the blood (an endocrine gland does not).
+D) An endocrine gland secretes into the blood (an exocrine gland does not).
+ANS: D
+Explaination: Endocrine glands secrete “circulating” hormones, that is secrete into the blood.
+
+11.By what term are hormones derived from tyrosine also known?
+A) amino acid derivatives
+B) peptide hormones
+C) steroid hormones
+D) corticosteroids
+ANS: A
+Explaination: Catecholamines (adrenaline, noradrenaline), dopamine and thyroid hormone are all derived from tyrosine.
+
+12.Which hormones have their receptors inside their target cell?
+A) amino acid based hormones
+B) hormones with a membrane carrier mechanism or that are lipid soluble
+C) steroid hormones and peptide hormones of less than 50 amino acids
+D) lipid soluble hormones
+ANS: B
+Explaination: Choice D is also correct but B is the better answer as thyroid hormones cross membrane by a carrier mechanism.
+
+13.Where in the body is the hypothalamus located?
+A) On the inferior surface of the brain
+B) In the cortex of the adrenal gland
+C) In the anterior pituitary gland
+D) On the dorsal surface of the thyroid gland
+ANS: A
+Explaination: The hypothalamus is below the thalamus, more or less on the “floor” of the brain, but above the pituitary gland.
+
+14.From where are antidiuretic hormone and oxytocin released?
+A) the anterior pituitary
+B) the posterior pituitary
+C) the adrenal cortex
+D) the adrenal medulla
+ANS: B
+Explaination: ADH & OT are produced in the hypothalamus and transported to the posterior pituitary.
+
+15.Which hormone has the element iodine as part of its molecule?
+A) calcitonin
+B) haemoglobin
+C) thyroxine
+D) parathyroid hormone
+ANS: C
+Explaination: Thyroxine or thyroid hormone contains iodine.
+
+16.What effect does aldosterone have?
+A) It causes glucose to be absorbed from the blood
+B) It cause Na+ to be absorbed in the kidneys
+C) It causes Ca++ to be absorbed from the gut
+D) It causes K+ to be absorbed from the filtrate.
+ANS: B
+Explaination: Aldosterone cases reclamation of sodium ions from the filtrate, and potassium to be secreted in exchange.
+
+17.Which of the following is a part of the endocrine system?
+A) the thalamus
+B) the pancreatic islets (islets of Langerhans)
+C) the renal glands
+D) the salivary glands
+ANS: B
+Explaination: The pancreatic islets secrete the hormones insulin and glucagon.
+
+18.Which of the following is an amino acid derivative hormone?
+A) epinephrine
+B) tyrosine
+C) testosterone
+D) prostaglandin
+ANS: A
+Explaination: Epinephrine is derived from the amino acid tyrosine (so tyrosine is a wrong answer)
+
+19.Which statement below is true of steroid hormones?
+A) they do not have a specific receptor to bind with.
+B) they are not lipid soluble do bind to receptor proteins on the cell membrane.
+C) they are lipid soluble so diffuse through the cell membrane.
+D) they cross the cell membrane via a carrier mechanism.
+ANS: C
+Explaination: Steroids are lipid soluble so diffuse through the plasma membrane to bind to a receptor within the cell.
+
+20.Which structure controls the endocrine system and integrates the activities of the nervous and endocrine systems?
+A) the infundibulum
+B) the pituitary gland
+C) the thalamus
+D) the hypothalamus
+ANS: D
+Explaination: Hypothalamus secretes regulatory hormones that control endocrine cells in the ant.pit. gland; produces ADH & oxytocin; contains “autonomic centres” that exert neural control over endocrine cells of the adrenal medullae.
+
+21.One of the statements below is true. Which one?
+A) the anterior pituitary produces testosterone from cholesterol and releases it when releasing hormones arrive from the hypothalamus.
+B) the hypothalamus produces ADH and oxytocin which are stored in the posterior pituitary.
+C) the posterior pituitary contains autonomic centres that exert neural control over the adrenal glands.
+D) the thalamus produces ADH and oxytocin which are stored in the anterior pituitary
+ANS: B
+Explaination: Testosterone is not produced in the pituitary, nor does the pituitary contain autonomic centres.
+
+22.Iodine is an essential component of which hormone?
+A) thyroid hormones
+B) aldosterone
+C) thyroid stimulating hormones
+D) parathyroid hormone
+ANS: A
+Explaination: Thyroid hormones T3 and T4 contain 3 & 4 iodine atoms respectively.
+
+23.Which hormone(s) increases the reabsorption of Ca++ from the filtrate in the kidney tubule?
+A) calcitonin
+B) mineralocorticoids
+C) parathyroid hormone
+D) aldosterone
+ANS: C
+Explaination: PTH causes increased calcium absorption and hence increases blood calcium level.
+
+24.What effect does aldosterone have? It causes:
+A) angiotensin to be formed from angiotensinogen
+B) Na+ to be absorbed from the filtrate
+C) Na+ and Ca++ to be absorbed from the filtrate and K+ to be secreted into the filtrate
+D) Na+ to be absorbed from the filtrate and K+ to be secreted into the filtrate
+ANS: D
+Explaination: Aldosterone promotes the absorption of sodium from the filtrate while potassium (also a positively charged ion) is secreted to maintain electrical neutrality.
+
+25.Which of the following is NOT part of the endocrine system?
+A) The thymus
+B) The pineal gland
+C) The acini cells of the pancreas
+D) The posterior pituitary gland
+ANS: C
+Explaination: The acini cells produce digestive enzymes.
+
+26.Peptide hormones are produced (and/or released) by which structure?
+A) The adrenal cortex
+B) The gonads
+C) The hypothalamus
+D) The kidneys
+ANS: C
+Explaination: The hypothalamus produces peptide hormones.
+
+27.Which statement applies to steroid hormones?
+A) They are transported dissolved in blood
+B) They bind to receptor proteins on the outside of the plasma membrane
+C) They cross the plasma membrane by using a protein carrier mechanism.
+D) They bind to receptors in the cell cytoplasm or nucleus
+ANS: D
+Explaination: As steroid hormones are lipid soluble, their receptors are inside the cell as they can cross the plasma membrane.
+
+28.Which endocrine organ produces “releasing hormones” and “inhibitory hormones”?
+A) thyroid
+B) anterior pituitary
+C) hypothalamus
+D) thalamus
+ANS: C
+Explaination: The hypothalamus controls the secretion of the anterior pituitary by the use of “releasing hormones” and “inhibitory hormones”.
+
+29.What hormone is produced by the parafollicular cells of the thyroid gland?
+A) Parathyroid hormone
+B) Calcitonin
+C) Thyroid hormone
+D) Thyroxine
+ANS: B
+Explaination: Parafollicular (or “C”) cells of the thyroid produce calcitonin which aids in lowering of blood calcium.
+
+30.What hormones are produced by the adrenal medulla?
+A) Epinephrine and norepinephrine
+B) Insulin and glucagon
+C) Aldosterone and erythropoietin
+D) Testosterone and estrogen
+ANS: A
+Explaination: The medulla is the deeper part if the adrenal gland.
+
+31.What is one mechanism of hormone action?
+A) They act as second messengers in the cytoplasm
+B) They act as enzymes for reactions
+C) They act as receptor proteins
+D) They activate genes in the nucleus
+ANS: D
+Explaination: Some hormones (corticosteroids) determine which genes are transcribed in the nucleus.
+
+32.What is the effect of ADH (antidiuretic hormone)?
+A) allows walls of collecting duct to become permeable to water
+B) inhibits the reabsorption of Na+
+C) causes an increase in the volume of urine produced
+D) it promotes diuresis
+ANS: A
+Explaination: ADH causes more aquaporins to be inserted into the collecting duct walls which allow water molecules to pass through along the osmotic gradient.
+
+33.Which one of the following is NOT true of peptide hormones?
+A) they are water soluble
+B) they are derived from amino acids
+C) their receptors are located in the cell cytoplasm
+D) they are transported dissolved in blood
+ANS: C
+Explaination: The receptors for peptide hormones are located on the plasma membrane as they are unable to penetrate the plasma membrane.
+
+34.Which hormones are produced by the adrenal medulla?
+A) gonadocorticoids
+B) steroid hormones
+C) mineralocorticoids
+D) catecholamines
+ANS: D
+Explaination: Epinephrine and norepinephrine (=catecholamines) are produced in the adrenal medulla.
+
+35.How do steroid hormones differ from amino acid-based hormones?
+A) steroid hormones are water soluble whereas amino acid based hormones are not.
+B) the receptors for steroid hormones are only in the cytoplasm or the nucleus (and amino acid-based hormones are not)
+C) steroid hormones are made only in the adrenal glands, while amino acid based hormones are produced by a variety of glands.
+D) steroid hormones activate a G-protein and exert their effect via “second messengers”, but the action of amino acid-based hormones results directly on binding to their receptor.
+ANS: B
+Explaination: Steroid hormones are lipid soluble so can enter the cell to bind to receptors located inside the cell. Amino acid-based hormones are not lipid soluble so their receptors are located outside the cell on the plasma membrane.
+
+36.Which structure integrates the activities of the endocrine system and the nervous system?
+A) the hypothalamus
+B) the thalamus
+C) the posterior pituitary
+D) the anterior pituitary
+ANS: A
+Explaination: The hypothalamus is located in the brain and also produces regulatory hormones.
+
+37.Which structure produces ADH and oxytocin?
+A) the thalamus
+B) the anterior pituitary
+C) the hypothalamus
+D) the posterior pituitary
+ANS: C
+Explaination: ADH and OT are then transported to the posterior pituitary for storage and release.
+
+38.Which structure is composed of glandular epithelial tissue?
+A) the thalamus
+B) the anterior pituitary
+C) the posterior pituitary
+D) the hypothalamus
+ANS: B
+Explaination: The anterior pituitary produces and releases 6 hormones.
+
+39.Which hormone is the one made in greatest quantity by the thyroid gland?
+A) calcitonin
+B) thyroid stimulating hormone
+C) tri-iodothyronine
+D) thyroxine
+ANS: D
+Explaination: thyroxine is about 90 % tetra-iodothyronine and 10 % tri-iodothyronine
+
+40.Which of the following organ(s) are NOT endocrine organs?
+A) renal
+B) adrenal
+C) thyroid
+D) parathyroid
+ANS: A
+Explaination: Renal gland is another name for the kidney.
+
+41.To which group of hormones does aldosterone belong?
+A) catecholamines
+B) glucocorticoids
+C) mineralocorticoids
+D) gonadocorticoids
+ANS: C
+Explaination: As aldosterone is concerned with the absorption of sodium ions, a “mineral” and it is produced by the adrenal cort ex, it is termed a mineralocorticoid.
+
+42.Where are the receptors for almost all of the amino acid derived hormones located?
+A) on the mitochondria
+B) in the nucleus
+C) on the outside of the plasma membrane
+D) on the inside of the plasma membrane
+ANS: C
+Explaination: Amino acid-derived hormones cannot get through the plasma membrane so they attach to receptors located on the outside of the membrane.
+
+43.Which structure produces the hormones ADH and oxytocin?
+A) the posterior pituitary
+B) the anterior pituitary
+C) the thalamus
+D) the hypothalamus
+ANS: D
+Explaination: ADH & OT are produced in the hypothalamus and are then transported to the posterior pituitary for release.
+
+44.The hypothalamus produces “releasing hormones”. What do these releasing hormones do?
+A) They direct the posterior pituitary to release hormones.
+B) They direct the anterior pituitary to release hormones.
+C) They direct the gonads to release hormones.
+D) They act as “second messengers” when hormones bind to their receptor site.
+ANS: B
+Explaination: The anterior pituitary produces hormones that stimulate other endocrine organs, but the ant pit dos not release hormones until directed to the hypothalamus.
+
+45.What is the role of glucagon and insulin?
+A) glucagon raises blood glucose level and inhibits gluconeogenesis.
+B) glucagon lowers blood glucose level and stimulates glycogenolysis.
+C) insulin raises blood glucose level and stimulates gluconeogenesis
+D) insulin lowers blood glucose level inhibits glycogenolysis.
+ANS: D
+Explaination: Insulin promotes the uptake of glucose into cells from the blood. Hence it lowers blood glucose. It also inhibits glycogenolysis so less glucose is released from the glycogen store.
+
+46.Which of the following hormones CANNOT cross the plasma membrane?
+A) sex hormones
+B) amino acid based hormones
+C) thyroid hormones
+D) steroids
+ANS: B
+Explaination: amino acid-based hormones are water soluble but not lipid soluble, so cannot cross the plasma membrane.
+
+47.Which of the following “controls” the endocrine system?
+A) the posterior pituitary
+B) the thalamus
+C) the anterior pituitary
+D) the hypothalamus
+ANS: D
+Explaination: The hypothalamus secretes releasing h. & inhibitory hormones that stimulate the anterior pituitary gland to secrete hormones which in turn control the activities of endocrine cells in the thyroid; cortex of adrenal glands; & reproductive organs. The hypothalamus produces ADH & oxytocin which are stored and released into blood from post.pit. The hypothalamus exerts neural control over the adrenal medullae.
+
+48.Which part of the pituitary gland is comprised of neural tissue?
+A) the posterior pituitary
+B) the pars intermedia
+C) the adenohypophysis
+D) the anterior pituitary
+ANS: A
+Explaination: The posterior pituitary is part of the brain.
+
+49.Complete the sentence correctly. Parathyroid hormone:
+A) is produced by the parafollicular cells of the thyroid gland
+B) decreases the concentration of Ca++ in the blood
+C) releases Ca++ from the sarcoplasmic reticulum 
+D) increases the concentration of Ca++ in the blood.
+ANS: D
+Explaination: When the level of calcium in the blood is lower than required, PTH is released and causes the calcium concentration to increase.
+
+50.The adrenal medulla produces which of the following?
+A) weak androgens
+B) mineralocorticoids
+C) testosterone and oestrogen
+D) epinephrine and norepinephrine
+ANS: D
+Explaination: The adrenal cortex produces weak androgens and mineralocorticoids.
+
+51.What effect does insulin have?
+A) it increases metabolic rate
+B) it causes the breakdown of glycogen to glucose
+C) it lowers blood sugar level
+D) it stimulates gluconeogenesis
+ANS: C
+Explaination: Glucose stimulates enhanced membrane transport of glucose into body cells, and inhibits glycogenolysis and gluconeogenesis. This lowers blood glucose level.
+
+52.Which of the following is a substantial difference between amino acid based hormones and steroid hormones?
+A) endocrine glands release steroid hormones while amino acid hormones are released from exocrine glands.
+B) amino acid hormones are circulating hormones while steroid hormones are local hormones.
+C) amino acid hormones are fat soluble while steroid hormones are not.
+D) steroid hormones can pass through the plasma membrane while amino acid hormones cannot.
+ANS: D
+Explaination: Steroid hormones are fat soluble, AA-based hormones are water soluble (& not fat soluble).
+
+53.What type of molecule is cAMP, or what role does it play?
+A) a second messenger
+B) an amino acid based hormone
+C) a catecholamine
+D) a steroid hormone
+ANS: A
+Explaination: Cyclic AMP is a second messenger. That is, it is released from the inside of the plasma membrane when an AA-based hormone binds to its receptor.
+
+54.Which one is NOT a mode of action of hormones on their target cell?
+A) a hormone may stimulate the synthesis of an enzyme in the target cell.
+B) a hormone may activate an enzyme by altering its shape.
+C) a hormone may deactivate an enzyme by altering its structure.
+D) some hormones are enzymes that promote a chemical reaction in a cell. 
+ANS: D
+Explaination: Hormones are not enzymes (but may cause enzymes to be formed).
+
+55.What may be correctly said about oxytocin and antidiuretic hormone?
+A) they are made and released from the posterior pituitary
+B) they are made in the hypothalamus and stored and released from the posterior pituitary
+C) they are made in the hypothalamus and stored and released from the anterior pituitary
+D) they are made and released from the anterior pituitary
+ANS: B
+Explaination: The hypothalamus produces ADH & OT. The posterior pituitary releases them.
+
+56.Which hormones are produced by the adrenal medulla?
+A) glucocorticoids
+B) mineralocorticoids
+C) adrenalin and noradrenalin
+D) gonadocorticoids
+ANS: C
+Explaination: Adrenalin and noradrenalin (also known as epinephrine and nor epinephrine). The other three choices all have “cortico” in their name indicating their adrenal cortex origin.
+
+57.Which cells produce insulin?
+A) the acini cells of the pancreas
+B) parafollicular cells of the thymus
+C) alpha cells of the islets of Langerhans
+D) beta cells of the islets of Langerhans
+ANS: D
+Explaination: Islets of Langerhans = pancreatic islets. Alpha cells produce glucagon.
+
+58.What are the two parts of the pituitary gland known as?
+A) the thalamus and the hypothalamus
+B) anterior and posterior
+C) alpha and beta cells
+D) cortex and medulla
+ANS: B
+Explaination: Anterior pituitary (epithelial tissue) and posterior pituitary (neural tissue)
+
+59.Which of the following could be a definition of a hormone?
+A) chemicals released to communicate between adjacent cells in contact.
+B) a chemical messenger released into blood to coordinate activities in distant tissues.
+C) a chemical messenger released by a neurone at a synapse.
+D) a chemical messenger in the extracellular fluid between cells of a single tissue.
+ANS: B
+Explaination: Hormones are also known as circulating hormones, meaning they are transported in the blood.
+
+60.One of the following groups of hormones has their receptor inside the cell. Which one?
+A) steroid hormones
+B) catecholamines
+C) adrenalin and noradrenalin
+D) peptide hormones
+ANS: A
+Explaination: steroids are lipids, hence are lipid soluble so can enter the cell.
+
+61.Which two hormones are stored in the posterior pituitary prior to their release?
+A) luteinising hormone and follicle stimulating hormone
+B) adrenalin and noradrenalin
+C) calcitonin and calcitriol
+D) oxytocin and antidiuretic hormone
+ANS: D
+Explaination: OT & ADH are produced in the hypothalamus before being transported to the posterior pituitary.
+
+62.What is a function of calcitonin?
+A) accelerating Ca2+ release from bone
+B) stimulating Ca2+ excretion by the kidneys
+C) reducing Ca2+ deposition in bone
+D) stimulating the formation of calcitriol in the kidneys
+ANS: B
+Explaination: Calcitonin decreases the blood calcium concentration. B is the only choice compatible with this.
+
+63.The hormones thyroxine and tri-iodothyronine contain which element?
+A) cobalt
+B) iron
+C) iodine
+D) manganese
+ANS: C
+Explaination: These thyroid hormones require iodine in their molecule.
+
+64.What is produced in the adrenal cortex?
+A) cholesterol
+B) catecholamines
+C) adrenalin and noradrenalin
+D) corticosteroids
+ANS: D
+Explaination: “Cortico”steroids are made in the adrenal cortex. Choice B and C are the same – these hormones are made in the adrenal medulla.
+
+65.What is the function of insulin?
+A) enhance the transport of glucose through the plasma membrane into the cell
+B) promote glycogenolysis
+C) promote gluconeogenesis
+D) to raise blood sugar level
+ANS: A
+Explaination: Insulin lowers the level of glucose in the blood. The other three choices are about increasing the blood glucose level.
+
+66.Which of the following statements about endocrine hormones is always true?
+A) They are secreted by neurones
+B) They are derived from amino acids
+C) They are produced by exocrine glands
+D) They are released into the bloodstream
+ANS: D
+Explaination: Endocrine hormones are also known as circulating (in blood) hormones.
+
+67.Which of the following statements about corticosteroids is true?
+A) They may also act as neurotransmitters
+B) They are transported dissolved in blood
+C) They are produced by the adrenal gland
+D) They are amino acid derivatives
+ANS: C
+Explaination: They are produced by the adrenal cortex.
+
+68.Which structure produces epinephrine and norepinephrine?
+A) adrenal pelvis
+B) the anterior pituitary
+C) adrenal medulla
+D) adrenal cortex
+ANS: C
+Explaination: The medulla (interior) of the adrenal gland.
+
+69.Which cells produce insulin?
+A) the acini
+B) the alpha cells
+C) the beta cells
+D) the islets of Langerhans
+ANS: C
+Explaination: The beta cells of the islets of Langerhans.
+
+70.What is the function of erythropoietin (EPO)?
+A) stimulate bone marrow to produce red blood cells
+B) decrease the plasma concentration of Ca++
+C) increase the plasma concentration of Ca++
+D) to raise blood sugar level
+ANS: A
+Explaination: EPO is produced in the kidneys and stimulates active (red) marrow to produce blood cells.
+
+71.Finish the sentence so that it is correct: A hormone may be defined as a chemical messenger that:
+A) is released into circulation in small quantities.
+B) facilitates communication between adjacent cells.
+C) moves through extracellular fluid between cells of a single tissue
+D) crosses the synaptic cleft and binds to a receptor.
+ANS: A
+Explaination: Hormones travel through the blood to all parts of the body and only small quantities are required.
+
+72.Endocrine communication involves hormones of two types
+A) first messengers and second messengers
+B) steroid hormones and amino acid based hormones
+C) amino acid derivatives and peptide hormones
+D) peptide hormones and corticosteroids
+ANS: B
+Explaination: Hormones are of two structural types and this determines whether they are lipid soluble (can pass through the plasma membrane) or not.
+
+73.Which of the following statements is FALSE?
+A) peptide hormones are not able to penetrate the cell membrane
+B) thyroid hormone can cross the membrane
+C) steroid hormones bind to receptors on the outside of the cell membrane
+D) catecholamines are not lipid soluble
+ANS: C
+Explaination: Steroid hormones are lipid soluble so their receptors are inside the cell as they can pass through the plasma membrane.
+
+74.The posterior pituitary does which one of the following?
+A) produces growth hormone, prolactin and tropic hormones
+B) secretes regulatory hormones that control endocrine cells in the anterior pituitary
+C) exerts neural control over other endocrine glands
+D) stores and releases oxytocin and antidiuretic hormone
+ANS: D
+Explaination: OT & ADH are made in hypothalamus and passed along neurones to the posterior pituitary.
+
+75.What does insulin do?
+A) it lowers blood sugar level
+B) it causes the breakdown of glycogen to glucose
+C) it increases metabolic rate
+D) it hydrolyses glucose into ATP
+ANS: A
+Explaination: Insulin stimulates the uptake of glucose into cells from the blood.
+
+76.An amino acid based hormone binds to its receptor. This has the effect of: A. activating an enzyme to produce cAMP
+A) activating an enzyme to produce cAMP
+B) causing it to diffuse through the cell to trigger a cascade of reactions
+C) activate a G-protein
+D) allowing it to move along the membrane
+ANS: C
+Explaination: After a hormone binds to its receptor, a G (for guanine) protein is activated as the first effect. The G-protein then moves along the membrane to activate an enzyme that produces – for example – cAMP, which is a “second messenger”.
+
+77.The structure that secretes regulatory hormones that control the pituitary gland is known as the:
+A) hypothalamus
+B) hypophysis
+C) hypothyroid
+D) hypothymus
+ANS: A
+Explaination: Hypothalamus is structure. Hypophysis is another name for the pituitary gland.
+
+78.Why are the receptors for amino acid-based hormones on the outside surface of the cell membrane?
+A) cells can respond faster when the hormone does not need to enter the cell.
+B) amino acid-based hormones cannot penetrate cell membranes.
+C) lysosomes in the intracellular fluid digest amino acid-based hormones.
+D) amino acid-based hormones have no role in activating genes in the nucleus.
+ANS: B
+Explaination: Amino acid-based hormones are not lipid soluble.
+
+79.What is the difference between endocrine glands and exocrine glands?
+A) endocrine glands produce hormones whereas exocrine glands do not.
+B) exocrine glands secrete into the blood stream whereas endocrine glands do not.
+C) endocrine glands are controlled by the autonomic nervous system whereas exocrine glands are not.
+D) exocrine glands secrete steroid hormones whereas endocrine glands secrete amino acid-based hormones.
+ANS: A
+Explaination: By definition endocrine glands are part of the endocrine system and they produce hormones.
+
+80.The pituitary gland has an anterior portion and a posterior portion. One difference between the two is:
+A) the anterior portion releases hormones following a nervous stimulus while the posterior portion releases hormones following a hormonal stimulus.
+B) the posterior portion is able to produce hormones while the anterior portion merely stores hormones made elsewhere.
+C) the anterior portion releases antidiuretic hormone (ADH) while the posterior portion does not.
+D) the posterior portion is neural tissue while the anterior portion is glandular tissue.
+ANS: D
+Explaination: Choices A, B & C are the reverse of the true situation.
+
+81.By what other name is adrenaline also known?
+A) noradrenaline
+B) epinephrine
+C) androgen
+D) ANP
+ANS: B
+Explaination: Perhaps to diminish the perception that the adrenal gland only produces adrenaline.
+
+82.Which hormones does the pancreas produce?
+A) epinephrine and norepinephrine.
+B) oxytocin and antidiuretic hormone.
+C) glucagon and insulin.
+D) glucocorticoids and aldosterone
+ANS: C
+Explaination: The pancreatic islets produce these hormones which manage the concentration of glucose in the blood.
+
+83.Which statement is NOT CORRECT about hormones: A. They are chemical substances that alter cell activity
+A) They are chemical substances that alter cell activity
+B) They regulate metabolic function of other cells in the body
+C) Steroid hormones are amino acid-based and are synthesized from cholesterol
+D) They are produced in glands and transported via the blood stream
+ANS: C
+Explaination: Steroid hormones are not based on amino acids. They are lipids.
+
+84.What does the anterior lobe of the pituitary gland synthesise and release?
+A) Growth hormone-releasing hormone
+B) Corticotropin-releasing hormone
+C) Thyroid-stimulating hormone
+D) Gonadotropin-releasing hormone
+ANS: C
+Explaination: All the releasing hormones are produced in the hypothalamus.
+
+85.How do calcitonin or parathyroid hormone control blood calcium levels?
+A) Calcitonin acts to increase blood calcium levels
+B) Parathyroid hormone release is inhibited by increased calcium levels
+C) Parathyroid hormone stimulates bone resorbing cells to take up calcium
+D) Calcitonin inhibits parathyroid hormone
+ANS: B
+Explaination: PTH acts to increase blood calcium levels. Hence less is required when blood calcium level is high.
+
+86.What controls the blood glucose level?
+A) The action of insulin
+B) The action of glucagon
+C) The action of insulin and glucagon
+D) The action of insulin, glucagon and glycogen
+ANS: C
+Explaination: Insulin increases blood glucose, while glucagon decreases blood glucose. Glycogen is not a hormone, so it does not affect the level of glucose in the blood.
+
+87.Complete the following sentence correctly: The hypothalamus:
+A) Is the major link between the nervous and the endocrine systems.
+B) Is situated in the brain superior to the thalamus.
+C) Produces a hormone that stimulates the thyroid gland.
+D) Does not produce anti-diuretic hormone (ADH).
+ANS: A
+Explaination: The hypothalamus integrates the nervous and endocrine systems of body control.
+
+88.Which of the following secretes growth hormone?
+A) the adrenal glands
+B) The thyroid gland
+C) The posterior lobe of the pituitary gland
+D) The anterior lobe of the pituitary gland
+ANS: D
+Explaination: The anterior lobe produces and releases GH.
+
+89.Blood calcium levels are controlled by hormones from which structures?
+A) The parathyroid glands and the thyroid gland
+B) The anterior lobe of the pituitary gland and the thyroid gland
+C) The parathyroid glands and the anterior lobe of the pituitary gland
+D) The adrenal cortex and the hypothalamus.
+ANS: A
+Explaination: Parathyroid glands secrete parathyroid hormone (to increase blood Ca level) while the parafollicular cells of the thyroid produce calcitonin which aids in lowering blood Ca.
+
+90.Which statement is NOT CORRECT?
+A) Males and females produce testosterone and oestrogen respectively in their gonads.
+B) Both male and females produce follicle stimulating hormone and luteinizing hormone.
+C) Oxytocin is produced and released from the anterior lobe of the pituitary gland.
+D) Production of testosterone and oestrogen inhibits the release of gonadotrophin releasing hormone from the hypothalamus.
+ANS: C
+Explaination: Oxytocin is produced in the hypothalamus and released from the posterior lobe of the pituitary gland.
+
+91.The hormones known as “catecholamines” (adrenaline, noradrenaline and dopamine) are not lipid soluble. Therefore their receptor sites are:
+A) On the inside of the plasma membrane.
+B) On the outside of the plasma membrane.
+C) In the cell cytoplasm.
+D) In the cell nucleus.
+ANS: B
+Explaination: With the receptors on the outside of the membrane, catecholamines do not need to be able to penetrate the membrane.

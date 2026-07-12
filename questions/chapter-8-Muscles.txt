@@ -1,0 +1,657 @@
+1.Which muscle naming criteria are used to name the quadriceps femoris?
+A) muscle action and location
+B) the origin and insertion
+C) location and direction of muscle fibres
+D) location and number of origins
+ANS: D
+Explaination: Femoris refers to location on the femur, quadriceps refers to 4 origins.
+
+2.By what name is the plasma membrane of a muscle cell known?
+A) sarcoplasm
+B) sarcomere
+C) sarcoplasmic reticulum
+D) sarcolemma
+ANS: D
+Explaination: “Sarco-” refers to flesh (muscle), “lemma-” refers to sheath (membrane) around the cell.
+
+3.Of the events that lead to myofilaments sliding over each other, which of the following happens first?
+A) The myosin head engages with the binding site on actin
+B) Troponin changes shape and pulls on tropomyosin
+C) Calcium ions enter the cell cytoplasm
+D) ATP is hydrolysed to ADP and inorganic phosphate
+ANS: C
+Explaination: Ca must first enter the cytoplasm in order to bind with troponin. Once the binding site is exposed, the myosin head may engage the site. Prior to engagement, ATP must be hydrolysed to ADP.
+
+4.Smooth muscle is different from skeletal muscle because smooth muscle
+A) is found in the walls of arteries
+B) can be voluntarily contracted
+C) has many nuclei in a cell
+D) has intercalated discs between cells
+ANS: A
+Explaination: Smooth muscle occurs in the walls of tubes, whereas skeletal muscle does not.
+
+5.Which of the following muscles is named according to its origin and insertion?
+A) transversus abdominus
+B) semimembranosus
+C) sternocleidomastoid
+D) deltoid
+ANS: C
+Explaination: The origin is on the sternum and clavicle (sternocleido-), while the insertion (on the “moving bone”) is to the mastoid process of the temporal bone.
+
+6.All of the following structures are part of a muscle cell except one. Which one?
+A) sarcoma
+B) sarcolemma
+C) sarcoplasm
+D) sarcoplasmic reticulum
+ANS: A
+Explaination: Sarcoma refers to a malignant tumour (a cancer) of connective or other non-epithelial tissue (bones, muscles, tendons, cartilage, nerves, fat, and blood vessels).
+
+7.During muscle cell contraction, what happens because of Ca++ binding to troponin?
+A) The binding site on actin is uncovered.
+B) Acetylcholine (ACh) is released.
+C) The cross-bridge disengages from the thin filament.
+D) ATP hydrolyses to ADP.
+ANS: A
+Explaination: Troponin causes tropomyosin (which covers he binding site of actin) to be shifted away.
+
+8.Which of the following muscle cell structures is the longest?
+A) A myofilament
+B) A myofibril
+C) A sarcomere
+D) A troponin molecule
+ANS: B
+Explaination: A muscle cell is a bundle of myofibrils. Myofibrils contain many sarcomeres joined end to end. Within sarcomeres are found (the shorter) thick and thin myofilaments.
+
+9.Which of the muscles listed below is named according to its action?
+A) adductor longus
+B) temporalis
+C) sternocleidomastoid
+D) peroneus longus
+ANS: A
+Explaination: Adduction is the action of bringing an abducted bone back towards the body’s midline.
+
+10.Which of the following is the smallest structure within a muscle fibre?
+A) myosin
+B) myofilament
+C) myofibril
+D) sarcomere
+ANS: A
+Explaination: Myosin is a molecule that makes up a thick myofilament. Many thick and thin myofilaments make up a sarcomere. Many sarcomeres joined end to end form a myofibril.
+
+11.Which of the events below is the FIRST to occur prior to a muscle cell contracting?
+A) ATP binds to myosin.
+B) ADP detaches from myosin.
+C) the active site on actin is exposed.
+D) Ca++ is released from the sarcoplasmic reticulum.
+ANS: D
+Explaination: The release of Ca from where it is stored (in the SR) is necessary before the active binding site of actin can be exposed.
+
+12.What is a “sarcomere”?
+A) a cancer of connective tissue
+B) the cytoplasm of a muscle cell
+C) a section of a myofilament.
+D) the plasma membrane of a muscle cell.
+ANS: C
+Explaination: A myofilament is a long line of sarcomeres joined end to end. So one section of a myofilament is a sarcomere.
+
+13.Smooth muscle cells may be described by which of the following?
+A) striated, voluntary, multinucleate
+B) not striated, voluntary, multinucleate
+C) striated, involuntary, uninucleate
+D) not striated, involuntary, uninucleate
+ANS: D
+Explaination: Smooth muscle is not-striated, and it is involuntary and has one nucleus.
+
+14.By which term is a muscle that opposes or reverses a particular movement called?
+A) agonist
+B) synergist
+C) antagonist
+D) fixator
+ANS: C
+Explaination: An agonist muscle performs the action, while the antagonist must relax (be stretched) while the action is being performed (and can reverse the action of the agonist).
+
+15.Which term is given to the unit of a myofibril that contracts?
+A) sarcoplasm
+B) sarcomere
+C) sarcolemma
+D) sarcoplasmic reticulum
+ANS: B
+Explaination: The contraction of a myofibril is due to the shortening of its component sarcomeres.
+
+16.Which is the largest of the structures in a muscle fibre?
+A) myofibril
+B) myofilament
+C) myosin
+D) myopic
+ANS: A
+Explaination: A myofibril extends the length of a muscle cell. A myofilament is shorter than a sarcomere, while myosin is a molecule in a thick myofilament.
+
+17.Where are the semimembranosus and semitendinosus muscles located? In the: A. seminal vesicle
+A) seminal vesicle
+B) thigh
+C) forearm
+D) back
+ANS: B
+Explaination: They are 2 of the 3 “hamstring” muscles on the dorsal thigh, the other being the biceps femoris.
+
+18.By what name is something that attaches a bone to another bone known?
+A) aponeurosis
+B) sarcomere
+C) ligament
+D) tendon
+ANS: C
+Explaination: Ligament is the “ligature” that join articulating bones. A tendon (or an aponeurosis) attaches a muscle to a bone.
+
+19.Which protein(s) are found in thin myofilaments?
+A) actin
+B) actin and tropomyosin
+C) actin, tropomyosin, and troponin
+D) actin, myosin, tropomyosin and troponin
+ANS: C
+Explaination: Actin is the major component of a thin filament. Tropomyosin covers the biding site, while troponin provides the mechanism for removing tropomyosin from the binding site.
+
+20.Which statement below best describes the role of Ca++ in muscle contraction?
+A) Ca++ binds to troponin, thereby changing its shape to expose the binding site.
+B) Ca++ causes ADP and inorganic phosphate to detach from the myosin crossbridge.
+C) Ca++ attaches to the myosin head, causing it to disengage from its binding site.
+D) Ca++ crosses the sarcolemma from the axon terminal which allows the action potential to propagate along the sarcolemma.
+ANS: A
+Explaination: Ca attaches to troponin causing a shape change which shifts the attached tropomyosin away from binding sites of actin.
+
+21.What characteristic of a smooth muscle cell distinguishes it from cardiac and from skeletal muscle?
+A) being branched
+B) being under involuntary control
+C) lack of striations
+D) being uninucleate
+ANS: C
+Explaination: Both cardiac and skeletal muscle show striations when viewed under the microscope, but smooth muscle does not.
+
+22.What information is contained in the muscle name “biceps brachii”?
+A) the muscle location and the number of origins.
+B) the number of origins and the muscle action.
+C) the muscle size and location in the body.
+D) the muscle’s shape and its action.
+ANS: A
+Explaination: “Brachii” indicates location on the brachus (arm), while “biceps” refers to the two origins (attachments) of the muscle.
+
+23.Which of the following muscles is a common intra-muscular injection site?
+A) deltoid
+B) gluteus maximus
+C) vastus medialis
+D) latissimus dorsi
+ANS: A
+Explaination: The upper arm at the shoulder is the location of the deltoid. It is the gluteus medius (rather than the gluteus maximus) that is used for IM injections to avoid the sciatic nerve.
+
+24.What causes the myosin binding site of an actin molecule to be exposed?
+A) ATP attaching to the myosin cross-bridge
+B) a nerve impulse reaching the motor end plate of a motor nerve.
+C) calcium ions attaching to troponin
+D) acetylcholine crossing the neuromuscular junction
+ANS: C
+Explaination: Ca causes a change of shape to the troponin molecule when they attach. This causes troponin to wrench tropomyosin away from its resting position covering the binding site.
+
+25.What is the source of the majority of the energy needed by muscles for physical activity that continues for longer than 30 or 40 minutes?
+A) ATP stored in muscle fibres.
+B) glycolysis of glucose in the cell cytoplasm
+C) ATP produced from creatine phosphate stored in muscle fibres
+D) aerobic respiration of pyruvic acid in mitochondria
+ANS: D
+Explaination: Choice A lasts for a few seconds only. Choice B can provide energy for a couple of minutes. Choice C can provide energy for vigorous activity lasting about 15 seconds.
+
+26.Which one of the following is NOT a characteristic of skeletal muscle?
+A) excitability
+B) autonomic innervation
+C) contractility
+D) extensibility
+ANS: B
+Explaination: Skeletal muscle is voluntary so is innervated by the somatic nervous system, not the autonomic system.
+
+27.What is the gluteus maximus named for? Its
+A) size.
+B) shape.
+C) action.
+D) origin and insertion.
+ANS: A
+Explaination: The gluteus maximus is larger than either the gluteus medius or gluteus minimus.
+
+28.Which of the following muscles is NOT named after its location in the body?
+A) deltoid
+B) extensor carpi ulnaris
+C) rectus abdominus
+D) biceps femoris
+ANS: A
+Explaination: The deltoid is named after its shape, which is likened to the capital Greek letter delta (a triangle).
+
+29.Skeletal muscle cells have all of the following characteristics EXCEPT one. Which one?
+A) a neuromuscular junction crossed by ACh (acetyl choline)
+B) invaginations of sarcolemma called “T tubules”.
+C) they are branched
+D) they are striated
+ANS: C
+Explaination: Skeletal muscle cells are not branched (but cardiac muscle cells are).
+
+30.What is the role of Ca++ in muscle contraction?
+A) Ca causes an action potential to travel along the sarcolemma
+B) Ca binds to troponin changing its shape.
+C) Ca attaches to the binding site of myosin, energising it.
+D) Ca engages with the binding site of actin causing the power stroke
+ANS: B
+Explaination: the myosin head cannot attach to actin until its binding site is exposed. Ca causes this to happen.
+
+31.Which of the following muscle structures is the largest?
+A) sarcomere
+B) fascicle
+C) myofibril
+D) muscle fibre
+ANS: B
+Explaination: A muscle fascicle is a bundle of muscle fibres (cells). Choice A & B are smaller than a cell.
+
+32.Which of the following muscles is NOT named after its location in the body?
+A) biceps brachii
+B) sternocleidomastoid
+C) rectus abdominus
+D) flexor carpi radialis
+ANS: B
+Explaination: The sternocleidomastoid is named after its origins (on the sternum and clavicle) and insertion (the mastoid process).
+
+33.Which feature is shared by cardiac muscle cells and skeletal muscle cells?
+A) striations
+B) intercalated discs
+C) branching
+D) involuntary nature
+ANS: A
+Explaination: Both types of muscle cells are striated. Choices B, C & D are characteristics of cardiac muscle cells only.
+
+34.What structures attach a muscle to a bone?
+A) a tendon
+B) a fasciculus
+C) a sarcomere
+D) an internal intercostal
+ANS: A
+Explaination: Tendons (thin rope-like structures) attach muscle to bone.
+
+35.What is the substance that binds to troponin in order to cause muscle contraction?
+A) PO42−
+B) H3O+
+C) Ca++
+D) Fe++
+ANS: C
+Explaination: Calcium ions do the job.
+
+36.Which of the following muscles is NOT named after its location in the body?
+A) latissimus dorsi
+B) adductor longus
+C) rectus femoris
+D) biceps brachii
+ANS: B
+Explaination: “Adductor” refers to the action of adduction, while longus refers to its size. Latissimus dorsi refers to the dorsal surface of the body.
+
+37.Which of the following muscle structures is the smallest?
+A) sarcomere
+B) fasciculus
+C) myofibril
+D) muscle fibre
+ANS: A
+Explaination: A sarcomere is a section of a myofibril. A muscle fibre (cell) is a bundle of myofibrils, while a fasciculus is a bundle of muscle fibres.
+
+38.A feature of skeletal muscle that is NOT shared with cardiac or smooth muscle is:
+A) striations
+B) branched cells
+C) intercalated discs
+D) many nuclei
+ANS: D
+Explaination: A skeletal muscle cell is a “syncytium” being derived from many cells, so retains their many nuclei.
+
+39.Which muscles extend the leg?
+A) quadriceps
+B) hamstrings
+C) gluteus muscles
+D) soleus, gastrocnemius & tibialis anterior
+ANS: A
+Explaination: Anatomically “leg” refers the limb between the knee and ankle. Extension of the leg is achieved by contacting the quadriceps (on the front of the thigh).
+
+40.What is the role of acetylcholine in muscle cell contraction?
+A) it is a neurotransmitter
+B) it binds to troponin causing it to change shape
+C) it supplies the energy for contraction
+D) it engages with the binding site on actin
+ANS: A
+Explaination: ACh crosses the synaptic cleft to transmit a neural impulse to the muscle sarcolemma.
+
+41.What is a sarcomere?
+A) it is the plasma membrane of a muscle cell
+B) it is the cytoplasm of a muscle cell
+C) it is a section of myofibril
+D) it is a bundle of thick and thin myofilaments
+ANS: C
+Explaination: While there are thick and thin myofibrils within a sarcomere, choice C is the better answer.
+
+42.Which of the following muscles IS named after its location in the body?
+A) sartorius
+B) triceps brachii
+C) soleus
+D) trapezius
+ANS: B
+Explaination: “Brachii” refers to the location on the arm (brachus).
+
+43.Which of the following is the smallest unit in a muscle?
+A) muscle fibre
+B) myosin
+C) fasciculus
+D) myofibril
+ANS: B
+Explaination: Myosin is a molecule, many of which combine to make a thick myofibril.
+
+44.Skeletal muscle cells can be characterised as: A. unstriated, involuntary, multinucleate
+A) unstriated, involuntary, multinucleate
+B) unstriated, voluntary, multinucleate
+C) striated, voluntary, uninucleate
+D) striated, voluntary, multinucleate
+ANS: D
+Explaination: Being multinucleate (& voluntary) distinguishes skeletal muscle cells from smooth, being voluntary distinguishes skeletal muscle from cardiac muscle cells.
+
+45.The muscles involved in mastication include which of the following?
+A) sternocleidomastoid, scalene
+B) sartorius, gracilis, soleus
+C) temporalis, masseter, buccinator
+D) orbicularis oculi, mentalis
+ANS: C
+Explaination: The muscles in choice A move the neck and head, those in choice B are in the thigh and leg, while the orbicularis oculi is a facial muscle that encircles the eye.
+
+46.What action does the flexor carpi ulnaris perform?
+A) it flexes the lower arm
+B) the same as the extensor carpi ulnaris.
+C) it flexes the fingers
+D) the same as the flexor carpi radialis
+ANS: D
+Explaination: The flexor carpi ulnaris and the flexor carpi radialis perform the same action – flexing the wrist – the former lies superficial to the ulna bone, while the latter is adjacent and superficial to the radius bone.
+
+47.Which one of the following is not made of skeletal muscle?
+A) the diaphragm
+B) pyloric sphincter
+C) vastus lateralis
+D) the tongue
+ANS: B
+Explaination: We are able to exercise conscious control over the other three muscles so they are skeletal muscle.
+
+48.Which of the following muscles is named using the criterion of its size?
+A) sternocleidomastoid
+B) gluteus medius
+C) flexor digitorum profundus
+D) trapezius
+ANS: B
+Explaination: “Medius” implies intermediate, in this case between the gluteus maximus and the gluteus minimus.
+
+49.What is the cytoplasm of a skeletal muscle cell called?
+A) sarcolemma
+B) sarcomere
+C) sarcoplasm
+D) fasciculus
+ANS: C
+Explaination: The prefix “sarco” is commonly used to describe microscopic muscle cell structures.
+
+50.What does the term “origin” refer to in the musculoskeletal system?
+A) The point of attachment of a muscle to the “moveable” bone.
+B) The line that separates the shaft from the end of a long bone.
+C) The point of attachment of a muscle to the “stationary” bone.
+D) The end of a long bone.
+ANS: C
+Explaination: Muscles are said to “originate” on the bone that does not move when that muscle contracts, and to insert on the bone that does flex or extend when the muscle contracts.
+
+51.Which of the following muscles causes the wrist to bend?
+A) extensor digitorum
+B) extensor carpi ulnaris
+C) flexor digitorum profundus
+D) abductor pollicis longus
+ANS: B
+Explaination: The term “carpi” refers to the carpal bone (the 8 bones of the wrist), so this muscle extends the wrist.
+
+52.Which of the following muscles increases the angle between the bones of the fingers and hand?
+A) extensor digitorum
+B) extensor carpi ulnaris
+C) flexor digitorum profundus
+D) abductor pollicis longus
+ANS: A
+Explaination: “Extensor” refers to the action of extension (increasing the angle between the hand and fingers), while “digitorum” refers to the digits (fingers).
+
+53.What is the protein of thick myofilaments in a skeletal muscle cell?
+A) tropomyosin
+B) myosin
+C) actin
+D) acetylcholine
+ANS: B
+Explaination: Choices A & C are both proteins of thin myofilaments. ACh is a neurotransmitter.
+
+54.What are the muscles known as triceps brachii, biceps femoris and quadriceps femoris named according to? Their:
+A) relative size and location of muscle’s origin
+B) number of origins and location in the body
+C) shape of muscle and direction of muscle fibres
+D) number of insertions and location in the body
+ANS: B
+Explaination: bi-, triand quad- refer to the number of origins, while the second word refers to location (arm or femur)
+
+55.A skeletal muscle fibre (cell) consists of many sections (units) which contract.
+What is the name given to one of the units that contract?
+A) sarcomere
+B) sarcolemma
+C) sarcoplasm
+D) fasciculus
+ANS: A
+Explaination: A muscle fibre consists of many sections (sarcomeres) connected end to end that shorten (contract) as the thick and thin filaments slide past each other.
+
+56.The neurotransmitter that causes an action potential to occur in a muscle cell membrane is called:
+A) inorganic phosphate (HPO42−)
+B) adenosine diphosphate (ADP)
+C) calcium (Ca++)
+D) acetylcholine (ACh)
+ANS: D
+Explaination: Acetylcholine is the neurotransmitter. All somatic motor neurons release ACh at their synapses with skeletal muscle fibres.
+
+57.Which of these events is necessary for the contraction of a muscle cell?
+A) the shortening of myofilaments.
+B) the conversion of ADP & HPO42− to ATP in the cross-bridge.
+C) Ca2+ binding to troponin causing it to change shape.
+D) the movement of ACh from the sarcolemma to the axon terminal.
+ANS: C
+Explaination: the binding of calcium is essential. (choice A is wrong as myofilaments don’t shorten – they slide past each other. Choices B & D are the reverse of what actually happens).
+
+58.Which statement about thick or thin myofilaments is CORRECT?
+A) Thick myofilaments contain the three proteins myosin, tropomyosin and troponin.
+B) Thin myofilaments contain the three proteins actin, tropomyosin and troponin.
+C) Thick myofilaments contain about 300 myosin molecules each of which has a binding site for a cross bridge.
+D) Thin myofilaments contain about 300 myosin molecules each of which has a cross bridge.
+ANS: B
+Explaination: Thin myofilaments contain these three proteins. Choices C & D are wrong as myosin has a cross-bridge rather than a binding site.
+
+59.What is the role of calcium ions in muscle contraction? To
+A) bind to troponin, thus changing its shape and pulling it away from the actin molecule.
+B) cause the myosin cross-bridge to detach from its binding site.
+C) cause the action potential to propagate along the sarcolemma.
+D) bind with ADP during aerobic respiration to produce ATP to provide energy.
+ANS: A
+Explaination: Calcium binds to troponin. All other choices are wrong statements.
+
+60.The space between the ribs is filled with: A. intercostal muscle
+A) intercostal muscle
+B) costal cartilage
+C) intercostal space
+D) pleura
+ANS: A
+Explaination: “costa” means rib. Intercostal means between the ribs.
+
+61.Which of the following describes skeletal muscle?
+A) striated, voluntary, multinucleate, individually named.
+B) striated, branched, uninucleate, involuntary.
+C) not striated, uninucleate, voluntary, individually named.
+D) not striated, multinucleate, involuntary, with intercalated discs.
+ANS: A
+Explaination: Skeletal muscle is striated and is not branched (cardiac muscle cells are branched).
+
+62.Which list is in the correct order of DECREASING size?
+A) muscle fibre, sarcomere, myofilament, myofibril.
+B) muscle, fasciculus, muscle fibre, myofibril.
+C) sarcomere, fasciculus, myofibril, myofilament.
+D) muscle, muscle fibre, myosin, myofibril.
+ANS: B
+Explaination: A myofibril consists of sarcomeres joined end to end; A myofibril contains many myofilaments; A myofibril is larger than a molecule of myosin.
+
+63.What are the muscles known as gluteus maximus, gluteus medius and gluteus minimus named according to? Their:
+A) size.
+B) shape.
+C) whimsy.
+D) direction of their muscle fibres.
+ANS: A
+Explaination: maximus > medius > minimus
+
+64.Which of these events is necessary for the contraction of a muscle cell?
+A) the shortening of myosin molecules.
+B) the hydrolysis of ATP to ADP & HPO42− in the myosin cross-bridge.
+C) Ca2+ binding to tropomyosin causing it to change shape.
+D) the movement of Ca2+ from the sarcoplasm into the sarcoplasmic reticulum.
+ANS: B
+Explaination: The hydrolysis of ATP energises the cross-bridge. (myosin molecules do not get shorter; calcium binds to troponin, not tropomyosin; calcium returns to the SR after contraction).
+
+65.Select the one INCORRECT statement about skeletal muscles
+A) An “agonist” opposes or reverses a particular movement
+B) A muscle’s attachment point to a stationary bone is called its “origin”.
+C) A skeletal muscle cell is a “syncytium”.
+D) Muscles that immobilise a bone are called “fixators”.
+ANS: A
+Explaination: An antagonist opposes a movement. All other statements are correct.
+
+66.Which of the following groupings of muscle type and their characteristics is INCORRECT?
+A) skeletal, striated, voluntary
+B) smooth, visceral, involuntary
+C) cardiac, striated, voluntary
+D) skeletal, striated, syncytium
+ANS: C
+Explaination: cardiac muscle is not voluntary.
+
+67.Microscopically, muscle fibres contain parallel myofibrils. What are the units joined end to end within a myofibril called? A:
+A) myofilament
+B) motor unit
+C) myosin
+D) sarcomere
+ANS: D
+Explaination: sarcomeres joined end to end, like train carriages, form a myofibril.
+
+68.The part of a skeletal muscle cell that is able to contract is called
+A) sarcoplasm
+B) sarcolemma
+C) sarcomere
+D) sarcoplasmic reticulum
+ANS: C
+Explaination: sarcomeres contain myofilaments that slide past each other as the sarcomere contracts.
+
+69.What is the role of Ca++ in the contraction of a muscle cell?
+A) Ca++ binds to troponin to change its shape which reveals actin’s binding site.
+B) Ca++ attaches to the binding site of actin
+C) Ca++ detaches from ATP as it forms ADP
+D) Ca++ causes the myosin head to detach from the binding site of actin
+ANS: A
+Explaination: Actin’s binding site is covered until calcium causes it to be exposed.
+
+70.The energy for muscle contraction is derived from the mechanisms below
+EXCEPT for one. Which one is NOT a method of producing ATP?
+A) anaerobic glycolysis.
+B) aerobic respiration.
+C) direct phosphorylation of ADP by creatinine phosphate.
+D) anaerobic digestion of lactic acid.
+ANS: D
+Explaination: ATP is not produced from lactic acid – lactic acid is produced from pyruvic acid after glucose is anaerobically lysed into ATP and pyruvic acid.
+
+71.With respect to the flexion of the forearm, which of the following statements is correct?
+A) the origin of the biceps brachii is on the radius and its insertion is on the scapula
+B) the origin of the biceps brachii is on the ulna and its insertion is on the scapula
+C) the agonist muscle is the biceps brachii and the antagonist is the triceps brachii
+D) the agonist muscle is the biceps brachii and the antagonist is the brachialis
+ANS: C
+Explaination: Antagonist for flexion is the triceps brachii. (the origin, not the insertion of the biceps brachii is on the scapula).
+
+72.Patients confined to bed and those with plaster casts immobilising a bone fracture suffer muscle wasting. What is the term used for this condition?
+A) Disuse atrophy
+B) Denervation atrophy
+C) Muscle dystrophy
+D) Muscle hypertrophy
+ANS: A
+Explaination: Immobilising a bone will mean the attached muscles are not used. Their nerve supply is intact, albeit nervous stimulation is reduced.
+
+73.What is the source of the ATP used by muscles for vigorous activity that may last for 10 to 15 seconds?
+A) glycolysis of glucose in the cell cytoplasm forms ATP.
+B) the ATP that is stored in muscle cells as ATP.
+C) aerobic respiration in the mitochondria produces the ATP
+D) creatinine phosphate in muscle and ADP react to form the required ATP.
+ANS: D
+Explaination: Creatinine phosphate is used to “recharge” the ADP that forms from ATP when the cross-bridge is energised.
+
+74.Which muscle and bone listed below do NOT work together in combination?
+A) humerus and biceps femoris
+B) quadriceps and tibia
+C) femur and gluteal muscles
+D) radius and biceps brachii
+ANS: A
+Explaination: The biceps femoris lies adjacent to the femur, not the humerus.
+
+75.Which of the following muscles is named after its origin and insertion points?
+A) tibialis anterior
+B) extensor digitorum longus
+C) rectus femoris
+D) sternocleidomastoid
+ANS: D
+Explaination: The sternocleidomastoid has its origin on the sternum and clavicle, while it’s insertion is on the mastoid process of the temporal bone.
+
+76.Which of the following is NOT a common intramuscular injection site?
+A) gluteus medius
+B) deltoid
+C) gluteus maximus
+D) vastus lateralis
+ANS: C
+Explaination: The gluteus maximus is avoided so that the sciatic nerve is not pierced by the needle.
+
+77.What structure attaches a muscle to a bone?
+A) a meniscus
+B) a ligament
+C) a cartilage
+D) a tendon
+ANS: D
+Explaination: A tendon is part of a muscle. Ligaments attach bones to each other, while cartilage covers the articulating surfaces of bone.
+
+78.What binds to troponin causing it to expose the binding site on actin to enable muscle cell contraction?
+A) Ca++ (calcium)
+B) ACh (acetylcholine)
+C) PO42− (phosphate)
+D) ADP (adenosine diphosphate)
+ANS: A
+Explaination: Troponin has a binding site for calcium.
+
+79.The muscle known as the “transversus abdominus” is named according to
+A) its size and number of origins
+B) the direction of its muscle fibres and its action
+C) its action and its location in the body
+D) location in the body and direction of muscle fibres
+ANS: D
+Explaination: Its location = abdominus, its muscle fibre direction = transversus.
+
+80.When a muscle contracts, exactly what structure gets shorter?
+A) the fascicles of a muscle
+B) the myosin molecules of a myofilament
+C) the actin molecules of a myofilament
+D) the sarcomeres of a myofibril
+ANS: D
+Explaination: The length of the sarcomeres decreases.
+
+81.What is the neurotransmitter that crosses the neuromuscular junction?
+A) Acetylcholine (ACh)
+B) Adrenalin (epinephrine)
+C) Noradrenalin (norepinephrine)
+D) Ca++
+ANS: A
+Explaination: All somatic motor neurons release ACh at their synapses with skeletal muscle fibres, that is, at the neuromuscular junction.
+
+82.What does aerobic respiration refer to?
+A) glycolysis in the cytoplasm in the absence of oxygen.
+B) oxidative phosphorylation in the mitochondria in the presence of oxygen.
+C) glycolysis in the liver in the presence of oxygen
+D) gluconeogenesis in the liver in the absence of oxygen
+ANS: B
+Explaination: Respiration occurs in the mitochondria of a cell. The term aerobic refers to the presence of oxygen.

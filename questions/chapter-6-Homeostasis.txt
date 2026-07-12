@@ -1,0 +1,176 @@
+1.Choose one answer below that completes the sentence so that it makes a true statement: Positive feedback:
+A) is the way the body maintains homeostasis
+B) is a response that opposes a stimulus
+C) is a response that maintains a dynamic state of equilibrium
+D) is a response that enhances a stimulus
+ANS: D
+Explaination:  “Positive” feedback will reinforce the stimulus, making it greater or more insistent.
+
+2.The hypothalamus and core thermoreceptors notice if body temp too low. The hypothalamus signals smooth muscle in blood vessels to vasoconstrict and skeletal muscle to shiver. This activity causes body temp to rise, which is again noticed by hypothalamus & core thermoreceptors, so the hypothalamus turns off these heat gain mechanisms. In this scenario, which of the following statements is correct?
+A) The scenario describes positive feedback in action.
+B) The core thermoreceptors are the effector organs.
+C) The hypothalamus is the control centre.
+D) Skeletal muscle is the efferent pathway to the effector organ.
+ANS: C
+Explaination:  The hypothalamus interprets the sensory input and determines the response. Choice A is wrong as this is negative feedback. The effector organs are the skeletal muscles (which are not a “pathway”).
+
+3.The human body’s ability to maintain a relatively constant internal temperature is an example of what?
+A) Respiratory heat loss
+B) Homeostasis
+C) Vasodilation and evaporative heat loss
+D) Positive feedback
+ANS: B
+Explaination:  Homeostasis is derived from words that mean remaining similar and standing still and refers to physiological conditions remaining more or less the same.
+
+4.Some of the body’s homeostatic responses rely on “negative feedback”. Which of the following happens in negative feedback?
+A) The body ignores changes in a physiological variable that are directed towards the set point for that variable.
+B) The body ignores changes in a physiological variable that are directed away from the set point for that variable
+C) The body’s response acts to oppose the change in the physiological variable.
+D) The body’s response acts to enhance the change in the physiological variable
+ANS: C
+Explaination:  “Negative” refers to the response being in the opposite direction to the stimulus. Thus if a variable is increasing, then the body’s response is to produce a change that causes the variable to decrease. The body does not “ignore” stimuli.
+
+5.In homeostasis, what is it that produces the response that moves the physiological variable back towards the middle of its healthy range?
+A) the effector
+B) the receptor
+C) the integrating centre
+D) the efferent pathway
+ANS: A
+Explaination:  The effector produces the effect that it is directed to by the integrating centre. That direction is passed along the efferent (or outgoing) pathway.
+
+6.The “afferent pathway” in the description of a feedback loop in homeostasis, refers to the:
+A) circulating blood.
+B) pathway from the integrating centre to the effector.
+C) outgoing signal.
+D) path taken by the signal produced by a stimulus.
+ANS: D
+Explaination:  The afferent signal is incoming from the receptor to the integrating centre. It may be via the blood, but may be via a nerve.
+
+7.Homeostasis usually returns the body to a healthy state after stressful stimuli by
+A) negative feedback
+B) positive feedback
+C) means of the immune system
+D) means of the nervous system
+ANS: A
+Explaination:  Negative feedback is far more common in maintaining homeostasis than is positive feedback.
+
+8.What does the word “homeostasis” refer to?
+A) the steps leading to repair of a blood vessel and the coagulation of blood
+B) the maintenance of internal body conditions within narrow limits
+C) the controlled response that opposes the influence that caused it.
+D) the production of blood cells in active bone marrow
+ANS: B
+Explaination:  This is the best definition. Choice C refers to negative feedback only.
+
+9.How does homeostasis return the body to a healthy state after stressful stimuli?
+By producing a
+A) responses that oppose the stress
+B) learned behaviour
+C) reflex action
+D) buffering mechanism
+ANS: A
+Explaination:  Refers to negative feedback. Positive feedback is also possible (but rare), nevertheless choice A is the best answer.
+
+10.What causes the body to maintain a relatively constant internal environment?
+A) positive feedback
+B) homeostasis
+C) reflexes
+D) pH buffers
+ANS: B
+Explaination:  Homeostasis matches the definition in the question.
+
+11.Homeostasis relies on feedback to achieve its aims. “Negative” feedback refers to which situation below? The body’s response:
+A) travels from the effector to the integrating centre via the afferent pathway.
+B) opposes the stressful stimulus.
+C) is to decrease the set point.
+D) enhances the stressful stimulus.
+ANS: B
+Explaination:  “Negative” refers to the opposing nature of the response.
+
+12.The term “homeostasis” is described by which one of the following statements? “The body’s ability to:
+A) respond to a stimulus or stress in such a way as to enhance the stress.
+B) maintain a relatively constant internal temperature.
+C) respond to a stimulus or stress in such a way as to reduce the stress.
+D) maintain a relatively constant internal environment.
+ANS: D
+Explaination:  Choice A refers to positive feedback. Choice C refers to negative feedback. Choice B is an example of homeostasis.
+
+13.Synthesis and release of most hormones is regulated by negative feedback. Negative feedback means
+A) A rise in hormone levels affects the target organ which acts to inhibit further hormone release
+B) A rise in hormone levels affects the target organ which acts to stimulate further hormone release
+C) The effect of hormones on target cells does not control further release of hormone
+D) Neural stimuli result in the release of oxytocin and antidiuretic hormone from the hypothalamus
+ANS: A
+Explaination:  When the response opposes a change, it is negative feedback.
+
+14.Which of the following is a correct definition of “positive feedback”?
+A) The process by which the body maintains homeostasis.
+B) A mechanism in which the body’s response to a stimulus, opposes the stimulus.
+C) A mechanism whereby the body responds to a stimulus by acting to enhance the stimulus.
+D) The dynamic equilibrium maintained by an integrating centre which causes an effector to respond to the stimulus received by the receptor.
+ANS: C
+Explaination:  When the stimulus is enhanced, the feedback is termed “positive”.
+
+15.Which of the following is a correct definition of “negative feedback”?
+A) The process by which the body maintains homeostasis.
+B) A mechanism in which the body’s response opposes the stimulus.
+C) A mechanism whereby the body responds to a stimulus by acting to enhance the stimulus.
+D) The dynamic equilibrium maintained by an integrating centre which causes an effector to respond to the stimulus received by the receptor.
+ANS: B
+Explaination:  When an action is taken to cause the stimulus to be reduced, the feedback is termed “negative”.
+
+16.Homeostasis refers to maintaining :
+A) a constant internal body environment through negative feedback.
+B) body conditions relatively constant within a narrow range through negative and positive feedback.
+C) adequate concentrations of respiratory gases.
+D) blood glucose level within the healthy range.
+ANS: B
+Explaination:  The maintenance of body conditions through feedback which is usually negative but is positive in some rare situations.
+
+17.What does the term “homeostasis” refer to?
+A) the chemical processes that take place in the organelles of the cells.
+B) the body’s tendency to maintain a relatively constant internal environment.
+C) the body’s use of energy to produce chemical substances and parts for growth.
+D) any body response that opposes the stimulus that initiated the response.
+ANS: B
+Explaination:  This is the best definition of homeostasis. Choice D refers to negative feedback.
+
+18.The body returns to a healthy state after stressful stimuli thanks to which of the following?
+A) positive feedback
+B) metabolism
+C) anabolism
+D) negative feedback
+ANS: D
+Explaination:  Negative feedback is more common than positive feedback.
+
+19.Which of the following would be a negative feedback response by the body to hyperthermia?
+A) Shivering
+B) Sweating
+C) Vasoconstriction of blood vessels in the dermis
+D) An increase in metabolic rate
+ANS: B
+Explaination:  Hyperthermia is an increase on body temperature above 38 °C. Negative feedback would be a response that opposed the temperature rise. Allowing perspiration to evaporate from the skin would cool the skin and lead to a decrease in body temperature. The effect of the other choices would be to increase body temperature.
+
+20.How would the hypothalamus respond if its osmoreceptors noticed an increase in plasma osmotic pressure? It would send a message to:
+A) the posterior pituitary to release more ADH
+B) the posterior pituitary to release less ADH
+C) the adrenal cortex to release less aldosterone
+D) the atria to release more ANP
+ANS: A
+Explaination:  The hypothalamus would respond in a way that opposed the rise in osmotic pressure. Releasing more ADH would make the distal convoluted tubules of the nephrons to become more permeable to water. This would allow more water to be reclaimed from the filtrate which would act against the osmotic pressure of the plasma from rising further. It would also stimulate thirst.
+
+21.During the delivery of a baby the baby’s head is pushing against the cervix causing the cervix wall to stretch. This stretching causes nerve impulses to be sent to the hypothalamus which directs the posterior pituitary to release oxytocin in the blood. Oxytocin stimulates the uterus to contract which pushes the baby’s head deeper into the cervix, stretching it further. This situation is a description of which of the following?
+A) negative feedback
+B) positive feedback
+C) homeostasis
+D) an afferent pathway to an integrating centre
+ANS: B
+Explaination:  The stimulus (cervical stretching) causes the integrating centre (the hypothalamus) to respond by enhancing the stimulus – releasing oxytocin so that the uterus contracts. Enhancing the stimulus is an example of positive feedback. The feedback stops when the cervix is no longer being stretched, that is when the baby is delivered.
+
+22.Which of the following statements about positive feedback and homeostasis is correct?
+A) They are regulation mechanisms that control most fluctuations in the internal environment of the body.
+B) The response to the stimulus serves to exaggerate the feedback effect.
+C) This type of feedback response only involves an effector not a specific stimulus receptor site.
+D) This feedback mechanism involves adjustments at the organ level but not at the cellular level.
+ANS: B
+Explaination:  Positive feedback causes the stimulus to increase in magnitude which in turn elicits a more exaggerated response.
