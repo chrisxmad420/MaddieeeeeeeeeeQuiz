@@ -1,0 +1,474 @@
+1.Which of the following statements is CORRECT?
+A) An acid is an electron donor and a base is an electron acceptor.
+B) An acidic solution has a pH less than 7 and a basic solution has a pH greater than 7.
+C) Neutralization of a strong acid by a strong base gives only water.
+D) The pH of saliva is normally in the range of 8.5–9.5
+ANS: B
+Explanation: All students should know that pH <7 indicates acidity. Salivary pH is about 6.0–7.
+
+2.Which statement about buffers below is most correct?
+A) A buffer is any acid and base which together control the concentration of pH in the blood.
+B) A buffer is the solution which allows CO2 to be lost from the lungs in order to control the pH of the lungs.
+C) A buffer is a weak base and its acid salt or a weak acid and its basic salt. The ratio of the two components helps maintain blood pH levels.
+D) A buffer is a mixture of two acids which together help to maintain blood pH
+ANS: C
+Explanation: A buffer has two conjugate components, one dealing with acid while the other destroys base. Their ratio determines the pH of the solution they are in.
+
+3.Which of the following statements is FALSE?
+A) An acid is a proton donor and a base is a proton acceptor.
+B) An acidic solution has a pH greater than 7 and a basic solution has a pH less than 7.
+C) Neutralization of an acid by a base gives a solution of salt in water.
+D) The pH of the stomach is normally in the range of 1.6–1.8
+ANS: B
+Explanation: The opposite of this statement is the truth.
+
+4.Neutralization of an acid by a base can be represented by the following equation: H3O+ + OH− → 2H2O. This means that the pH of the solution after the neutralization is approximately: 
+A) 6
+B) 7
+C) 8
+D) 9
+ANS: B
+Explanation: The solution resulting from a neutralisation reactions should have pH = 7 (should be neutral) – provided that it is properly titrated.
+
+5. A buffer solution consisting of citric acid and citrate in a ratio of 5:1 maintains the pH at 7.4. What would be the ratio of the two components if the pH were to become 6.4
+A. 6:1
+B. 10:1
+C. 50:1
+D. 1:10
+ANS: C
+Explanation: As the ratio of the two components changes, so does the pH of the solution. As pH is a logarithmic scale, a pH value change by 1.0 requires a change of one of the components by a factor of 10. This is achieved if the ratio changes from 5 to 1, to 50 to 1. Furthermore, as the citric acid component has been increased, the pH decreases to be more acidic.
+
+6.Which of the following statements is closest to a correct definition of an acid?
+A) a substance that ionises in a solution to produce hydronium and hydroxide ions.
+B) a substance that reacts with water to produce hydroxide ions.
+C) a substance that dissociates in water to produce a solution with pH greater than 7.
+D) a substance that reacts partly with water to produce a low concentration of hydronium ions.
+ANS: D
+Explanation: An acid produces hydronium ions (H3O+) when added to water. If the concentration of hydronium ions produced is low, then the acid is a weak acid.
+
+7.The pH of a buffered solution depends on:
+A) the ratio of the components of the buffer solution.
+B) the amount of acid added to the buffer solution.
+C) the amount of base added to the buffer solution.
+D) the amount of acid and of base added to the solution.
+ANS: A
+Explanation: The pH of the buffered solution will change very little when either acid or base is added.
+
+8.The long term acid-base balance in the body is controlled by
+A) the phosphate and carbonic acid/bicarbonate buffers in the blood
+B) the kidneys and the lungs
+C) the phosphate, carbonic acid/bicarbonate, and protein buffers in the blood and cells.
+D) the kidneys
+ANS: B
+Explanation: Buffers temporarily manage the pH in the body’s liquids. It is from both the lungs and kidneys that acid is excreted (or not) from the body.
+
+9.You have a bottle of a strong acid and you add 100 ml of this to one litre of water. What would the pH of this final solution most likely be?
+A) pH = 1
+B) pH = 5
+C) pH = 7
+D) pH = 11
+ANS: A
+Explanation: Strong acid produces a high concentration of hydronium ions in aqueous solution, so the pH would be low.
+
+10.What is the approximate range of pH of gastric juice in the stomach?
+A) 1.6–1.8
+B) 6.2–7.4
+C) 7.3–7.5
+D) 7.8–8.6
+ANS: A
+Explanation: The stomach has the lowest pH in the body due to the secretion of hydrochloric acid (a strong acid) into it.
+
+4.What is the ratio of the two com- ponents if the pH were to become 8.4 after addition of more of the basic component.
+A) 1:200
+B) 1:21
+C) 1:30
+D) 1:40
+ANS: A
+Explanation: As pH is a logarithmic scale, a rise in pH value by 1.0 (from 7.4 to 8.4) requires a change in the concentration of the basic component by a fac- tor of
+
+12.Acidity is stated as a pH value. If the pH of urine sample “A” is 6 and the pH of urine sample “B” is 7, then which of the following is true?
+A) the most acidic sample is sample B.
+B) sample A has 10 times the hydroxide ion concentration of sample B.
+C) the B sample has 10 times the hydrogen ion concentration of sample A.
+D) sample A has 10 times the hydrogen ion concentration of sample B.
+ANS: D
+Explanation: The solution with higher hydrogen ion (=hydronium ion) concen- tration has the lower pH.
+
+13.One form of acid base imbalance in the body is called acidosis. In this situation, which of the following is true?
+A) the blood is less alkaline than it should be.
+B) the blood’s pH is less than 7.0
+C) the blood is less acidic than it should be.
+D) the concentration of hydrogen ions in the blood is less than it should be.
+ANS: A
+Explanation: Acidosis = blood pH <7.
+
+14.One of the buffer systems in the blood is the carbonic acid/bicarbonate buffer. It helps to maintain the body’s acid-base balance by destroying any excess:
+A) hydrogen ions in the blood.
+B) acid or base in the blood.
+C) hydroxide ions formed in the blood.
+D) bicarbonate ions formed in the blood.
+ANS: B
+Explanation: A buffer has the ability to destroy either acid or base.
+
+15.The major buffer system in the extracellular compartment is the:
+A) the protein buffer
+B) carbonic acid/bicarbonate buffer
+C) ammonia buffer
+D) phosphate buffer
+ANS: B
+Explanation: “Extracellular compartment” is almost synonymous with blood. The protein buffer is important within cells. The ammonia buffer is important in the kidney’s filtrate.
+
+16.If a patient was suffering from “acidosis”, what would this mean?
+A) blood pH is not sufficiently alkaline.
+B) blood pH is acidic.
+C) there is too little hydronium ion in the plasma.
+D) blood pH is too acidic.
+ANS: A
+Explanation: Healthy blood is slightly alkaline. Acidosis is applied to blood with pH below the normal range of 7.35–7.
+
+17.What happens when an acid is added to a buffered solution?
+A) the solution becomes acidic
+B) the pH of the solution decreases significantly
+C) the pH of the solution decreases very slightly
+D) the pH of the solution increases slightly
+ANS: C
+Explanation: A buffer will resist change to its pH. But pH does alter very slightly as the basic component destroys the added acid, and in the process becomes its cognate partner. This changes the ratio of the two components of the buffer slightly, and hence the pH.
+
+18.Which of the statements below is correct?
+A) The dihydrogen phosphate component of the phosphate buffer releases hydrogen ions into the lungs for excretion, and in the process, reverts to monohydrogen phosphate.
+B) Haemoglobin as it passes through the lungs, releases hydronium ions, which are breathed out.
+C) Carbon dioxide that is dissolved in blood diffuses into the alveoli and is breathed out.
+D) Hydronium ions react with bicarbonate ions to form carbonic acid which moves into the lungs for exhalation.
+ANS: C
+Explanation: Carbon dioxide that we breathe out enters the alveoli after diffus- ing there from the blood plasma. No other gas is excreted.
+
+19.When aspirin (an acid) is in the stomach (an acidic environment), what may be said of the aspirin molecules?
+A) Most molecules will be un-ionised and therefore able to be pass through the stomach mucosa.
+B) Most molecules will be ionised and therefore able to be pass through the stomach mucosa.
+C) Most molecules will be un-ionised and therefore NOT able to be pass through the stomach mucosa.
+D) Aspirin will be in the form of its salt and therefore able to be pass through the stomach mucosa.
+ANS: A
+Explanation: Aspirin in an acidic environment will be in its molecular form (and un-ionised). This makes it soluble in non-polar media like the plasma membrane (which is lipid). Being soluble in lipid, molecular aspirin is able to be absorbed from the stomach.
+
+20.Which statement below best describes an acid solution? The pH is less than: 
+A) 5
+B) 6
+C) 7
+D) 8
+ANS: C
+Explanation: An acidic solution has a pH of less than 7.0
+
+21.If a patient has blood pH that is 7.3 (which is below the healthy range of blood pH values), which of the following is a correct statement?
+A) the patient has alkalosis
+B) the patient has excessive alkali
+C) the patient has acidosis
+D) the patient has insufficient acid
+ANS: C
+Explanation: A pH lower than the healthy blood pH range is called acidosis.
+
+22.Which of the following mechanisms results in acid being excreted from the body?
+A) breathing out H2PO4- (dihydrogen-phosphate) from the lungs
+B) excreting HCO3- in the urine
+C) excreting NH3 (ammonia) in the urine
+D) breathing out CO2 from the lungs
+ANS: D
+Explanation: As CO2 exhaled from the lungs, carbonic acid in the blood con- verts into carbon dioxide and water. So as carbon dioxide is exhaled, the amount of carbonic acid within the body decreases.
+
+23.If the pH of a patient’s blood is 7.4, then it can be said that the patient has: 
+A) acidic blood
+B) alkaline blood
+C) neutral blood
+D) alkalosis
+ANS: B
+Explanation: pH above 7.0 indicates an alkaline solution. However 7.4 is within the healthy range, so there is no alkalosis.
+
+24.Which of the following would happen when hydrochloric acid is added to water?
+A) the acid would react with water to from a low concentration of hydronium ions.
+B) the acid would react with water to from a high concentration of hydroxide ions.
+C) the acid would react with water to from a high concentration of hydronium ions.
+D) the acid would react with water to from a high concentration of bicarbonate ions.
+ANS: C
+Explanation: HCl is a strong acid. Hence a high concentration of hydronium ions would be produced.
+
+25.If the pH of the stomach contents changed from 3 to 2, which of the following is true?
+A) at pH 2, the concentration of hydronium ions is two thirds of the concentra- tion at pH 3.
+B) at pH 3, the concentration of hydronium ions is 50 % more than the concen- tration at pH 2.
+C) at pH 2, the concentration of hydronium ions is ten times the concentration at pH 3.
+D) at pH 3, the concentration of hydronium ions is ten times the concentration at pH 2.
+ANS: C
+Explanation: When pH decreases from 3 to 2, this indicates an increase in hydronium ion concentration by a factor of 10. Remember pH is a logarithmic scale.
+
+26.The carbonic acid and bicarbonate buffer system is one if the buffers that help to maintain the blood’s pH within the healthy range by doing which of the following?
+A) carbonic acid destroys excess base in the blood while bicarbonate destroys excess acid.
+B) carbonic acid destroys excess acid in the blood while bicarbonate destroys excess base.
+C) carbonic acid and bicarbonate destroy excess acid.
+D) carbonic acid and bicarbonate destroy excess base.
+ANS: A
+Explanation: A buffer has two components. One is capable of destroying acid while the other is capable of destroying base.
+
+27.In a solution like blood that is buffered to minimise changes in pH, what determines the pH of the solution?
+A) the concentration of the hydronium ions
+B) the logarithm of the concentration of the hydronium ions
+C) the ratio of the concentration of hydronium ions to hydroxide ions.
+D) the ratio of the concentrations of the two components of the buffer.
+ANS: D
+Explanation: Any hydronium and hydroxide ions present will react with one of the two components of the buffer. So the amount of buffer component (viz their ratio) governs the concentration of these ions and hence the pH of the solution.
+
+28.When in solution, an acidic drug also exists as its salt. What feature does the salt of a drug have that may not be shared by the acid form of the drug?
+A) The salt of the drug does not carry an electrical charge but the acid form does.
+B) The salt of the drug may be more soluble in lipid than the acid form of the drug.
+C) The acid form of the drug is ionised whereas the salt is not.
+D) The salt of the drug may be more soluble in water than the acid form of the drug.
+ANS: D
+Explanation: The salt of the drug, being ionised, is more soluble in water (a polar liquid) than is the drug molecule.
+
+29.Which one of the following best defines an acid?
+A) an aqueous solution with a pH of less than 7.0
+B) a substance that reacts with water to produce hydrogen ions
+C) a substance that reacts with water to produce hydroxide ions
+D) a substance that reacts with water to produce hydronium ions
+ANS: D
+Explanation: A “hydrogen ion” H+ is a bare proton which, if it freely exists, would attach to a water molecule to form the hydronium ion (H3O+). So choice D is a better answer than Choice B.
+
+30.Which one of the following acids is not normally found in the body?
+A) hydrochloric acid
+B) carbonic acid
+C) nucleic acid
+D) acetylsalicylic acid
+ANS: D
+Explanation: Acetylsalicylic acid is the medicine known as aspirin.
+
+31.If a sample of blood has a pH of 7.25, which of the following is true?
+A) it is in the healthy range
+B) it is neutral
+C) it is acidic
+D) it is basic
+ANS: D
+Explanation: pH above 7.0 indicates basic. 7.25 is below the healthy range.
+
+32.If a blood sample has a pH of 7.25, which of the following is NOT true?
+A) the blood is acidic
+B) the person may be suffering from metabolic acidosis
+C) the person may be suffering from respiratory acidosis
+D) the blood is alkaline
+ANS: A
+Explanation: pH must be less than 7.0 for acidic to be true. The condition certainly is an acidosis.
+
+33.Why does drinking acidic solutions such as orange juice NOT make the blood acidic?
+A) Blood is alkaline and alkaline solutions react with ingested acids to neutral- ise them.
+B) The volume of water in the body is great enough that the effect of ingested acidic food and drink on pH is negligible.
+C) The blood has buffers whose components are able to resist changes to blood pH.
+D) The kidney is able to rapidly filter acidic components from blood to avoid pH changes.
+ANS: C
+Explanation: The blood has the ability to buffer normal intakes of acidic or basic substances. So excursions of blood pH outside the healthy range are prevented.
+
+34.Which statement about the phosphate buffer is correct?
+A) H2PO42− destroys acid and HPO4− destroys base
+B) H2PO42− destroys base and HPO4− destroys acid
+C) H2PO42− is basic and HPO4− is acidic
+D) the ratio of H2PO42− : HPO4− decreases following the addition of acid.
+ANS: B
+Explanation: Di-hydrogen phosphate is able to destroy base by donating one of its hydrogen atoms (and in the process it becomes mono-hydrogen phosphate). Choice D is wrong as addition of acid would decrease the proportion of mono- hydrogen phosphate while increasing di-hydrogen phosphate. This would make the ratio increase, that is the “fraction” would be larger.
+
+35.If the pH of a sample of blood was 7.4, which term below would be applied to it?
+A) acidotic
+B) acidic
+C) alkalotic
+D) alkaline
+ANS: D
+Explanation: 7.4 is in the healthy range for blood. Being greater than 7.0, indi- cates alkaline.
+
+36.Three of the solutions below have the SAME level of acidity (or alkalinity), the other is different. Which is the different one?
+A) blood
+B) a neutral solution
+C) a solution with pH = 7
+D) a solution with a hydrogen ion concentration of 10-7 mol/L
+ANS: A
+Explanation: Blood has pH in the range 7.35–7.
+
+37.Which of the following statements is a definition of a buffer solution?
+A) one where the number of osmoles of solute equals the number of moles.
+B) one where the concentration of hydronium ions equals the concentration of hydroxide ions.
+C) a solution that resists change to its pH.
+D) a solution that reacts partly with water to produce a relatively low concentration of hydronium ions.
+ANS: C
+Explanation: This is a definition of a buffer solution. Choice B indicates a neutral solution, while choice D alludes to a weak acid.
+
+38.Which of the following solutions is the most acidic?
+A) blood plasma
+B) gastric juice
+C) a solution with pH = 7
+D) a solution with hydronium ions at a concentration of 10-5 moles/L
+ANS: B
+Explanation: gastric juice has a pH of about 1.
+
+39.Pure water contains small but equal amounts of hydronium (H3O+) ions and hydroxide (OH−) ions. This means that water is:
+A) acidic
+B) basic
+C) acidic and basic
+D) neither acidic nor basic
+ANS: D
+Explanation: When the concentrations of hydronium and hydroxide ions is the same, their effects are cancelled and the solution is neutral.
+
+40.What do we call a substance that when added to water, reacts with water to produce hydronium ions?
+A) an ionic compound
+B) a base
+C) an electrolyte
+D) an acid
+ANS: D
+Explanation: This is a definition of an acid.
+
+41.How does the blood’s phosphate buffer behave when an hydronium ion is encountered?
+A) HPO42− destroys the hydronium ion and becomes H2PO4- – and blood pH
+decreases very slightly
+B) H2PO4- destroys the hydronium ion and becomes HPO42− and blood pH
+decreases very slightly
+C) HPO42− destroys the hydronium ion and becomes H2PO4- and blood pH
+increases very slightly
+D) H2PO4- destroys the hydronium ion and becomes HPO42− and blood pH
+increases very slightly
+ANS: A
+Explanation: Mono-hydrogen phosphate is the species that destroys acid (by accepting a hydrogen ion from the acid). Blood pH would decrease very slightly as the concentration of mono-hydrogen phosphate decreases slightly and the concentration of di-hydrogen phosphate increases slightly.
+
+42.One of the statements below about buffers is correct. Which one?
+A) a buffer consists of an acid and a base.
+B) a buffer will react with water to produce hydronium ions.
+C) a solution that is neither acidic nor basic is called a buffer.
+D) the components of a buffer are conjugate pairs.
+ANS: D
+Explanation: A buffer has two components. Each component converts to the other as it destroys acid (or base). Choice A is incorrect as a buffer is a weak acid and its slightly basic salt (or vice versa).
+
+43.An acid may be defined as a substance that:
+A) reacts completely with water producing a high concentration of hydronium ions
+B) reacts with water to produce hydroxide ions
+C) produces a pH of more than 7 when in solution
+D) reacts with water to produce hydronium ions
+ANS: D
+Explanation: An acid produces hydronium ions. Choice A defines a strong acid (but not a weak one).
+
+44.One of the statements below about buffers is WRONG. Which one?
+A) a buffer consists of a weak acid and its slightly basic salt.
+B) a buffer will react with water to produce hydronium ions.
+C) a solution that resists change to its pH is called a buffer.
+D) the components of a buffer are conjugate pairs.
+ANS: B
+Explanation: The ability to produce hydronium ions with water defines an acid, not a buffer.
+
+45.An acid may be defined by which one of the following statements?
+A) a substance with equal concentrations of hydronium and hydroxide ions.
+B) a substance that reacts partly with water to produce hydronium ions
+C) a substance that maintains the pH of the solution it is in.
+D) a substance that reacts with water producing hydroxide ions. 
+ANS: B
+Explanation: This is a definition of an acid.
+
+46.Which of the following defines an acid?
+A) when in solution, resists change to pH
+B) reacts with water to produce hydronium ions
+C) reacts with a buffer to produce water
+D) has a pH of more than
+Answer is [not found in block]
+
+47.Which of the following is NOT an acid?
+A) a solution having a pH of 3.
+B) a substance which reacts with water to produce hydronium ions.
+C) carbonic acid.
+D) a solution that resists change to its pH 
+ANS: D
+Explanation: Such a solution is a buffer.
+
+48.What effect would a base have when added to the following solutions?
+A) Tap water: – it would react to produce hydronium ions.
+B) Tap water: – it would react to produce hydroxide ions.
+C) Buffered water: – it would raise the pH of the solution.
+D) Un-buffered water: – it would lower the pH of the solution.
+ANS: B
+Explanation: A base has the ability to produce hydroxide ions when added to water.
+
+49.What effect would an acid have when added to the following solutions?
+A) Tap water: – it would react to produce hydronium ions.
+B) Tap water: – it would react to produce hydroxide ions.
+C) Buffered water: – it would lower the pH of the solution.
+D) Un-buffered water: it would raise the pH of the solution.
+ANS: A
+Explanation: An acid has the ability to produce hydronium ions when added to water.
+
+4.A small quantity of strong acid (as an isotonic solution) is added to it. Which of the following values is most likely to be the pH of the resulting blood solution?
+A) 3.0
+B) 7.3
+C) 7.4
+D) 7.5
+ANS: C
+Explanation: Blood is buffered so very little pH change will result from the addition of acid. Certainly not enough to change the pH by 0.
+
+51.Blood in the body is different to a buffered solution held in a beaker. This is because hydronium (hydrogen) ions can be removed from solution in blood almost immediately by:
+A) filtration in the kidney from where it is eliminated from the body in urine.
+B) combining with hydroxide ions to form water which is eliminated as urine.
+C) combining with bicarbonate to form carbonic acid which disassociates to water and carbon dioxide which is breathed out.
+D) reacting with mono-hydrogen phosphate to form di-hydrogen phosphate.
+ANS: C
+Explanation: This is the best answer as it describes the buffer action and the continuous nature of exhalation means that there is no delay in excreting carbon dioxide. Choice A is also correct, but the elimination of acid via kidneys is not immediate.
+
+52.The definition of an acid is a substance that reacts:
+A) completely with water to produce a large concentration of hydronium ions.
+B) with water to produce hydroxide ions.
+C) with a base to produce a neutral salt.
+D) with water to produce hydronium ions.
+ANS: D
+Explanation: This is the best answer. Choice A is true of a strong acid only. Choice C is incorrect as the salt produced may also be basic or acidic.
+
+53.Choose the INCORRECT statement about buffer solutions.
+A) the pH of a buffer does not change on addition of acid or base.
+B) a buffer has two components which may be a weak acid and its salt.
+C) a buffer has two components which may be a weak base and its salt.
+D) pH of a buffer depends only on the ratio of its components.
+ANS: A
+Explanation: The pH of a buffer does change, albeit very slightly, on addition of acid or base.
+
+54.In the condition known as acidosis, the blood pH would be
+A) greater than 7.45.
+B) less than 7.45.
+C) less than 7.35.
+D) less than 7.00
+ANS: C
+Explanation: The healthy pH range for blood is 7.35–7.45. A pH value below this, while still alkaline, indicates insufficient alkalinity (or too much acidity) and is termed acidosis.
+
+55.As the blood becomes more acidic, hydrogen (hydronium) ions combine with bicarbonate ions to form carbonic acid which in turn dissociates into carbon dioxide (to be breathed out by the lungs) and water. Which is the equation describing this reaction
+A) CO2 + H2O←H2CO3←H+ + HCO3-
+B) CO2 + H2O→H2CO3→H+ + HCO3−
+C) CO2 + H2O←H+ + HCO3-←H2CO3
+D) H+ + HCO3−←CO2 + H2O←H2CO3
+ANS: A
+Explanation: Choice B is going in the wrong direction, while choices C & D are scrambled.
+
+4.What is the ratio of these two components if the pH were to become 8.4 after the addition of more of the basic component of the buffer?
+A) 1:5
+B) 2:4
+C) 1:8
+D) 1:40
+ANS: D
+Explanation: The pH of a buffer is determined by the ratio of its two compo- nents. pH is a logarithmic scale of the hydronium ion concentration of a solu- tion. Hence the ratio must change by a factor of 10 in order for the pH to change by one (i.e. change from 7.4 to 8.4).
+
+57.Which of the following pH values would you expect to a dilute solution of a weak base to have?
+A) 2.4
+B) 6.2
+C) 8.2
+D) 12.4
+ANS: C
+Explanation: A base has a pH greater than 7.
+
+58.A buffer solution having a pH of 8.5 has a small amount of strong acid added to it. What is its pH value likely to be closest to?
+A) 5.0
+B) 8.4
+C) 8.6
+D) 12.4
+ANS: B
+Explanation: A buffer solution resists change to its pH. This means that its pH will change very little, but it will change slightly. As acid has been added, its pH will drop by a small amount.
+
+59.Which of the following statements about the role of the kidneys or lungs in the maintenance of acid-base balance within the body is FALSE?
+A) The kidneys are able to affect several buffer systems but the lungs affect only one.
+B) The lungs exert their influence on the carbonic acid/bicarbonate buffer system.
+C) Neither the lungs nor the kidneys have much influence over the protein buffer.
+D) The kidneys are able to respond more rapidly than the lungs to changes in acid-base balance.
+ANS: D
+Explanation: The lungs with each breath are able to excrete acid, by exhaling CO

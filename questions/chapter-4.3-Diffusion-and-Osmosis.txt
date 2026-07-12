@@ -1,0 +1,215 @@
+1.Consider two aqueous solutions of different concentration separated by a semi- permeable membrane. In this situation, osmosis results in:
+A) water molecules moving to the side where the solution concentration is lower.
+B) the more concentrated solution becoming even more concentrated.
+C) the more dilute solution becoming even more dilute.
+D) the more concentrated solution becoming more dilute.
+ANS: D
+Explanation: The result of osmosis is that the more concentrated solution becomes more dilute.
+
+2.Osmosis may be defined as which of the following?
+A) The diffusion of water molecules across a semi-permeable membrane from the solution with higher water concentration into the solution of lower water concentration.
+B) The movement of water molecules across a semi-permeable membrane from the solution of higher concentration into the solution of lower concentration.
+C) The diffusion of solute particles across a semi-permeable membrane from the solution of higher concentration into the solution of lower concentration.
+D) The movement of water molecules across a semi-permeable membrane from the solution of lower concentration into the solution of higher concentration.
+ANS: D
+Explanation: The definition should include: “water”; movement through an SP membrane; direction of water flow from more dilute solution into the solution of higher concentration.
+
+3.What is the movement of water molecules across a plasma membrane from the side where the solution concentration is more dilute to the side where the solution is more concentrated called?
+A) osmosis
+B) reverse osmosis
+C) diffusion
+D) hydration
+ANS: A
+Explanation: Osmosis is the diffusion of WATER molecules through a mem- brane, from where there is a higher concentration of water molecules to where
+
+4.The movement of water molecules through a plasma membrane from the side where there is a higher concentration water molecules to the side where there are fewer, is best known as:
+A) diffusion
+B) osmosis
+C) pinocytosis
+D) hydrolysis
+ANS: B
+Explanation: osmosis is the diffusion of water molecules through a membrane, down their concentration gradient.
+
+5.The diffusion of water molecules across a cell membrane from the side where the solution concentration is more dilute to the side where it is greater, is known as which of the following?
+A) osmosis
+B) filtration
+C) hydrolysis
+D) buffer action
+ANS: A
+Explanation: This is a definition of osmosis.
+
+6.If a semi-permeable membrane separates two aqueous solutions with different osmotic pressures, what will be the direction of water flow between solutions? From:
+A) higher osmotic pressure to the solution of lower osmotic pressure.
+B) lower osmotic pressure to the solution of higher osmotic pressure.
+C) higher concentration to the solution of lower concentration.
+D) higher hydrostatic pressure to the solution of lower hydrostatic pressure.
+ANS: B
+Explanation: lower osmotic pressure means a lower solution concentration (and a higher concentration of water molecules). Water moves from the dilute solution into the more concentrated one.
+
+7.During dialysis, what moves across a semi-permeable membrane (and how)?
+A) Water molecules by diffusion from the region of high solute concentration to the region of low solute concentration.
+B) Water molecules by filtration from the region of high hydrostatic pressure to the region of low hydrostatic pressure.
+C) Solutes by diffusion from the region of high solute concentration to the region of low solute concentration.
+D) Solutes by filtration from the region of low hydrostatic pressure to the region of high hydrostatic pressure.
+ANS: C
+Explanation: dialysis refers to movement of solutes (not water). Choice D is wrong as filtration refers to movement due to hydrostatic pressure difference from the solution under higher pressure to low pressure.
+
+8.A suitable definition of osmosis would be movement:
+A) of solute particles through a plasma membrane from the side where their concentration is greatest to the side where it is lower.
+B) of water molecules through a plasma membrane from the side where their concentration is greatest to the side where it is lower.
+C) of a substance from a region where it is in high concentration to where its concentration is lower
+D) caused by a hydrostatic pressure difference.
+ANS: B
+Explanation: osmosis refers to movement of water molecules (not other mole- cules), by diffusion.
+
+9.The difference between dialysis and diffusion is that
+A) dialysis involves the movement of water molecules.
+B) diffusion involves movement against the concentration gradient.
+C) dialysis involves passive movement through a cell membrane.
+D) diffusion is caused by a hydrostatic pressure difference.
+ANS: C
+Explanation: diffusion is passive and occurs in the direction of the concentra- tion gradient. Diffusion can occur within a solution or across a membrane. Dialysis on the other hand, requires a membrane and is a term applied to sol- utes, not water molecules.
+
+10.Osmosis involves the movement of:
+A) water molecules through a membrane from a region of higher concentration of water molecules to a region of lower water molecule concentration.
+B) solute particles from a region of higher solution concentration to a region of lower solution concentration.
+C) water molecules from a region of lower concentration of water to a region of higher water molecule concentration.
+D) solute particles through a membrane from a region of lower solute concen- tration to a region of higher solute concentration.
+ANS: A
+Explanation: osmosis involves water molecules (not solutes) moving down their concentration gradient into a solution of lower concentration of water molecules.
+
+11.What does “osmosis” refer to?
+A) the constant random motion of ions and molecules.
+B) the movement of ions and molecules from regions of high concentration to regions of low concentration.
+C) the movement of water molecules through a semi-permeable membrane. 
+D) the movement of water molecules through a semi-permeable membrane from the side with higher water concentration to the side with lower water concentration.
+ANS: D
+Explanation: the definition must include water molecules; crossing a SP mem- brane; a correct direction of movement.
+
+12.What is the difference between filtration and diffusion?
+A) Diffusion can occur through a biological membrane whereas filtration cannot.
+B) Filtration can occur through a biological membrane whereas diffusion cannot.
+C) Filtration is the movement of molecules caused by a pressure difference but diffusion does not involve a difference in pressure.
+D) Diffusion is the movement of molecules caused by a pressure difference but filtration does not involve a difference in pressure.
+ANS: C
+Explanation: filtration requires a pressure difference, diffusion does not. Both diffusion and filtration can occur through a membrane.
+
+13.What is the difference between osmosis and dialysis?
+A) Dialysis involves the movement of solute molecules whereas osmosis refers to water molecules.
+B) Osmosis involves the movement of solute molecules whereas dialysis refers to water molecules.
+C) Osmosis involves movement of molecules across a membrane but dialysis does not involve a membrane.
+D) Dialysis involves movement of molecules across a membrane but osmosis does not involve a membrane.
+ANS: A
+Explanation: osmosis refers to the movement of water molecules (only) through a membrane. Only choice A is consistent with this.
+
+14.Which one of the following processes that describe movement of the particles in a solution does NOT require passing through a membrane?
+A) diffusion
+B) filtration
+C) dialysis
+D) osmosis
+ANS: A
+Explanation: While diffusion can occur through a membrane, its presence is not required in order to define diffusion.
+
+15.Which statement about the osmotic pressure of an aqueous solution is correct? Osmotic pressure:
+A) is an indication of the force with which pure water moves into that solution.
+B) is a measure of the tendency of water to move into the solution.
+C) is the drawing power of water and depends on the number of molecules in the solution.
+D) of a solution is called its osmolarity in mosmol/kg.
+ANS: B
+Explanation: solutions with high “osmotic pressure” are concentrated solutions and so water will diffuse into such solutions from solutions of lower concentration – a process known as osmosis. The other answers are nonsense.
+
+16.Diffusion is the term given to the process where:
+A) molecules move along their concentration gradient from high concentration to low concentration.
+B) water moves along its concentration gradient from low concentration to high concentration.
+C) ATP is used to move ions along their concentration gradient.
+D) a membrane protein, by changing shape after binding to a molecule, moves the molecule across the plasma membrane.
+ANS: A
+Explanation: This is the only correct definition of diffusion.
+
+17.By what name is the movement of solute particles through a selectively perme- able membrane, in the direction of their concentration gradient known?
+A) diffusion
+B) dialysis
+C) osmosis
+D) filtration
+ANS: B
+Explanation: while the solute particles are indeed diffusing through the mem- brane, the presence of a membrane makes dialysis the appropriate term to use. Diffusion is also applied to the movement of particles within a solution even when they do not cross a membrane.
+
+18.Blood has a slightly higher osmotic pressure than the interstitial fluid that surrounds capillaries. What is the effect of this?
+A) Water will tend to move from the interstitial fluid into the capillaries.
+B) The solution concentration of blood is less than the solution concentration of interstitial fluid.
+C) Water will tend to move from the capillaries into the interstitial fluid.
+D) Capillaries will expand in diameter.
+ANS: A
+Explanation: water will move through a membrane into a solution of higher osmotic pressure (the blood) from a solution of lower osmotic pressure.
+
+19.Consider a patient undergoing kidney dialysis, whose blood has bicarbonate at a concentration of 14 mmol/L and urea at 23 mmol/L. The dialysing liquid has bicarbonate at 32 mmol/L and urea at 0 mmol/L. In which direction will these substances flow?
+A) bicarbonate will flow from patient’s blood to dialysing liquid, urea will flow from patient’s blood into dialysing liquid.
+B) bicarbonate will flow from dialysing liquid to patient’s blood, urea will flow from dialysing liquid into patient’s blood.
+C) bicarbonate will flow from dialysing liquid to patient’s blood, urea will flow from patient’s blood into dialysing liquid.
+D) bicarbonate will flow from patient’s blood to dialysing liquid, urea will flow from dialysing liquid to patient’s blood.
+ANS: C
+Explanation: molecules will flow from areas of high concentration towards areas of low concentration. Hence bicarbonate will flow from the dialysing liquid at 32 to blood at 14 mmol/L, while urea will flow from blood at 23 mmol/L to the dialysing liquid at 0 mmol/L.
+
+20.Which is the best description for the osmotic pressure of a solution?
+A) A: the pressure that needs to be applied to the solution while it is separated from pure water by a membrane, to prevent a net flow of water through the membrane into the solution.
+B) B: the force with which pure water moves through a membrane into that solution as a result of its solute concentration.
+C) C: the movement of particles through a membrane, where the movement is caused by a hydrostatic pressure.
+D) D: it is the force of attraction for water by undissolved particles in the solution.
+ANS: A
+Explanation: the application of a hydrostatic pressure to a solution in order to oppose and prevent the osmotic flow of water into that liquid is the basis for assigning a value to that solution for its “osmotic pressure”. Osmotic pressure is the value of this externally applied hydrostatic pressure. Choice C describes filtration. Choices B & D are nonsense.
+
+21.In which of the following situations would the osmotic pressure of blood be the greatest?
+A) in a patient whose blood osmolarity is 290 mosmol/L
+B) in a patient whose blood osmolarity is 280 mosmol/L and whose urine spe- cific gravity is 1.002
+C) in a patient with hyperthermia
+D) in a patient who is dehydrated
+ANS: D
+Explanation: the healthy range for blood osmolarity is 280–300 mosmol/L. a dehydrated person would have a blood osmolarity approaching or exceeding 300 mosmol/L.
+
+22.Osmosis involves movement of water from where the: 
+A) water concentration is lower to where it is higher
+B) solute concentration is higher to where it is lower
+C) solution is more concentrated to where it is less concentrated
+D) water concentration is higher to where it is lower
+ANS: D
+Explanation: in osmosis water molecules flow down their concentration gradient (and from weaker solutions to more concentrated ones).
+
+23.What is “osmotic pressure”?
+A) the pressure exerted by a solution due to its concentration
+B) a measure of solution concentration expressed in the units of pressure
+C) the pressure exerted by the blood colloidal plasma proteins
+D) the pressure that drives water movement out of the arterial end of capillaries
+ANS: B
+Explanation: Osmotic pressure is a way of expressing solution concentration. The word pressure in the term “osmotic pressure” makes it tempting to erroneously think of the solution exerting some type of pressure due to its solutes.
+
+24.If a red blood cell (rbc) is placed in a solution that has a greater concentration than that inside the rbc, what will happen?
+A) the rbc will crenate
+B) the rbc will haemolyse
+C) there will be a net movement of water out of the rbc into the solution
+D) there will be no net movement of water out of the rbc
+ANS: C
+Explanation: water will flow by osmosis from the rbc into the surrounding solu- tion. If the difference in concentration is large enough, the outflow of water will be large, and the rbc will also shrivel (crenate) as a result of this outflow.
+
+25.One of the following is an example of osmosis. Which one?
+A) water moving from the glomerulus of a nephron into the Bowman’s capsule
+B) water leaving a blood capillary from close to its arteriole end, to enter the interstitial fluid
+C) water entering a red blood cell that is in a 0.8% sodium chloride solution, by passing through its plasma membrane
+D) water evaporating from perspiration on the skin
+ANS: C
+Explanation: Osmosis refers to the movement of water through a membrane in the direction of its concentration gradient. A 0.8 % solution is hypotonic to the contents of the rbc, so water would enter the cell. In both choice A & C, the water is moving due to a hydrostatic pressure difference.
+
+26.The Na+/K+ ATPase pump in the plasma membrane moves Na out of the cell and K into the cell against their concentration gradient. Then Na reenters the cell and K leaks out of the cell, along their concentration gradients through their membrane channels. What is the movement of Na and K along their concentra- tion gradients called?
+A) Active transport
+B) Diffusion
+C) Facilitated diffusion
+D) Osmosis
+ANS: B
+Explanation: The movement of these ions down their concentration gradient is diffusion. The concentration gradient is produced by the active transport of the Na+/K+ ATPase pump.
+
+27.Which of the following statements is FALSE?
+A) Filtration is movement of water caused by a difference in hydrostatic pres- sure, while diffusion results from a difference in concentration.
+B) Both diffusion and filtration will tend to continue till there is an equal amount on both sides of the membrane.
+C) Any hypertonic solution has a concentration lower than that of blood while a hypotonic solution has a concentration greater than the blood.
+D) Water moves into a red blood cell resulting in haemolysis, and out of a cell by a process called plasmolysis.
+ANS: C
+Explanation: Hypertonic solutions have a concentration greater than blood. Plasmolysis is the process in which cells lose water in a hypertonic solution.

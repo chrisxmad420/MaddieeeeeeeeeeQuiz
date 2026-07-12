@@ -1,0 +1,183 @@
+1.The term “chromatin” would be used in reference to which of the following?
+A) genetic substance
+B) cellular energy
+C) membrane support
+D) nuclear membrane
+ANS: A
+Explanation: Chromatin is DNA & the associated proteins so pertains to genetic material.
+
+2.In protein synthesis, where dose translation occur? In the: A. cytoplasm between ribosomes, tRNA and mRNA
+A) cytoplasm between ribosomes, tRNA and mRNA
+B) nucleus between ribosomes, tRNA and mRNA
+C) nucleus between DNA and mRNA
+D) cytoplasm between DNA and mRNA
+ANS: A
+Explanation: translation occurs in the cytoplasm (transcription occurs in the nucleus). DNA does not exist in the cytoplasm.
+
+3.If the DNA strand sequence of bases is CTT AGA CTA ATA, what would the tRNA read?
+A) GAA TCT GAT TAT
+B) CUU AGA CUA AUA
+C) GAA UCU GAU UAU
+D) GUU ACA GUA AUA
+ANS: C
+Explanation: guanine (G) must be matched to cytosine (C) and vice versa. Adenine (A) must match with thymine (T). In RNA, uracil (U) replaces thy- mine, while both bind to adenine. Hence U must be matched to A.
+
+4.Which one of the following statements best describes DNA?
+A) single stranded, deoxyribonucleic acid
+B) single stranded, ribonucleic acid
+C) double stranded, deoxyribonucleic acid
+D) double stranded, ribonucleic acid
+ANS: C
+Explanation: DNA is double stranded, while the “D” refers to “deoxy-”.
+
+5.In which phase of mitosis would chromosomes line up at the centre of the spindle:
+A) anaphase
+B) interphase
+C) prophase
+D) metaphase
+ANS: D
+Explanation: Remember the metaphase plate occupies the middle of the cell.
+
+6.In a cell cycle which phase takes the longest time to complete:
+A) anaphase
+B) interphase
+C) prophase
+D) telophase
+ANS: B
+Explanation: interphase is the time when the cell is performing its normal func- tion and not dividing.
+
+7.What is the purpose of meiosis? To produce: 
+A) DNA
+B) somatic cells
+C) diploid cells
+D) haploid cells
+ANS: D
+Explanation: meiosis produces sperm or egg so these must have half the com- plement of chromosomes (be haploid) to allow for the full complement to be present (and not more!) when sperm combines with egg.
+
+8.What results from the events that occur during metaphase of mitosis?
+A) The nuclear membranes form around two nuclei.
+B) The chromosomes are aligned on a plane in the centre of the cell.
+C) The chromosomes become visible and attach to the spindle fibres.
+D) The chromatids from each chromosome separate and move to opposite sides of the cell.
+ANS: B
+Explanation: during metaphase, chromosomes are arranged on a plane (the metaphase plate) in the middle of the cell, attached to microtubules of the spindle.
+
+9.What is the name of the process of division of a somatic cell’s nucleus into two daughter nuclei?
+A) prophase
+B) cytokinesis
+C) mitosis
+D) meiosis
+ANS: C
+Explanation: mitosis involves somatic cells. Meiosis refers to the production of the sex cells.
+
+10.In a strand of DNA, what is the combination of deoxyribose and phosphate and base known as?
+A) A ribosome
+B) A chromatid
+C) A codon
+D) A nucleotide
+ANS: D
+Explanation: three nucleotides form a codon and many codons form a chromatid.
+
+11.What happens during anaphase of mitosis?
+A) spindle fibres pull each chromatid to opposite sides of the cell
+B) the sense and non-sense strands “unzip” along their hydrogen bonds
+C) RNA polymerase forms a complementary strand by reading the sense strand
+D) the cell cytoplasm divides into two cells
+ANS: A
+Explanation: separation of the two chromatids of a chromosome occurs at ana- phase. Choice D is cytokinesis and begins in late anaphase and continues into telophase.
+
+12.The process by which information is read from DNA, encoded and transported outside the nucleus is known as:
+A) translation
+B) transcription
+C) encoding
+D) catalysis
+ANS: B
+Explanation: to “transcribe” is to record the information from a source and to record it at another place (onto mRNA). Then messenger RNA moves out of the nucleus
+
+13.How many nucleotides are required to code for a single amino acid?
+A) twenty
+B) five
+C) three
+D) one
+ANS: C
+Explanation: A sequence of three nucleotides constitute a codon. Each codon is specific for one of the 20 amino acids.
+
+14.The combination of a sugar, a base and at least one phosphate group is given the general term of:
+A) nucleoside
+B) amino acid
+C) polypeptide
+D) nucleotide
+ANS: D
+Explanation: a nucleoside is a nucleotide without a phosphate group.
+
+15.The nucleus of the cell contains the master nucleic acid:
+A) DNA
+B) RNA
+C) mRNA
+D) tRNA
+ANS: A
+Explanation: DNA exists in the nucleus. The other three are ribonucleic acids.
+
+16.Which of the following is the correct combination of the components for the nucleic acid DNA?
+A) Phosphate, Ribose, Uracil
+B) Phosphate, Deoxyribose, Proline
+C) Phosphate, Ribose, Thymine
+D) Phosphate, Deoxyribose, Adenine
+ANS: D
+Explanation: DNA has the sugar deoxyribose, proline is an amino acid that does not occur in DNA.
+
+17.In the ribosome of a cell, the mRNA is read to produce the particular amino acid sequence for the formation of a protein. What is this process called?
+A) Translation
+B) Transcription
+C) Transportation
+D) Transmutation
+ANS: A
+Explanation: translation occurs in the cytoplasm of a cell with a ribosome. It is when the information in mRNA is read to produce the sequence of amino acids needed to form a protein.
+
+18.Which of the base pairings in DNA would be correct?
+A) A–T pair
+B) A–G pair
+C) C–T pair
+D) C–A pair
+ANS: A
+Explanation: A pairs with T, while C pairs with G.
+
+19.The combination of a sugar and a base is given the general term of: 
+A) nucleoside
+B) amino acid
+C) polypeptide
+D) nucleotide
+ANS: A
+Explanation: a nucleotide is formed from a nucleoside and a phosphate group.
+
+20.The nucleic acid which carries the information for protein synthesis from the cell nucleus to the ribosomes is:
+A) DNA
+B) RNA
+C) mRNA
+D) tRNA
+ANS: C
+Explanation: “messenger” RNA carries the data (the message) from the chro- mosomes in the nucleus to the ribosomes in the cytoplasm.
+
+21.Which of the following is the correct combination of the components for the nucleic acid RNA?
+A) Phosphate, Ribose, Uracil
+B) Phosphate, Deoxyribose, Proline
+C) Phosphate, Ribose, Thymine
+D) Phosphate, Deoxyribose, Adenine
+ANS: A
+Explanation: RNA must have the sugar ribose. Thymine exists in DNA but not RNA, where it is replaced with uracil.
+
+22.In the nucleus of the cell DNA is used as a template to form mRNA. What is the process called?
+A) What is the process called?
+A) Translation
+B) Transcription
+C) Transportation
+ANS: B
+Explanation: transcription refers to the conversion of information on DNA into the form of mRNA.
+
+23.Which statement is true of the 23 chromosomes within a sperm?
+A) 23 chromosomes is the diploid number
+B) 11 chromosomes came from the father, 11 chromosomes came from the mother, while one of either the Y or the X came from the father or mother respectively.
+C) Some of the 23 came from the father and the rest came from the mother.
+D) 11 chromosomes and the Y came from the father, while 11 chromosomes came from the mother.
+ANS: C
+Explanation: A sperm has 23 chromosomes which is the haploid number. The male that produced the sperm has 46 chromosomes (23 pairs) in their somatic

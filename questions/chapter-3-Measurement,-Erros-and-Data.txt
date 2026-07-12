@@ -1,0 +1,240 @@
+1.Say that someone’s body temperature is measured by four different devices and the resulting four measurements are given below. Which reading has an abso- lute error of ± 0.05 °C?
+A) 38 °C
+B) 37.8 °C
+C) 37.85 °C
+D) 37.855 °C
+ANS: B
+Explanation: absolute error is plus or minus half the smallest scale interval. Two times 0.05 = 0.1, so the smallest scale interval is 0.1 of a degree which applies to the 37.8 °C value.
+
+2.What can be correctly said of data that are “normally distributed”?
+A) The upper and lower values of the distribution describe the healthy range of physiological values.
+B) The standard deviation characterises the dispersion of data and the variance characterises the central tendency of the data.
+C) The mean and range are statistics that are strictly only applicable to nor- mally distributed data.
+D) Sixty eight percent of all data values will be within one standard deviation from the mean.
+ANS: D
+Explanation: normally distributed data have this predicable relationship between their mean and the spread of values around the mean.
+
+3.If someone’s height is measured while the person is wearing shoes, the height will be overestimated. This type of error is known as which of the following?
+A) Absolute error
+B) Parallax error
+C) Calibration error
+D) Zeroing error
+ANS: D
+Explanation: zeroing error because in this example, the object being measured is not aligned with the start of the measuring scale.
+
+4.Which of the following metric prefixes is used to denote one thousandth of a gram?
+A) micro
+B) milli
+C) centi
+D) kilo
+ANS: B
+Explanation: “milli” refers to thousandth or 10−3 (nothing to do with million!).
+
+5.What is the standard deviation used for?
+A) as a measure of central tendency
+B) as a measure of dispersion
+C) as a measure of spread of data that are normally distributed
+D) as a measure of the error of the mean value
+ANS: C
+Explanation: B is also correct but is not as good an answer as choice C.
+
+6.A bathroom scales displays a mass reading of 68.4 kg. Which one of the follow- ing could NOT be the true mass of the person standing on the scales?
+A) 68.40 kg
+B) 68.44 kg
+C) 68.47 kg
+D) 68.37 kg
+ANS: C
+Explanation: A reading of 68.4 (that is, stated to the nearest 0.1 kg) means that the actual value is between 68.35 and 68.44, so only 68.47 (which is closer to
+
+7.Which of the following g does NOT describe a milligram?
+A) 1 × 103 gram
+B) 1 × 10−3 gram
+C) one thousandth of a gram
+D) 0.001 gram
+ANS: A
+Explanation: This (1 × 103 gram) is one thousand grams = 1 kilogram.
+
+9.Look again at the figure of a thermometer. What is the absolute error of the tem- perature reading?
+A) ± 0.05 °C
+B) ± 0.5 °C
+C) ± 1.0 °C
+D) ± 5.0 °C
+ANS: B
+Explanation: absolute error is plus or minus half of the smallest scale interval (which is 1 degree), half of one is 0.
+
+10.What information does the “standard deviation” of a mean value tell us?
+A) It gives us the healthy range of values for the measured physiological quantity.
+B) It is the range within which 68 % of measured values are found.
+C) It tells us that the measured values are normally distributed.
+D) It tells us the number of values that were used to calculate the mean. 
+ANS: B
+Explanation: C is also correct but choice B is the better answer.
+
+11.On a clinical thermometer where the smallest scale interval is 0.1 °C, a person’s temperature is measured to be 37.7 °C. Which of the listed temperatures could NOT be the person’s true temperature?
+C) Which of the listed temperatures could NOT be the person’s true temperature?
+A) 37.72 °C
+B) 37.76 °C
+C) 37.67 °C
+ANS: B
+Explanation: an actual value of 37.76 °C would be seen on a scale that has 0.1 as its smallest interval, as 37.
+
+12.How many micrograms are there in 5 milligram?
+A) 0.005
+B) 0.5
+C) 500
+D) 5000
+ANS: D
+Explanation: one milligram is one thousand micrograms, so 5 mg = 5000 μg.
+
+13.What does the standard deviation of the mean represent? For values that are normally distributed, it represents:
+A) the value above and below the mean that includes 68 % of all data values
+B) the difference between the highest data value and the lowest data value
+C) the average of the difference between each data value and the mean value.
+D) the spread of the normal distribution.
+ANS: A
+Explanation: The term “standard” in standard deviation of a distribution of measured values, means that it may be relied upon to encompass 68 % of all measured values.
+
+14.Given that a milligram 1 × 10−3 gram, what is a microgram?
+A) 1 × 103 gram
+B) One thousand milligram
+C) 1 × 10−6 gram
+D) 0.001 gram
+ANS: C
+Explanation: a microgram is one millionth (0.000 001 or 10-6) of a gram. A = 1 kg; B = 1 g; D = 1 milligram.
+
+15.How many micrograms are there in one milligram?
+A) 0.001
+B) 0.1
+C) 100
+D) 1000
+ANS: D
+Explanation: 1 μg = 10−3 × 1 mg, so one thousand micrograms is the same as one milligram.
+
+16.How many milligrams are there in one microgram?
+A) 0.001
+B) 1000
+C) 0.1
+D) 1,000,000
+ANS: A
+Explanation: 1 mg = 103 × 1 μg, so one thousandth of a milligram is the same as one microgram.
+
+17.What is meant when a person’s mass is stated as 73.6 kg? That
+A) the mass is closer to 73.6 than it is to 73.7 or 73.5
+B) the mass is closer to 73.6 than to any other value
+C) the mass is between 73.5 and 73.7
+D) the mass is 73.6 ± 0.1 kg
+ANS: A
+Explanation: because the mass is stated to one decimal place, the absolute error is ± 0.
+
+18.Which of the following statements applies to the statistic known as the “stan- dard deviation”?
+A) It is a measure of central tendency.
+B) It is only applicable to qualitative measurements.
+C) Standard deviation is also known as the “variance”.
+D) 95 % of all data lie within two standard deviations of the mean. 
+ANS: D
+Explanation: This is the only true statement for normally distrusted data.
+
+19.Which of the following units is NOT part of the Australian metric system of units?
+A) mmHg for measuring blood pressure
+B) degree Celsius for measuring temperature
+C) Pascal for measuring pressure
+D) second for measuring time
+ANS: A
+Explanation: Pascal (Pa) is the SI unit for pressure.
+
+20.In the Australian Metric System of units, what does the prefix micro stand for?
+A) one thousand
+B) one thousandth
+C) one million
+D) one millionth
+ANS: D
+Explanation: one millionth = 10−6
+
+21.Which of the following measurements is a semi-quantitative one?
+A) a blood pressure of 120/80 mmHg
+B) a blood glucose level of + + +
+C) a state of anxiety measure of “calm”
+D) the patient’s name is Tim Cruise
+ANS: B
+Explanation: the number of “+” signs indicates a level of magnitude that is semi-quantitative, but there is no unit of magnitude. C is “qualitative”, while D is “nominal’.
+
+22.A baby’s mass measurement is 3.8 kg ± 0.05 kg. What is the absolute error in the measurement?
+A) ± 0.05 ÷ 3.8
+B) ± (0.05 ÷ 3.8) × 100 %
+C) ± 0.05 kg
+D) 0.05 kg
+ANS: C
+Explanation: by definition, absolute error is half the smallest scale interval (0.1 in this case) above and below the measured value.
+
+23.1 ml of water has a mass of 1.00 g. Which of the following sets of 3 measure- ments of the mass of 1 ml of water is the most precise set?
+A) 0.98 g, 1.00 g, 1.02 g
+B) 0.99 g, 0.99 g, 0.99 g
+C) 1.00 g, 1.01 g, 1.02 g
+D) 0.99 g, 0.99 g, 1.00 g
+ANS: B
+Explanation: precision refers to the repeatability of the measurement. In choice B, all measurements are the same so are precise.
+
+24.Systematic errors arise from some inadequacy of equipment or technique. Which of the following is NOT an example of systematic error?
+A) parallax error
+B) calibration error
+C) random error
+D) zeroing error
+ANS: C
+Explanation: as the words suggest, random error is not systematic as it is unpredictable.
+
+25.The median is a measure of central tendency. It may be defined as:
+A) the value that has half the values greater than it and half less than it
+B) the value that occurs most often
+C) the distribution of values that has the mode, mean and average equal to each other
+D) the sum of all values divided by the number of values.
+ANS: A
+Explanation: median is the mid-point of the number of measured values. The value that appears most often in a set of data is called the mode.
+
+26.What is 3400 square centimetres converted to square metres?
+A) 0.0034 m2
+B) 0.34 m2
+C) 3.4 m2
+D) 34 m2
+ANS: B
+Explanation: A square metre has sides that are 100 cm long, so 100 × 100 = 10,000 cm2 in a square metre. So 3400÷10,000 = 0.
+
+27.What is the number 0.028 when correctly expressed in scientific notation?
+A) 28 × 102
+B) 2.8 × 102
+C) 2.8 × 10−2
+D) 28 × 10−2
+ANS: C
+Explanation: scientific notation requires one number to the right of the decimal point (choices B & C). The decimal point must be shifted 2 places to achieve this. As 0.028 is less than one, the power of ten is negative.
+
+28.Which of the following numbers has four significant figures?
+A) 3300.0
+B) 37.60
+C) 0.008
+D) 0.0540
+ANS: B
+Explanation: any zero to the left of the first non-zero digit – when approached from the left – are not significant (zeros on the right are).
+
+29.Which of the following statements involves a nominal measurement?
+A) James has a height of 170 cm.
+B) Barry’s blood pressure is elevated.
+C) Gino was born in Italy.
+D) More than 5 % of Australians receive a pension.
+ANS: C
+Explanation: Gino’s birthplace is “named” so the information is nominal, but no other information is available.
+
+30.In the Australian Metric System of measurement what does the prefix “milli”
+stand for?
+A) one thousandth
+B) one thousand
+C) one millionth
+D) one million
+ANS: A
+Explanation: milli = one thousandth = 10−3
+
+31.The millimetre of mercury is a unit commonly used for the measurement of blood pressure. Which of the following statements about this unit is true?
+A) It is part of the Australian Metric System but not part of the SI system.
+B) It is part of the SI system but not part of the Australian Metric System.
+C) It belongs to both the SI system and the Australian Metric System.
+D) It does not belong to either the SI system or the Australian Metric System.
+ANS: D
+Explanation: both the SI system and the Australian Metric System are “metric”, the mmHg is not (despite having millimetre in its name).

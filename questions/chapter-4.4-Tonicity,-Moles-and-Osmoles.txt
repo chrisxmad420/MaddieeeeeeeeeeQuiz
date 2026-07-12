@@ -1,0 +1,313 @@
+1.What information does the molarity of a solution provide?
+A) the density of a solution
+B) the number of dissolved particles per litre of solution
+C) the mass of a mole of the substance
+D) the tonicity of the solution
+ANS: B
+Explanation: if molarity is 1.2 mmol/L = 1.2 × 10−3 × (6.02 × 1023) particles per litre
+
+2.What term is applied to an intravenous solution that would cause a net movement of water out of red blood cells?
+A) hypertonic
+B) supertonic
+C) epitonic
+D) hypotonic
+ANS: A
+Explanation: “hyper-” refers to greater (tonicity) than inside an rbc. Hence water would move from the less concentrated solution (within the rbc) to the exterior.
+
+3.What is a definition of an osmole? The amount of substance that: A. must be dissolved to produce 6 × 1023 solute particles.
+A) must be dissolved to produce 6 × 1023 solute particles.
+B) must be dissolved to produce an osmotic pressure of 1.0 mmHg.
+C) must be dissolved to produce an isotonic solution.
+D) contains 6 × 1023 particles.
+ANS: A
+Explanation: Ionic substances (e.g. Na+Cl−) separate into ions when dissolved. Hence a mole of NaCl would produce two osmoles of ions (one mole of Na ions and one mole of Cl ions). Hence half of a mole of NaCl, when dissolved, would result in one osmole of dissolved particles (ions).
+
+4.Choose the solution below that has the lowest concentration of dissolved particles.
+A) 0.9 % NaCl
+B) isotonic powerade
+C) 5 % glucose
+D) hypotonic saline
+ANS: D
+Explanation: choices A, B & C are all isotonic solutions. “hypo” refers to a solution concentration that is less than that of human blood.
+
+5.What can be correctly said of an isotonic intravenous solution? An isotonic solution:
+A) causes water to move out of red blood cells.
+B) causes no net movement of water into or out of red blood cells.
+C) has the same solutes in the same solution concentration as blood plasma
+4.4 Tonicity, Moles and Osmoles 71
+D) causes water to move into red blood cells.
+ANS: B
+Explanation: isotonic means that the IV solution has the same concentration of particles (albeit the particles themselves may be different) as in rbc, hence there is no net osmotic flow.
+
+6.What would be the concentration of a solution that causes red blood cells placed in it to swell?
+A) hypotonic
+B) isotonic
+C) hypertonic
+D) iso-osmotic
+ANS: A
+Explanation: If the rbc swell, that means water is entering the cells, hence the surrounding liquid is at a lower concentration (i.e. hypotonic) to the liquid inside rbc.
+
+7.The unit milliosmoles per litre (mosmol/L) refers to which of the following?
+A) the number of particles in solution, in multiples of 6 × 1020 per litre.
+B) 103 times the number of moles of particles in a litre of solution.
+C) the number of molecules per litre of solution.
+D) the number of moles per millilitre of solution.
+ANS: A
+Explanation: A milliosmole (mosmol) is 10−3 × (6 × 1023) particles which is
+6 ×
+
+8.A hypertonic solution is one which
+A) has an osmotic pressure that is different to that inside red blood cells
+B) has an osmolarity less than that of red blood cells
+C) causes no net movement of water through the membrane of red blood cells
+D) has an osmolarity greater than that of red blood cells
+ANS: D
+Explanation: “Hyper” means greater than the tonicity (or osmolarity) inside an rbc.
+
+9.Given that one mole of Na+Cl− has a mass of 58.5 g, what would be the concen- tration of particles when 0.9 g of Na+Cl− is dissolved in 100 ml of water?
+A) 117 mmol/L
+B) 150 mmol/L
+C) 150 mosmol/L
+D) 300 mosmol/L
+ANS: D
+Explanation: the number of moles in 0.9 g = 0.9 g/58.5 g/mol = 0.0154 mole of Na+Cl−. However NaCl separates into ions when dissolved, so that there will be 0.0154 mol of Na and 0.0154 mol of Cl, hence 0.0308 osmol of parti- cles = 30.8 mosmol per 100 ml. In one litre, the number of moles would be ten times greater, so 300 mosmol/L (is closest).
+
+10.The unit millimoles per litre (mmol/L) refers to which of the following?
+A) the number of particles in solution, in multiples of 6 × 1020 per litre.
+B) 103 times the number of moles of particles in a litre of solution.
+C) the number of molecules per litre of solution.
+D) the number of moles per millilitre of solution.
+ANS: A
+Explanation: A mole = 6 × 1023 particles, a millimole (mmol) = 6 × 1020 particles. When dissolved, whether the particles are ions or molecules makes no difference.
+
+11.An isotonic solution is one which
+A) has an osmotic pressure that is different to red blood cells
+B) has an osmolarity less than that of red blood cells
+C) causes no net movement of water between the solution and red blood cells
+D) has an osmolarity greater than that of red blood cells
+ANS: C
+Explanation: “iso” means “the same”. When the concentration of the surround- ing liquid is the same as that inside a rbc, then no net water movement occurs.
+
+12.A hypotonic solution may be characterised by which of the following?
+A) a solution whose osmolarity is greater than that of blood.
+B) one that causes red blood cells to crenate.
+C) a solution within the range 280–300 mosmol/L
+D) one that causes a net water movement into red blood cells.
+ANS: D
+Explanation: “hypo” means less concentrated than the solution inside a rbc. This in turn means that the concentration of water molecules is greater outside the cell than inside. So there will be a net water flow by osmosis into the rbc.
+
+13.Which of the following statements could be applied to a hypertonic solution?
+A) it causes red blood cells to shrink and crenate.
+B) it causes red blood cells to swell and perhaps lyse.
+C) it is a solution with an osmolarity less than that of blood.
+D) it causes movement of water into red blood cells.
+ANS: A
+Explanation: rbc placed in a hypertonic solution would lose water to the solu- tion, so their volume would decrease (they would shrink). This would cause their membrane to become wrinkled (to crenate).
+
+14.To what does the term “mole” refer?
+A) the smallest particle of a molecular compound.
+B) the amount of solute that must be dissolved in water to make an isotonic solution.
+C) an amount of substance that contains 6.02 × 1023 particles.
+D) a group of 2 or more atoms bonded together.
+ANS: C
+Explanation: mole is the SI unit for “amount of substance”. Choice C is the correct number.
+
+15.What do solutions of 5 % glucose, 9.5 % sucrose and 0.9 % sodium chloride have in common? They:
+A) all have the same concentration
+B) are all hypotonic to plasma
+C) all contain the same number of dissolved particles per unit volume.
+D) are all hypertonic to plasma
+ANS: C
+Explanation: the three solutions are isotonic to blood. Choice A is incorrect they have different (weight/volume) concentrations.
+
+16.An intravenous fluid that is hypertonic to blood would have what effect on the red blood cells?
+A) it would have no effect.
+B) the number of red blood cells would increase
+C) red blood cells would lyse.
+D) it would cause red blood cells to crenate.
+ANS: D
+Explanation: rbc in contact with a hypertonic solution would lose water to the solution and shrink. This would cause their plasma membrane to crenate (wrinkle).
+
+17.An intravenous fluid that is isotonic to blood would have what effect on the red blood cells?
+A) it would have no effect.
+B) it would cause red blood cells to crenate.
+C) red blood cells would lyse.
+D) the blood volume would increase.
+ANS: A
+Explanation: rbc would be unaffected by an isotonic solution as there will be no net flow of water into or out of the cells.
+
+18.What may be said of isotonic solutions? They have:
+A) had added the same number of moles of solid substance per volume of solution.
+B) the same number of grams of solute per volume of solution.
+C) the same percent concentration.
+D) the same number of dissolved particles per volume of solution.
+ANS: D
+Explanation: Choice A is incorrect as a mole of an ionic substance will result in 2 or 3 osmoles of dissolved particles. (Choices B & C are incorrect).
+
+6.Given that the atomic weights are: C = 12, H = 1 and O = 16, how many moles of fructose are there in 36 grams?
+A) 0.01 moles
+B) 0.10 moles
+C) 0.20 moles
+D) 0.50 moles
+ANS: C
+Explanation: Mass of one mole of fructose = (6 × 12) + (12 × 1) + (6 × 16) = 72 + 12 + 96 = 180 g. 36 g is less than one mole. Number of moles = 36 g/180 g per mol = 0.2 moles
+
+5.Given that the atomic weights are: C = 12, H = 1 and O = 16, how many moles of ribose are there in 3 grams?
+A) 0.01 moles
+B) 0.02 moles
+C) 0.05 moles
+D) 0.10 moles
+ANS: B
+Explanation: Mass of one mole of ribose = (5 × 12) + (10 × 1) + (5 × 16) = 60 + 10 + 80 = 150 g. 3 g is less than one mole. Number of moles = 3 g/150 g per mol = 0.02 moles
+
+21.A solution is prepared containing 2 % sodium chloride (Na+Cl−). Which of the following best describes the osmolarity of this solution? (Note : Na = 23, Cl = 35.5)
+A) 340 mosmol/L
+B) 680 mosmol/L
+C) 340 osmol/L
+D) 680 osmol/L
+ANS: B
+Explanation: 2 % = 2g/100ml = 20g/l.Massof1molofNa+Cl− = 23 + 35.5 = 58.5g. number of moles of Na+Cl− required for one litre of 2 % solution = 20 g/58.5 g per mol = 0.34 mol. Sodium chloride is an ionic substance so dissociates into ions when dissolved. This would produce 0.34 mol of Na and 0.34 mol of Cl = 0.68 osmoles of dissolved particles in the one litre. 0.68 osmol/L = 680 mosmol/L
+
+22.The isotonic concentration for sodium chloride is 0.9 %, and for glucose is 5 %. Which of the following solutions is isotonic with the above solutions? A solu- tion containing:
+A) 5 % glucose and 0.25 % sodium chloride
+B) 0.9 % sodium chloride and 0.5 % glucose
+C) 2.5 % sodium chloride and 2.5 % glucose
+D) 4 % glucose and 0.18 % sodium chloride
+ANS: D
+Explanation: Choices A & B are both hypertonic. 4 % glucose contains 4/5 of the concentration of dissolved particles that are in (isotonic) 5 % glucose.
+
+23.Given that one mole of glucose has a mass of 180 g, how many millimole of glucose does 40 g of glucose contain?
+A) 0.222
+B) 180
+C) 222
+D) 278
+ANS: C
+Explanation: Number of mole of glucose = 40/180 = 0.222 mole. Number of millimole = 222
+
+24.Which of the following statements about an “osmole” is correct? An osmole is the:
+A) same as a mole for ionic substances.
+B) formula weight of a substance expressed in grams.
+C) number of moles multiplied by the number of molecules in the chemical formula.
+D) amount of substance that must be dissolved in order to produce 1.6 × 1023 dissolved particles.
+ANS: D
+Explanation: an osmole refers to the number of solute particles (ions or mole- cules) that exist in solution, after a substance has dissolved.
+
+6.Given that the atomic weights are: C = 12, H = 1 and O = 16, what is the mass of 1 mole of glucose?
+A) 1.8 g
+B) 18 g
+C) 180 g
+D) 1800 g
+ANS: C
+Explanation: Mass of one mole of glucose = (6 × 12) + (12 × 1) + (6 × 16) = 72 + 12 + 96 = 180 g.
+
+11.Given that the atomic weights are: C = 12, H = 1 and O = 16, what is the weight of 1 mole of lactose?
+A) 3.42 g
+B) 34.2 g
+C) 342 g
+D) 3420 g
+ANS: C
+Explanation: Mass of one mole of lactose = (12 × 12) + (22 ×1) + (11 ×16) = 144 + 22 + 176 = 342 g.
+
+27.Red blood cells are added to a hypotonic solution of glucose. Which of the following best describes what you would observe?
+A) The cells would most likely sink to the bottom unaffected
+B) The cells would shrink due to water loss.
+C) The cells would coagulate.
+D) The cells would swell and burst due to intake of water
+ANS: D
+Explanation: A hypotonic solution would result in an inflow of water to rbc. This would stretch their plasma membrane and eventually it would break (burst).
+
+28.A solution that is said to be isotonic to blood has the same: 
+A) percent concentration as blood.
+B) number of moles of dissolved particles as blood.
+C) number of osmoles per litre of dissolved particles as blood.
+D) number of dissolved particles as blood.
+ANS: C
+Explanation: Isotonic means the same number of solute particles per litre. Choice B would also be correct if “moles” was replaced with “moles per litre”.
+
+29.If the following amounts of the given substances were dissolved in water, which would result in four osmoles of dissolved particles?
+A) 2 moles of C6H12O6
+B) 2 moles of Na+Cl−
+C) 2 moles of C12H22O11
+D) 2 moles of (Na+)2SO42−
+ANS: B
+Explanation: Osmole is a term used when the solute particles came from an ionic substance. Osmoles = moles × number of ions in formula. There are two ions in the formula for sodium chloride, hence 4 osmoles. There are three ions in the formula for sodium sulphate, hence 6 osmoles.
+
+30.What is the difference between “molarity” and “osmolarity”?
+A) molarity applies only to covalent compounds while osmolarity applies only to ionic compounds.
+B) osmolarity is molarity multiplied by two.
+C) the molarity and osmolarity of a solution is the same for dissolved ionic compounds, but are different for dissolved covalent compounds.
+D) osmolarity refers to the concentration of dissolved particles in a solution which may not be the same as the number of moles of substance that was dissolved per litre of solution.
+ANS: D
+Explanation: Choice D is better than choice A as molarity can also be applied to ionic compounds.
+
+31.Human blood has an osmolarity that lies within the range 280–300 mosmol/L. Which of the following statements is correct?
+A) an isotonic solution has osmolarity that is either less than 280 or greater than 300 mosmol/L
+B) a hypotonic solution has osmolarity between 280 and 300 mosmol/L
+C) a hypertonic solution has osmolarity between 280 and 300 mosmol/L
+D) an isotonic solution has osmolarity between 280 and 300 mosmol/L
+ANS: D
+Explanation: An isotonic solution has the same osmolarity as blood.
+
+32.What distinguishes an osmole from a mole?
+A) In a sample of substance, the number of osmoles is twice the number of moles
+B) Both mole and osmole may be used in reference to ionic compounds, while covalent compounds are described by mole alone.
+C) the mass of a mole is the sum of the relative atomic masses (RAM) of the atoms in the formula stated as grams. An osmole is half of this mass.
+D) an osmole applies only to covalent molecular substances, whereas a mole is validly applied to both covalent and ionic substances.
+ANS: B
+Explanation: Both mole and osmole may be used in reference to ionic com- pounds (because the atoms of ionic compounds separate into their constituent ions when dissolved), while the atoms within covalent compounds remain as molecules even when dissolved.
+
+33.Which of the four IV solutions below is hypotonic?
+A) 0.18 % sodium chloride and 4 % glucose
+B) 0.3 % sodium chloride and 3.3 % glucose
+C) 0.45 % sodium chloride
+D) 0.9 % sodium chloride
+ANS: C
+Explanation: As 0.9 % NaCl is isotonic, and 0.45 % is less than 0.9 %, it must be hypotonic (and there is only one best correct answer!). A is “4 % and a fifth” while B is “3.3 % and a third”.
+
+34.Which of the following solutions is the most hypertonic?
+A) 0.3 % sodium chloride and 3.3 % glucose
+B) 0.45 % sodium chloride and 2.5 % glucose
+C) 0.45 % sodium chloride
+D) 10 % glucose
+ANS: D
+Explanation: 5 % glucose is isotonic, so 10 % must be hypertonic. Choices A & B are isotonic, while choice C is hypotonic.
+
+35.Given that a mole is 6 × 1023 particles, what is a millimole?
+A) 6 × 1020 particles
+B) one thousand moles
+C) 6 × 1026 particles
+D) 0.0001 moles
+ANS: A
+Explanation: a millimole is one thousandth (or 0.001) of a mole.1 milli- mole = 10−3 × (6 × 1023) = 6 × 1020 particles.
+
+36.A solution that is isotonic to blood plasma is one which
+A) contains 0.5 % glucose
+B) must contain the same solutes as blood and in the same concentration as in blood
+C) has an osmolarity between 280 and 300 mosmol/L
+D) causes no net movement of water into or out of cells
+ANS: D
+Explanation: The concept of tonicity involves reference to a membrane (in this case the plasma membrane of a rbc). Osmolarity is a property of the solution (and of how much solute is dissolved in it) and exists whether a semi-perme- able membrane is present or not.
+
+37.Which of the following quantities of substance would, when dissolved in one litre of water, produce a solution with the highest osmolarity?
+A) 1 mole of glucose molecules (C6H12O6)
+B) 1 mole of Na+Cl− (sodium chloride)
+C) 1 mole of haemoglobin molecules
+D) 1 osmole of K+ (potassium ions)
+ANS: B
+Explanation: Sodium chloride is an ionic substance, so when it dissolves,1 mole of it would separate into 1 mole of individual Na+ ions and 1 mole of Cl− ions giving a total of 2 osmoles of separate particles (ions) per litre.
+
+38.Given the concentration of Na+ inside the cell is about 10 mmol/L while it is 140 mmol/L in the extracellular fluid. The values for K+ are 140 mmol/L inside the cell and 4 mmol/L extracellularly. In what directions would these ions diffuse?
+A) Na+ would diffuse into the cell while K+ would diffuse out.
+B) K+ would diffuse into the cell while Na + would diffuse out.
+C) Both Na+ and K+ would diffuse out of the cell.
+D) Both Na+ and K+ would diffuse into of the cell.
+ANS: A
+Explanation: Na would diffuse form 140 mmol/L to 10 – the direction of its concentration gradient which is from outside to inside. K would diffuse from 140 mmol/L to 4, that is from inside to outside.
+
+39.Which of the following statements best describes what all isotonic solutions have in common? They:
+A) contain the same concentration of glucose molecules
+B) contain the same total concentration of particles
+C) contain the same concentration of sodium chloride
+D) have the same specific gravity
+ANS: B
+Explanation: While “iso-” refers to the same, it is the concentration of all the dissolved particles be they ions or molecules of any substance that determines tonicity.
